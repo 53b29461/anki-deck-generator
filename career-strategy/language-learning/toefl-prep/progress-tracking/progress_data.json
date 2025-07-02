@@ -1,0 +1,18 @@
+{
+  "daily_records": [],
+  "vocab_progress": {
+    "rank_1": {
+      "completion": 90,
+      "updated_date": "2025-07-02"
+    },
+    "rank_2": {
+      "completion": 90,
+      "updated_date": "2025-07-02"
+    },
+    "rank_3": {
+      "completion": 20,
+      "updated_date": "2025-07-02"
+    }
+  },
+  "mock_tests": []
+}
