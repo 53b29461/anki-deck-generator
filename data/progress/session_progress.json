@@ -6,17 +6,18 @@
     "total_words": 1159
   },
   "current_status": {
-    "completed_words": 30,
+    "completed_words": 40,
     "current_session": 1,
-    "current_batch_start": 31,
+    "current_batch_start": 41,
     "current_batch_end": 108,
-    "last_processed_word": "utopia",
+    "last_processed_word": "loquacious",
     "session_strategy": "claude-code-direct"
   },
   "completed_words_list": [
     "ambush", "bountiful", "inhale", "crane", "inflame", "predecessor", "meager", "alternative", "tripe", "prawn",
     "offset", "tan", "temperate", "outcome", "hardy", "attorney", "placate", "sea anemone", "homogeneous", "unprecedented",
-    "inundate", "taint", "octopus", "monopoly", "strain", "blackout", "stimulant", "mercantile", "unique", "utopia"
+    "inundate", "taint", "octopus", "monopoly", "strain", "blackout", "stimulant", "mercantile", "unique", "utopia",
+    "built-in", "strand", "arsenal", "insolvent", "decree", "impetus", "precipitate", "intricate", "admonish", "loquacious"
   ],
   "session_history": [
     {

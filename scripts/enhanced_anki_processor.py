@@ -133,6 +133,38 @@ class EnhancedAnkiProcessor:
             return "兵器庫、武器庫、豊富な蓄積"
         elif word == "insolvent":
             return "破産した、支払不能の、債務超過の"
+        elif word == "magnitude":
+            return "大きさ、規模、重要度、等級"
+        elif word == "devoid":
+            return "欠いている、全くない、空の"
+        elif word == "celebrated":
+            return "有名な、著名な、祝われた"
+        elif word == "paralysis":
+            return "麻痺、機能停止、動けない状態"
+        elif word == "reputed":
+            return "評判の、世評の、とされている"
+        elif word == "residue":
+            return "残留物、残渣、痕跡"
+        elif word == "retard":
+            return "遅らせる、妨げる、発達遅延"
+        elif word == "anchor":
+            return "錨、支え、司会者、固定する"
+        elif word == "pod":
+            return "莢、小集団、ポッド"
+        elif word == "viable":
+            return "実行可能な、生存可能な、有効な"
+        elif word == "decree":
+            return "法令、布告、命令、決定する"
+        elif word == "impetus":
+            return "推進力、弾み、刺激、原動力"
+        elif word == "precipitate":
+            return "引き起こす、急激に起こる、沈殿させる"
+        elif word == "intricate":
+            return "複雑な、込み入った、精巧な"
+        elif word == "admonish":
+            return "忠告する、警告する、戒める"
+        elif word == "loquacious":
+            return "おしゃべりの、話好きの、雄弁な"
         else:
             return f"{word}（高品質定義生成中）"
     
@@ -330,6 +362,102 @@ class EnhancedAnkiProcessor:
                 "Insolvent banks require government intervention.",
                 "He became insolvent due to poor investment decisions."
             ]
+        elif word == "magnitude":
+            return [
+                "The magnitude of the earthquake was 7.2 on the Richter scale.",
+                "We underestimated the magnitude of the problem.",
+                "Stars of different magnitudes shine with varying brightness."
+            ]
+        elif word == "devoid":
+            return [
+                "The desert landscape was devoid of any vegetation.",
+                "His speech was devoid of emotion or passion.",
+                "The room appeared devoid of furniture after the move."
+            ]
+        elif word == "celebrated":
+            return [
+                "The celebrated author won numerous literary awards.",
+                "We celebrated our victory with a grand feast.",
+                "She is a celebrated pianist known worldwide."
+            ]
+        elif word == "paralysis":
+            return [
+                "The accident left him with permanent paralysis.",
+                "Political paralysis prevented any meaningful reform.",
+                "Analysis paralysis occurs when overthinking prevents action."
+            ]
+        elif word == "reputed":
+            return [
+                "He is reputed to be the best surgeon in the city.",
+                "The restaurant is reputed for its authentic cuisine.",
+                "This is a reputed company with excellent customer service."
+            ]
+        elif word == "residue":
+            return [
+                "Clean the pan to remove any food residue.",
+                "Chemical residue remained after the experiment.",
+                "The residue of the old paint showed through the new coat."
+            ]
+        elif word == "retard":
+            return [
+                "Heavy traffic will retard our progress to the airport.",
+                "Cold weather can retard plant growth significantly.",
+                "Fire-retardant materials help retard the spread of flames."
+            ]
+        elif word == "anchor":
+            return [
+                "The ship dropped anchor in the calm harbor.",
+                "Education serves as an anchor for social stability.",
+                "The news anchor delivered the breaking story live."
+            ]
+        elif word == "pod":
+            return [
+                "Peas grow inside protective pods on the plant.",
+                "A pod of dolphins swam alongside our boat.",
+                "The spacecraft's escape pod separated from the main ship."
+            ]
+        elif word == "viable":
+            return [
+                "The business plan seems financially viable.",
+                "Only viable seeds will germinate in spring.",
+                "We need to find a viable solution to this problem."
+            ]
+        elif word == "decree":
+            return [
+                "The king issued a decree banning all public gatherings.",
+                "The court's decree settled the property dispute.",
+                "The new environmental decree takes effect next month."
+            ]
+        elif word == "impetus":
+            return [
+                "The economic crisis provided impetus for major reforms.",
+                "Her success gave him the impetus to pursue his dreams.",
+                "The research findings gained impetus from recent discoveries."
+            ]
+        elif word == "precipitate":
+            return [
+                "The scandal could precipitate a government crisis.",
+                "Heavy rains precipitate flooding in low-lying areas.",
+                "The chemical reaction will precipitate salt crystals."
+            ]
+        elif word == "intricate":
+            return [
+                "The intricate pattern required hours of careful work.",
+                "She navigated the intricate legal procedures successfully.",
+                "The watch had an intricate mechanism of tiny gears."
+            ]
+        elif word == "admonish":
+            return [
+                "The teacher admonished students for arriving late.",
+                "His mother admonished him to drive more carefully.",
+                "The judge admonished the jury to consider only the facts."
+            ]
+        elif word == "loquacious":
+            return [
+                "The loquacious guide entertained tourists with stories.",
+                "She became more loquacious after a few drinks.",
+                "His loquacious nature made him popular at parties."
+            ]
         else:
             return [
                 f"The word '{word}' appears frequently in academic texts.",
@@ -403,6 +531,38 @@ class EnhancedAnkiProcessor:
             return """語源：アラビア語「dar as-sina'a」（製造所）<br>ヴェネツィアの造船所から「武器庫」へ<br>「豊富な蓄積」の意味は武器の豊富な貯蔵から"""
         elif word == "insolvent":
             return """語源：ラテン語「in-（否定）+ solvere（解決する・支払う）」<br>「支払うことができない」→「破産した」<br>solve（解決する）、dissolve（溶解する）と同じ語根"""
+        elif word == "magnitude":
+            return """語源：ラテン語「magnus」（大きい）+ -tude（状態・程度）<br>「magnify（拡大する）」「magnificent（壮大な）」と同じ語根<br>地震の「マグニチュード」で物理的大きさを覚える"""
+        elif word == "devoid":
+            return """語源：古フランス語「desvuidier」（空にする）<br>「de-（完全に）+ void（空の）」<br>「avoid（避ける）」のvoidと同じ語根で「完全に空」"""
+        elif word == "celebrated":
+            return """語源：ラテン語「celebrare」（群衆で賑わわせる）<br>「celebrate（祝う）」の過去分詞形<br>「celebrity（有名人）」と関連付けて記憶"""
+        elif word == "paralysis":
+            return """語源：ギリシャ語「paralysis」（緩める・麻痺）<br>「para-（横に・異常に）+ lysis（緩める・解く）」<br>「paralyze（麻痺させる）」の名詞形"""
+        elif word == "reputed":
+            return """語源：ラテン語「reputare」（考え直す・評価する）<br>「re-（再び）+ putare（考える）」<br>「reputation（評判）」と同じ語根で「評価された」"""
+        elif word == "residue":
+            return """語源：ラテン語「residuum」（残ったもの）<br>「re-（後に）+ sidere（座る・留まる）」<br>「reside（住む）」と同じ語根で「後に残るもの」"""
+        elif word == "retard":
+            return """語源：ラテン語「retardare」（遅らせる）<br>「re-（後ろに）+ tardus（遅い）」<br>「tardy（遅刻の）」と同じ語根、現代では注意深く使用"""
+        elif word == "anchor":
+            return """語源：ギリシャ語「ankura」（鉤・錨）<br>「angle（角度）」と関連する鉤型の道具<br>物理的な錨から「安定の支え」の比喩的意味へ"""
+        elif word == "pod":
+            return """語源：古英語「podde」（袋・鞘）<br>植物の「莢」から動物の「群れ」の意味に拡張<br>現代では宇宙船の「ポッド」まで意味が発展"""
+        elif word == "viable":
+            return """語源：フランス語「viable」（生存可能な）<br>「via（道・方法）+ -able（可能な）」<br>「生きる道がある」→「実行可能な」"""
+        elif word == "decree":
+            return """語源：ラテン語「decretum」（決定されたもの）<br>「de-（完全に）+ cernere（決める・区別する）」<br>「decide（決定する）」と同じ語根で「正式な決定」"""
+        elif word == "impetus":
+            return """語源：ラテン語「impetus」（攻撃・勢い）<br>「im-（中に）+ petere（求める・攻撃する）」<br>「appetite（食欲）」「compete（競争する）」と同じ語根"""
+        elif word == "precipitate":
+            return """語源：ラテン語「praecipitare」（崖から落とす）<br>「prae-（前に）+ caput（頭）」<br>「頭から崖に落ちる」→「急激に起こる」"""
+        elif word == "intricate":
+            return """語源：ラテン語「intricatus」（もつれた・複雑な）<br>「in-（中に）+ tricae（困難・もつれ）」<br>「trick（トリック）」と関連し「もつれて複雑」"""
+        elif word == "admonish":
+            return """語源：ラテン語「admonere」（思い出させる・警告する）<br>「ad-（〜に向かって）+ monere（警告する）」<br>「monitor（監視する）」「monument（記念碑）」と同じ語根"""
+        elif word == "loquacious":
+            return """語源：ラテン語「loquax」（おしゃべりな）<br>「loqui（話す）+ -acious（〜の性質が強い）」<br>「eloquent（雄弁な）」「colloquial（口語の）」と同じ語根"""
         else:
             return f"""語源：{word}の詳細な語源分析<br>関連語との繋がりで記憶を強化<br>TOEFL頻出語として重要度高"""
     
@@ -594,7 +754,7 @@ if __name__ == "__main__":
     output_css = "../data/output/claude-code/card_template.css"
     
     # 改良版TSV生成
-    processor.generate_enhanced_tsv(input_file, output_tsv, limit=30)
+    processor.generate_enhanced_tsv(input_file, output_tsv, limit=40)
     
     # CSS テンプレート生成
     processor.generate_css_template(output_css)
