@@ -1,0 +1,22 @@
+現在のAnkiインポートファイルフォーマットの問題点を指摘してください：
+
+現在の実装：
+```
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+rOl.*)J=yE	Basic	toefl3800::rank3	ambush	<strong>待ち伏せ攻撃、奇襲、伏兵攻撃</strong>
+
+<br><br>
+
+<em>The rebels set up an ambush along the mountain road.</em><br><em>Police officers were killed in a terrorist ambush.</em><br><em>The predator waited in ambush for unsuspecting prey.</em>
+
+<br><br>
+
+<div style='margin-top: 10px; padding: 5px; background-color: #f0f0f0;'>語源：古フランス語「embuscher」（茂みに隠れる）から派生<br>「em-（中に）+ busch（茂み）」→茂みの中に隠れて待ち伏せする<br>military terminology として覚えると、warfare関連語彙と関連付けやすい</div>	claude-generated
+```
+
+問題点と改善すべき点を教えてください。
