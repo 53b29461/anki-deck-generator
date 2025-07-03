@@ -216,7 +216,6 @@ class EnhancedAnkiProcessor:
     font-weight: bold;
     color: #2c3e50;
     text-align: center;
-    border-bottom: 3px solid #3498db;
     padding-bottom: 15px;
     margin-bottom: 20px;
 }
