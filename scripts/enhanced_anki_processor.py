@@ -727,6 +727,238 @@ class EnhancedAnkiProcessor:
             return "感覚のない、麻痺した、しびれた"
         elif word == "conifer":
             return "針葉樹、松柏類"
+        elif word == "virtual":
+            return "仮想の、実質上の"
+        elif word == "descend":
+            return "下る、受け継がれる"
+        elif word == "outlook":
+            return "外観、眺望、見通し"
+        elif word == "defame":
+            return "中傷する、名誉を汚す"
+        elif word == "energize":
+            return "元気付ける、活力を与える"
+        elif word == "seismic":
+            return "地震の、地震性の"
+        elif word == "authentic":
+            return "本物の、信頼できる"
+        elif word == "buoy":
+            return "支える、浮かす、ブイ"
+        elif word == "ardor":
+            return "熱心、熱意"
+        elif word == "siege":
+            return "包囲攻撃、包囲"
+        elif word == "mirage":
+            return "蜃気楼、幻想"
+        elif word == "transparent":
+            return "透明な、明白な"
+        elif word == "assessment":
+            return "査定、評価、アセスメント"
+        elif word == "credence":
+            return "信用、信頼"
+        elif word == "flux":
+            return "流動、流転、変化"
+        elif word == "lumber":
+            return "のしのし歩く、木材"
+        elif word == "solitary":
+            return "孤独の、一人の"
+        elif word == "hinder":
+            return "妨害する、邪魔する"
+        elif word == "constraint":
+            return "強制、制約、束縛"
+        elif word == "practical":
+            return "実際の、実用の、事実上の"
+        elif word == "divergent":
+            return "異なる、分岐する"
+        elif word == "integrate":
+            return "統一する、まとめる、統合する"
+        elif word == "anomaly":
+            return "異例な物、破格、異常"
+        elif word == "proximity":
+            return "近接、近さ"
+        elif word == "affluence":
+            return "富裕、豊富さ"
+        elif word == "amicable":
+            return "友好的な、親しみやすい"
+        elif word == "repent":
+            return "後悔する、悔い改める"
+        elif word == "conversion":
+            return "転換、改宗、換算"
+        elif word == "diurnal":
+            return "昼間活動する、昼間の"
+        elif word == "genetics":
+            return "遺伝学"
+        elif word == "ordeal":
+            return "試練、厳しい体験"
+        elif word == "incubate":
+            return "卵をかえす、培養する"
+        elif word == "cumbersome":
+            return "扱いにくい、厄介な"
+        elif word == "adhere":
+            return "忠実である、固執する、付着する"
+        elif word == "delete":
+            return "削除する、消す"
+        elif word == "maternal":
+            return "母親の、母親らしい"
+        elif word == "spark":
+            return "火花、火花を出す、きっかけ"
+        elif word == "thorax":
+            return "胸部"
+        elif word == "preclude":
+            return "排除する、妨げる"
+        elif word == "exacerbate":
+            return "悪化させる、怒らせる"
+        elif word == "erratic":
+            return "不規則な、とっぴな"
+        elif word == "petty":
+            return "ささいな、小規模な、取るに足らない"
+        elif word == "latency period":
+            return "潜伏期間"
+        elif word == "faction":
+            return "党派、派閥"
+        elif word == "excerpt":
+            return "抜粋、引用"
+        elif word == "woe":
+            return "悲痛、苦悩、災難"
+        elif word == "equivocal":
+            return "はっきりしない、両義にとれる"
+        elif word == "afflict":
+            return "悩ます、苦しめる"
+        elif word == "eradicate":
+            return "根絶する、撲滅する"
+        elif word == "despise":
+            return "軽蔑する、ばかにする"
+        elif word == "riverbed":
+            return "川底"
+        elif word == "rudimentary":
+            return "基本的な、初歩的な、原始的な"
+        elif word == "static":
+            return "変化のない、静的な"
+        elif word == "frontier":
+            return "国境、辺境、フロンティア"
+        elif word == "benign":
+            return "穏やかな、慈悲深い、良性の"
+        elif word == "intermittent":
+            return "断続的な、時々とぎれる"
+        elif word == "onlooker":
+            return "傍観者、見物人"
+        elif word == "spiral":
+            return "らせんの、螺旋状の"
+        elif word == "evasion":
+            return "回避、いいのがれ"
+        elif word == "boost":
+            return "引き上げる、押し上げる"
+        elif word == "remorse":
+            return "深い悔恨、自責の念"
+        elif word == "cite":
+            return "引用する、挙げる"
+        elif word == "missing":
+            return "行方不明の、欠けている"
+        elif word == "oust":
+            return "取り上げる、追放する"
+        elif word == "purchasing power":
+            return "購買力"
+        elif word == "manipulate":
+            return "巧みに操作する、改ざんする"
+        elif word == "overwhelm":
+            return "困惑させる、圧倒する、打ちのめす"
+        elif word == "concession":
+            return "譲歩、承認"
+        elif word == "prone":
+            return "する傾向がある、うつぶせの"
+        elif word == "tariff":
+            return "関税、料金"
+        elif word == "collaborate":
+            return "共同して働く、協力する"
+        elif word == "demystify":
+            return "解明する、神秘性を取り除く"
+        elif word == "utmost":
+            return "最大限の、極度の"
+        elif word == "itchy":
+            return "かゆい、うずうずする"
+        elif word == "perspective":
+            return "観点、眺望、遠近法"
+        elif word == "exhaustive":
+            return "完全な、徹底的な"
+        elif word == "testimony":
+            return "証明、証言"
+        elif word == "cuisine":
+            return "料理法、料理"
+        elif word == "integral":
+            return "不可欠な、完全無欠な、積分の"
+        elif word == "requisite":
+            return "必要な、必須の"
+        elif word == "opportunist":
+            return "日和見主義者、機会主義者"
+        elif word == "legislation":
+            return "法律、立法"
+        elif word == "congruence":
+            return "一致、合同"
+        elif word == "grope":
+            return "手さぐりする、模索する"
+        elif word == "sympathy":
+            return "思いやり、同情"
+        elif word == "don":
+            return "着る、かぶる"
+        elif word == "ratify":
+            return "批准する、承認する"
+        elif word == "tantalize":
+            return "じらす、悩ます"
+        elif word == "stipulate":
+            return "明記する、規定する、要求する"
+        elif word == "pregnant":
+            return "妊娠した、意味深長な"
+        elif word == "clumsy":
+            return "不器用な、へたな"
+        elif word == "resonant":
+            return "朗々とした、鳴り響く、反響する"
+        elif word == "controversial":
+            return "論争的な、議論を呼ぶ"
+        elif word == "exquisite":
+            return "この上なく素晴らしい、洗練された"
+        elif word == "avalanche":
+            return "雪崩、殺到"
+        elif word == "multitude":
+            return "多数、群衆"
+        elif word == "preface":
+            return "序文、前置き"
+        elif word == "enigma":
+            return "謎、不可解なもの"
+        elif word == "bureaucracy":
+            return "官僚政治、官僚制度"
+        elif word == "per capita":
+            return "一人当たりの"
+        elif word == "orientation":
+            return "進路指導、オリエンテーション"
+        elif word == "successive":
+            return "連続する、次の"
+        elif word == "interim":
+            return "しばらくの間、合間、一時の"
+        elif word == "averse":
+            return "嫌って、反対して"
+        elif word == "subsidiary":
+            return "子会社、補助員、補助的な"
+        elif word == "startle":
+            return "驚かせる、びっくりさせる"
+        elif word == "hefty":
+            return "多量の、非常に重い"
+        elif word == "incontrovertible":
+            return "明白な、議論の余地のない"
+        elif word == "prolific":
+            return "多産の、豊かな"
+        elif word == "stereotype":
+            return "固定観念、決まり文句"
+        elif word == "perpetual":
+            return "永続的な、絶え間ない"
+        elif word == "stray":
+            return "それる、脱線する、迷い出た"
+        elif word == "dogmatic":
+            return "独断的な、教義上の"
+        elif word == "embezzle":
+            return "横領する、使い込む"
+        elif word == "statistics":
+            return "統計学、統計資料"
+        elif word == "unleash":
+            return "解放する、感情などを爆発させる"
         else:
             return f"{word}（高品質定義生成中）"
     
@@ -2363,8 +2595,8 @@ if __name__ == "__main__":
     output_tsv = "/home/user/.pg/development-projects/anki-deck-generator/data/output/claude-code/enhanced_deck_v2.tsv"
     output_css = "/home/user/.pg/development-projects/anki-deck-generator/data/output/claude-code/card_template.css"
     
-    # 改良版TSV生成
-    processor.generate_enhanced_tsv(input_file, output_tsv, limit=500)
+    # 改良版TSV生成 
+    processor.generate_enhanced_tsv(input_file, output_tsv, limit=1159)
     
     # CSS テンプレート生成
     processor.generate_css_template(output_css)
