@@ -1,0 +1,24 @@
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Work files
+work_files/
+batch_*.txt
+
+# Backup files
+*_backup.*
+*_old.*
+
+# Log files
+*.log
