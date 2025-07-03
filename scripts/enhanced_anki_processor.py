@@ -105,6 +105,34 @@ class EnhancedAnkiProcessor:
             return "なだめる、機嫌を取る、鎮める"
         elif word == "sea anemone":
             return "イソギンチャク"
+        elif word == "homogeneous":
+            return "均質な、同種の、同質の"
+        elif word == "unprecedented":
+            return "前例のない、未曾有の、空前の"
+        elif word == "inundate":
+            return "氾濫させる、殺到する、圧倒する"
+        elif word == "taint":
+            return "汚す、腐敗させる、染みをつける"
+        elif word == "octopus":
+            return "タコ、八本足の生物"
+        elif word == "monopoly":
+            return "独占、専売、モノポリー"
+        elif word == "strain":
+            return "緊張、負担、品種、こす"
+        elif word == "blackout":
+            return "停電、記憶喪失、報道管制"
+        elif word == "stimulant":
+            return "刺激剤、興奮剤、覚醒剤"
+        elif word == "mercantile":
+            return "商業の、商人の、重商主義の"
+        elif word == "unique":
+            return "独特の、唯一の、ユニークな"
+        elif word == "utopia":
+            return "理想郷、ユートピア、楽園"
+        elif word == "arsenal":
+            return "兵器庫、武器庫、豊富な蓄積"
+        elif word == "insolvent":
+            return "破産した、支払不能の、債務超過の"
         else:
             return f"{word}（高品質定義生成中）"
     
@@ -218,6 +246,90 @@ class EnhancedAnkiProcessor:
                 "Clownfish live symbiotically with sea anemones.",
                 "The tide pool contained several species of sea anemones."
             ]
+        elif word == "homogeneous":
+            return [
+                "The population was remarkably homogeneous in its beliefs.",
+                "Scientists need a homogeneous sample for accurate results.",
+                "The company aims to create a homogeneous corporate culture."
+            ]
+        elif word == "unprecedented":
+            return [
+                "The pandemic created unprecedented challenges for education.",
+                "The company reported unprecedented profits this quarter.",
+                "Climate change is occurring at an unprecedented rate."
+            ]
+        elif word == "inundate":
+            return [
+                "Heavy rains will inundate the low-lying areas.",
+                "The office was inundated with job applications.",
+                "Social media can inundate us with information."
+            ]
+        elif word == "taint":
+            return [
+                "The scandal tainted his reputation permanently.",
+                "Don't let negative thoughts taint your judgment.",
+                "The contaminated water supply was tainted with bacteria."
+            ]
+        elif word == "octopus":
+            return [
+                "The octopus camouflaged itself among the coral.",
+                "Octopus intelligence continues to amaze marine biologists.",
+                "The chef prepared grilled octopus for the seafood platter."
+            ]
+        elif word == "monopoly":
+            return [
+                "The tech giant was accused of maintaining a monopoly.",
+                "Government regulations prevent monopoly formation.",
+                "The railroad company had a monopoly on freight transport."
+            ]
+        elif word == "strain":
+            return [
+                "The heavy workload put enormous strain on the employees.",
+                "This new strain of virus spreads more rapidly.",
+                "Please strain the pasta and serve it immediately."
+            ]
+        elif word == "blackout":
+            return [
+                "The storm caused a citywide blackout last night.",
+                "He suffered a blackout and couldn't remember anything.",
+                "The government imposed a media blackout on the incident."
+            ]
+        elif word == "stimulant":
+            return [
+                "Caffeine is the most commonly used stimulant worldwide.",
+                "The athlete was banned for using illegal stimulants.",
+                "Exercise serves as a natural stimulant for the brain."
+            ]
+        elif word == "mercantile":
+            return [
+                "Venice was a major mercantile power in medieval Europe.",
+                "The mercantile class emerged during the Renaissance.",
+                "Mercantile law governs commercial transactions."
+            ]
+        elif word == "unique":
+            return [
+                "Each snowflake has a unique crystalline structure.",
+                "The artist's unique style made her famous worldwide.",
+                "This museum houses unique artifacts from ancient civilizations."
+            ]
+        elif word == "utopia":
+            return [
+                "The philosopher described his vision of a perfect utopia.",
+                "Many immigrants saw America as a utopia of opportunity.",
+                "The commune tried to create a utopia in the mountains."
+            ]
+        elif word == "arsenal":
+            return [
+                "The military stored weapons in a heavily guarded arsenal.",
+                "She has an arsenal of persuasive arguments for the debate.",
+                "The chef's arsenal of spices makes every dish extraordinary."
+            ]
+        elif word == "insolvent":
+            return [
+                "The company was declared insolvent after mounting debts.",
+                "Insolvent banks require government intervention.",
+                "He became insolvent due to poor investment decisions."
+            ]
         else:
             return [
                 f"The word '{word}' appears frequently in academic texts.",
@@ -263,6 +375,34 @@ class EnhancedAnkiProcessor:
             return """語源：ラテン語「placare」（なだめる）<br>「place（場所）」ではなく「平和」の語根<br>「appease」「pacify」と類義語グループで記憶"""
         elif word == "sea anemone":
             return """語源：ラテン語「anemone」（風の花）<br>ギリシャ神話：風の神に愛された花の名前<br>海中で風に揺れる花のように見えることから命名"""
+        elif word == "homogeneous":
+            return """語源：ギリシャ語「homos」（同じ）+「genos」（種類）<br>「homo-（同じ）+ gene（遺伝子・種族）+ -ous（〜の性質）」<br>heterogeneous（異質な）との対比で記憶"""
+        elif word == "unprecedented":
+            return """語源：「un-（否定）+ precedent（前例）+ -ed（過去分詞）」<br>precedent（判例・先例）は法律用語として重要<br>「前例を設定していない」→「前例のない」"""
+        elif word == "inundate":
+            return """語源：ラテン語「inundare」（氾濫させる）<br>「in-（中に）+ unda（波）+ -ate（動詞化）」<br>「波で中を満たす」→「氾濫させる」「殺到する」"""
+        elif word == "taint":
+            return """語源：古フランス語「teint」（色をつける）<br>「染色」から「汚染」の意味に発展<br>「色をつける」→「悪い色をつける」→「汚す」"""
+        elif word == "octopus":
+            return """語源：ギリシャ語「oktopous」（八本足）<br>「okto（八）+ pous（足）」<br>「oct-（八）」はoctober、octagonと同じ語根"""
+        elif word == "monopoly":
+            return """語源：ギリシャ語「monos」（単独）+「polein」（売る）<br>「mono-（単一）+ poly（売る）」<br>「一人だけが売る」→「独占」"""
+        elif word == "strain":
+            return """語源：古フランス語「estreindre」（きつく締める）<br>「緊張させる」「圧力をかける」の基本意味<br>「品種」は「特定の性質に絞り込む」から"""
+        elif word == "blackout":
+            return """語源：「black（黒）+ out（外に・完全に）」<br>20世紀の造語、電気の普及とともに生まれた<br>「完全に黒くする」→「停電」「記憶喪失」"""
+        elif word == "stimulant":
+            return """語源：ラテン語「stimulare」（突き刺す・刺激する）<br>「stimulus（刺激）+ -ant（〜する物）」<br>stimulate（刺激する）と同じ語根ファミリー"""
+        elif word == "mercantile":
+            return """語源：ラテン語「mercari」（取引する）<br>「merchant（商人）+ -ile（〜の性質）」<br>mercury（水銀・商業の神）と語源が関連"""
+        elif word == "unique":
+            return """語源：ラテン語「unicus」（一つの）<br>「uni-（一つ）+ -que（〜の性質）」<br>「一つしかない」→「独特の」、uniform（統一の）と同じ語根"""
+        elif word == "utopia":
+            return """語源：ギリシャ語「ou topos」（どこにもない場所）<br>トマス・モア（1516年）が造語<br>「u-（ない）+ topia（場所）」→理想だが存在しない場所"""
+        elif word == "arsenal":
+            return """語源：アラビア語「dar as-sina'a」（製造所）<br>ヴェネツィアの造船所から「武器庫」へ<br>「豊富な蓄積」の意味は武器の豊富な貯蔵から"""
+        elif word == "insolvent":
+            return """語源：ラテン語「in-（否定）+ solvere（解決する・支払う）」<br>「支払うことができない」→「破産した」<br>solve（解決する）、dissolve（溶解する）と同じ語根"""
         else:
             return f"""語源：{word}の詳細な語源分析<br>関連語との繋がりで記憶を強化<br>TOEFL頻出語として重要度高"""
     
@@ -454,7 +594,7 @@ if __name__ == "__main__":
     output_css = "../data/output/claude-code/card_template.css"
     
     # 改良版TSV生成
-    processor.generate_enhanced_tsv(input_file, output_tsv, limit=10)
+    processor.generate_enhanced_tsv(input_file, output_tsv, limit=30)
     
     # CSS テンプレート生成
     processor.generate_css_template(output_css)
