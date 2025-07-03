@@ -1,0 +1,1177 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+rOl.*)J=yE	Basic	toefl3800::rank3	ambush	待ち伏せて急襲する	
+d4.[idC}$v	Basic	toefl3800::rank3	bountiful	豊富な 物惜しみしない	
+ANm;B)k5X^	Basic	toefl3800::rank3	inhale	吸い込む 吸入する	
+GRx*;KIkwN	Basic	toefl3800::rank3	crane	クレーン 鶴	
+F+<[o/40r:	Basic	toefl3800::rank3	inflame	情熱などを）かき立てる 燃え上がらせる	
+p`TYNX!b!7	Basic	toefl3800::rank3	predecessor	前任者	
+KMQb9aA4C+	Basic	toefl3800::rank3	meager	乏しい 貧弱な	
+"J1*o:?#QF^"	Basic	toefl3800::rank3	alternative	代替の 代わりの	
+oa5c2B=JV{	Basic	toefl3800::rank3	tripe	くだらないもの	
+yu*.K`F/Qx	Basic	toefl3800::rank3	prawn	クルマエビ	
+iX3,LQ~Xxr	Basic	toefl3800::rank3	offset	相殺する	
+kQ1PncY4,n	Basic	toefl3800::rank3	tan	日焼けした色	
+wtx7X;-{~~	Basic	toefl3800::rank3	temperate	穏やかな 節度のある	
+u}LBbDUxT=	Basic	toefl3800::rank3	outcome	結果	
+"I[!X1#aA6_"	Basic	toefl3800::rank3	hardy	動植物が）耐寒性の 頑丈な 勇敢な	
+g?!IF{oa!I	Basic	toefl3800::rank3	attorney	代理人 弁護士 検事	
+im+pGg6T]5	Basic	toefl3800::rank3	placate	なだめる	
+t@G6tvGFN&	Basic	toefl3800::rank3	sea anemone	イソギンチャク	
+O/9rAmnzue	Basic	toefl3800::rank3	homogeneous	均質の 同種の	
+j^fTLpyQmn	Basic	toefl3800::rank3	unprecedented	先例のない 無比な	
+BI`2Uv_+v+	Basic	toefl3800::rank3	inundate	殺到する 水浸しにする 氾濫する	
+IMs:^J[{ek	Basic	toefl3800::rank3	taint	傷つける 汚す	
+nWsG?<pO1R	Basic	toefl3800::rank3	octopus	タコ	
+z!LIP=I[k<	Basic	toefl3800::rank3	monopoly	独占	
+jAm>jybni(	Basic	toefl3800::rank3	strain	引っ張る 引き締める 種族	
+yE2JmQ:APN	Basic	toefl3800::rank3	blackout	停電 消灯	
+I=yj-F%5wQ	Basic	toefl3800::rank3	stimulant	刺激物	
+QN7*C`hBLh	Basic	toefl3800::rank3	mercantile	商業の 商人の	
+jRB*cc)os;	Basic	toefl3800::rank3	unique	独特の	
+qE._FFn[=d	Basic	toefl3800::rank3	utopia	ユートピア 理想郷	
+w-1>1tZq+t	Basic	toefl3800::rank3	built-in	作り付けの	
+ektuXttz}d	Basic	toefl3800::rank3	strand	立ち往生させる 座礁させる 要素 成分 より糸	
+"y5YG#}_:,r"	Basic	toefl3800::rank3	arsenal	兵器庫	
+g,G%ENX4El	Basic	toefl3800::rank3	insolvent	破産した 支払い不能の<br><br>He was arrested for&nbsp;<strong>inciting</strong>&nbsp;violence at the protest.<br>She was fired for her&nbsp;<strong>insolent</strong>&nbsp;behavior.<br>The cabin was well&nbsp;<strong>insulated</strong>&nbsp;against the cold.<br>The company became&nbsp;<strong>insolvent</strong>&nbsp;after years of mismanagement.	
+hkUurE$(`O	Basic	toefl3800::rank3	decree	法令 布告	
+p@P{-lc[wi	Basic	toefl3800::rank3	impetus	機動力 弾み	
+xykh.B&*;P	Basic	toefl3800::rank3	precipitate	引き起こす 雨になる<br>崖 → precipice → precipitate（崖からドンと落ちて <em>急に起こる</em>）	
+ix;38O@m&v	Basic	toefl3800::rank3	intricate	複雑な 込み入った	
+Ad^+(+zp@h	Basic	toefl3800::rank3	admonish	忠告する	
+x^fz`}Ng%>	Basic	toefl3800::rank3	loquacious	おしゃべりの 話好きな	
+eDl>-AR1t@	Basic	toefl3800::rank3	conviction	確信 有罪判決	
+g!1t+2{jD=	Basic	toefl3800::rank3	transplant	臓器などの）移植 移植する	
+guqH*EVje`	Basic	toefl3800::rank3	amity	友好 親善	
+"ky*#(v@`Nn"	Basic	toefl3800::rank3	astronomical	数量などが）膨大な 天文学の	
+AW~iA9p)qN	Basic	toefl3800::rank3	attrition	摩耗 消耗	
+PP8v1P`)xy	Basic	toefl3800::rank3	platypus	カモノハシ	
+GSlaHqfg$(	Basic	toefl3800::rank3	diffuse	散らす 拡散する	
+P0)D<E3kbC	Basic	toefl3800::rank3	intrinsically	本質的に	
+E9[hoCP>H@	Basic	toefl3800::rank3	attest	証明する 立証する	
+wD+A3(Ba-:	Basic	toefl3800::rank3	sanitation	衛生設備 公衆衛生	
+f*4>=LoRbC	Basic	toefl3800::rank3	fiscal	財政の 会計の	
+e]CjNX01}Y	Basic	toefl3800::rank3	markedly	著しく 際だって	
+sutJ*g_uyg	Basic	toefl3800::rank3	expose	日光などに）さらす	
+fCY)RL-a<o	Basic	toefl3800::rank3	overtime	時間外労働	
+"Lt]~Twj#GZ"	Basic	toefl3800::rank3	pasture	牧草地	
+rwnhp|ZVKi	Basic	toefl3800::rank3	plaintiff	原告 告訴人	
+r0a:6,KShY	Basic	toefl3800::rank3	prescribe	処方する 指図する	
+te{1}i8BL+	Basic	toefl3800::rank3	ail	患う 苦しめる	
+"j#nfZ*L:LZ"	Basic	toefl3800::rank3	posture	姿勢 状況	
+mz[0&pEu[t	Basic	toefl3800::rank3	verdict	評決	
+M});Kyf7+Z	Basic	toefl3800::rank3	magnitude	大きさ 重要性　震度　マグニチュード	
+Qp/qJ2]m=n	Basic	toefl3800::rank3	devoid	を欠いている	
+QH^?v7*JV]	Basic	toefl3800::rank3	celebrated	有名な	
+c;aRuRJZJc	Basic	toefl3800::rank3	paralysis	まひ 停滞	
+fRR?7(G*hz	Basic	toefl3800::rank3	reputed	という評判の	
+"MmN9{+kL*#"	Basic	toefl3800::rank3	residue	残り	
+e&3/Is}f?r	Basic	toefl3800::rank3	retard	遅らせる	
+kvv<Ba;AH+	Basic	toefl3800::rank3	anchor	いかりを下ろす	
+sT30r5m<l<	Basic	toefl3800::rank3	pod	エンドウなどの）さや	
+o}*cu[QF|I	Basic	toefl3800::rank3	viable	実行可能な 生存に適した	
+D-&*1^2/pJ	Basic	toefl3800::rank3	remit	送金する	
+kIUl3E5u^H	Basic	toefl3800::rank3	fathom	深さを）測る 見抜く	
+"od:01:#410"	Basic	toefl3800::rank3	surge	波のように押し寄せる	
+IRiPCSre0o	Basic	toefl3800::rank3	conductive	伝導性の	
+C^gS:[]BO,	Basic	toefl3800::rank3	chuckle	くすくす笑い	
+E_*g@]}!J8	Basic	toefl3800::rank3	sprinkle	水を）まく	
+RjT4>QcALN	Basic	toefl3800::rank3	domain	領域 分野	
+tTJd%io/QG	Basic	toefl3800::rank3	unfold	開く 広げる	
+tKntY>s]ob	Basic	toefl3800::rank3	solemn	荘厳な	
+O!8_iKguex	Basic	toefl3800::rank3	transitory	はかない 一時的な	
+j$3)y,3%5Q	Basic	toefl3800::rank3	liaison	連絡 リエゾン	
+"D#dTep^}LX"	Basic	toefl3800::rank3	stern	厳格な	
+q7jChY)-Zw	Basic	toefl3800::rank3	impede	妨げる	
+JiO{]:&~%U	Basic	toefl3800::rank3	peripheral	重要でない 末梢の 周囲の	
+B$UHeZ&e,q	Basic	toefl3800::rank3	falcon	ハヤブサ	
+DEns/./v/Q	Basic	toefl3800::rank3	alloy	合金	
+pLpZ`FzF%h	Basic	toefl3800::rank3	stroll	ぶらつく 放浪する	
+qu+JB0@AFj	Basic	toefl3800::rank3	refute	誤りを証明する	
+Cj.^~9`l+,	Basic	toefl3800::rank3	intestine	s)腸	
+MZC<IOoFqt	Basic	toefl3800::rank3	terminology	専門用語	
+INS?nX2rtK	Basic	toefl3800::rank3	singular	まれにみる 非凡な 風変わりな	
+G=i9gl~fmE	Basic	toefl3800::rank3	expire	失効する 満期になる	
+OIX_Axo0F-	Basic	toefl3800::rank3	monotonous	単調な 変化に乏しい	
+s98A4fxFdO	Basic	toefl3800::rank3	ingenious	才能のある 独創的な	
+M(Mzgquwg2	Basic	toefl3800::rank3	replenish	補給する 再び満たす	
+D|iE~Fp/:t	Basic	toefl3800::rank3	matrix	数学の）行列 マトリックス	
+I)AhcGCyMs	Basic	toefl3800::rank3	coach	大型馬車 コーチ	
+ooL|hvQn%B	Basic	toefl3800::rank3	kidney	腎臓	
+i[e2@35D{s	Basic	toefl3800::rank3	succinct	簡潔な ずばりの	
+nT>|]_*aV.	Basic	toefl3800::rank3	poach	密漁する	
+i+pX$n{C*m	Basic	toefl3800::rank3	collapse	崩壊	
+M?@&-CA1&X	Basic	toefl3800::rank3	inscribe	文字などを）刻む	
+AF*Q,0itX}	Basic	toefl3800::rank3	hectic	てんやわんやの	
+P+%dsxC|UK	Basic	toefl3800::rank3	suppress	抑える 抑圧する	
+N>K`5zo~d`	Basic	toefl3800::rank3	tentative	仮の 試験的な 不確かな	
+"y#Z|mtC-,U"	Basic	toefl3800::rank3	archipelago	群島 諸島	
+"Rjwvge5#2#"	Basic	toefl3800::rank3	cascade	段々に落ちる）滝 滝のように水が流れる	
+ykc)_<lFfv	Basic	toefl3800::rank3	authoritarian	権威主義の	
+g|-R&rW8]i	Basic	toefl3800::rank3	mercy	慈悲	
+qCiV@C4%,h	Basic	toefl3800::rank3	savory	食欲をそそる 味の良い	
+Jed~:tff,%	Basic	toefl3800::rank3	continental shelf	大陸棚	
+Od=JXlJw$o	Basic	toefl3800::rank3	radioactive	放射性(能)の(ある)	
+MY6?a*6M8w	Basic	toefl3800::rank3	shoddy	粗雑な 安物の	
+AEv!B|ebMx	Basic	toefl3800::rank3	erode	腐食する 浸食する	
+F{R.WL.97a	Basic	toefl3800::rank3	validate	妥当性を立証する 法的に有効にする	
+O[lVft>rnN	Basic	toefl3800::rank3	tactics	戦術 戦略	
+eh^f~`idLk	Basic	toefl3800::rank3	compelling	<b>説得力のある、強制的な、興味を引く</b><br><br>The lawyer presented a compelling argument to the jury.&nbsp; <br>The novel was so compelling that I couldn’t put it down.&nbsp; <br>There is no compelling reason to change the current system.<br><br>ラテン語 compellere（無理に〜させる）→ com-（一緒に）+ pellere（押す、追いやる）&nbsp; <br>「強く押す→心を動かす→説得力・魅力・圧力」の意味へ派生。&nbsp; <br>心をぐっと押してくる感じで「目を離せない」も覚え方として使える。	
+"fFKXliRx#j"	Basic	toefl3800::rank3	profusely	深く 豊富に	
+xx]E_:AA)%	Basic	toefl3800::rank3	cursory	大まかな・せっかちの・ぞんざいな	
+"MI5UFc(#]J"	Basic	toefl3800::rank3	disperse	"分散させる<br><br><strong>“ディスパース＝ディスコでパリピを散らす”</strong><br>
+警察が来たらクラブの人混みを散らす → disperse the crowd"	
+nq8,|bCeOK	Basic	toefl3800::rank3	overturn	横転させる ひっくり返す	
+K}jL!B-{1/	Basic	toefl3800::rank3	degrade	格や品格を)落とす (面目を)失わせる	
+eRKRrpOLgD	Basic	toefl3800::rank3	coexistence	共存	
+PmavqcQmD^	Basic	toefl3800::rank3	whirl	ぐるぐる回る・旋回させる	
+MyHDrSD.@h	Basic	toefl3800::rank3	proprietor	所有者 (特に不動産の)持ち主	
+HY0okv;{b,	Basic	toefl3800::rank3	discerning	明瞭な 洞察力のある	
+nYN3,kb_M.	Basic	toefl3800::rank3	masonry	"石造物 石工術<br><br><h2 style=""text-align: center;"">✍️ 例文で確認</h2>
+<ol>
+<li>
+<div><div style=""text-align: center;""><strong>The earthquake cracked the building’s masonry.</strong></div><div style=""text-align: center;"">地震で建物の石積み部分にひびが入った。</div></div>
+</li>
+<li>
+<div><div style=""text-align: center;""><strong>He studied masonry at a vocational school.</strong></div><div style=""text-align: center;"">彼は職業学校で石工技術を学んだ。</div></div>
+</li>
+<li>
+<div><div style=""text-align: center;""><strong>Freemasonry</strong> is often shrouded in mystery.</div><div style=""text-align: center;"">フリーメイソン結社はしばしば神秘に包まれている。</div></div></li></ol>"	
+Oc]1R4kv)9	Basic	toefl3800::rank3	jolt	"急激に）揺さぶる （精神的な）衝撃<br><br><h2>✍️ 例文で定着させよう</h2>
+<h3>🚌 物理系 jolt</h3>
+<blockquote>
+<div>The train <strong>jolted</strong> when it hit the brakes.<br>
+→ 電車が急ブレーキで<strong>ガタッと揺れた</strong></div>
+</blockquote>
+<h3>😨 感情系 jolt</h3>
+<blockquote>
+<div>I felt a <strong>jolt of fear</strong> when I saw the shadow.<br>
+→ 影を見た瞬間、<strong>ゾッとした</strong></div>
+</blockquote>
+<h3>⚡ 名詞でショック</h3>
+<blockquote>
+<div>The bad news gave me a <strong>jolt</strong>.<br>
+→ その知らせに<strong>ショックを受けた</strong></div></blockquote>"	
+kJ5rBSV`-(	Basic	toefl3800::rank3	mole	"ほくろ モグラ 防波堤<br>mole ＝「<strong>見えない・潜む・地中のかたまり</strong>」<br>
+→ 肌の下（ほくろ）、地中（モグラ）、海中（防波堤）"	
+lLhqi>^-$E	Basic	toefl3800::rank3	strive	戦う 努力する<br><br>drive を超えた強い push	
+~Xdqx+}%`	Basic	toefl3800::rank3	dispatch	"<div style=""text-align: center;"">急送する 急派する</div><div style=""text-align: center;""><br></div><h2 style=""text-align: center; "">✍️ 例文で定着</h2>
+<ol>
+<li>
+<div><div style=""text-align: center;""><strong>AWS automatically dispatches new instances when load spikes.</strong></div><div style=""text-align: center;"">負荷が跳ね上がると AWS は自動で新しいインスタンスを即時投入する。</div></div>
+</li>
+<li>
+<div><div style=""text-align: center;""><strong>The journalist’s dispatch arrived minutes after the coup began.</strong></div><div style=""text-align: center;"">クーデターが始まって数分で記者の速報が届いた。</div></div>
+</li>
+<li>
+<div><div style=""text-align: center;""><strong>He dispatched the report before lunch.</strong></div><div style=""text-align: center;"">彼は昼前に報告書をさっさと片づけた。</div></div></li></ol>"	
+y7/^8ii1ZL	Basic	toefl3800::rank3	discourse	論文	
+y&Kp5x;47G	Basic	toefl3800::rank3	prose	"<div style=""text-align: center;"">散文</div><div style=""text-align: right;""><br></div><table style=""text-align: right;"">
+
+<tbody><tr>
+<th>フレーズ</th>
+<th>意味</th>
+</tr>
+
+
+<tr>
+<td><strong>purple prose</strong></td>
+<td>ムダに飾りすぎな文章</td>
+</tr>
+<tr>
+<td><strong>flowery prose</strong></td>
+<td>形容詞モリモリの華美な散文</td>
+</tr>
+<tr>
+<td><strong>in plain prose</strong></td>
+<td>平易な散文で</td>
+</tr>
+<tr>
+<td><strong>prose style</strong></td>
+<td>散文調</td>
+</tr></tbody></table>"	
+BxH>3H%CFO	Basic	toefl3800::rank3	expertise	専門家の意見（技術 知識）	
+xqJY&N?H/n	Basic	toefl3800::rank3	smash	粉砕する 衝突する	
+A)?5qYs_S9	Basic	toefl3800::rank3	brand	烙印を押す	
+i)yBfLK6sp	Basic	toefl3800::rank3	appraise	"鑑定する 評価する・判断する<br><br><strong>appraise = “a price” を決める</strong><br>
+（a price → appraise と発音も近い）"	
+FsNMe[d[iv	Basic	toefl3800::rank3	upright	まっすぐに 直立して	
+"yGH!b2~;D#"	Basic	toefl3800::rank3	withdrow	撤退する （預金を）引き出す	
+DV~)-F{%|f	Basic	toefl3800::rank3	congregate	集まる 集合する 招集する<br><br><strong>con-（一緒に）＋ greg （群れ）</strong>	
+yyfFVkvfHT	Basic	toefl3800::rank3	allure	"魅惑する 誘い込む<br><br>語源：<strong>ad-（＝to）＋ lure（誘い）</strong> → 「人を lure する方向へ」<br>
+古仏語 <em>aleurer</em>（鷹をエサで呼び戻す）に由来。"	
+DB{O}u|<wR	Basic	toefl3800::rank3	equity	公平 公正	
+MllIAB}QS`	Basic	toefl3800::rank3	bristle	"<div style=""text-align: center;"">昆虫や豚などの）剛毛 （動物が怒って）毛を逆立てる 密生する</div><div style=""text-align: center;""><br></div><h2 style=""text-align: center;"">類義語と違い</h2>
+<div><div><table style=""text-align: center;""><tbody><tr><th>単語</th><th>ニュアンス</th></tr><tr><td><strong>hair</strong></td><td>一般的な髪・体毛</td></tr><tr><td><strong>fur</strong></td><td>ふわっと柔らかい体毛</td></tr><tr><td><strong>bristle</strong></td><td><strong>短くて硬い毛／それが逆立つ</strong>（怒りも含む）</td></tr></tbody></table></div></div>"	
+D)Q?pUTEwW	Basic	toefl3800::rank3	fierce	激しい	
+"BmMds3cU)#"	Basic	toefl3800::rank3	leverage	てこの作用 レバレッジ	
+"PA;p<NFD#J"	Basic	toefl3800::rank3	articulate	はっきり述べる 話のはっきりした	
+A(m0q;=:HB	Basic	toefl3800::rank3	cardiac	"心臓の<br><br>cor（心）+ -ialis（〜に関する）<br>「cordial greeting」「cordial relations」みたいに「丁寧で感じのいい」っていうニュアンスになる。<br><br><em>kardia（心臓）+ -akos（形容語尾）<br></em>「cardiac arrest（心停止）」「cardiac muscle（心筋）」とか、医学分野でバリバリ使われる。<br><br><table>
+
+<tbody><tr>
+<th>単語</th>
+<th>意味</th>
+<th>語源ルーツ</th>
+</tr>
+
+
+<tr>
+<td><strong>core</strong></td>
+<td>核・中心</td>
+<td>cor（心）→中心＝core</td>
+</tr>
+<tr>
+<td><strong>encourage</strong></td>
+<td>勇気づける</td>
+<td>en（中に）+ cour（心）</td>
+</tr>
+<tr>
+<td><strong>record</strong></td>
+<td>記録する</td>
+<td>re（再び）+ cord（心）→心に刻む！</td>
+</tr>
+<tr>
+<td><strong>discord</strong></td>
+<td>不和・不一致</td>
+<td>dis（分離）+ cord（心）→心がバラバラ！</td>
+</tr>
+<tr>
+<td><strong>cardiology</strong></td>
+<td>心臓学</td>
+<td>kardia（心臓）+ -logy（学問）</td>
+</tr></tbody></table>"	
+Dzy7,<Ai-f	Basic	toefl3800::rank3	conspicuous	目立つ 派手な	
+juUYFltUKx	Basic	toefl3800::rank3	materialism	物質主義	
+"pqVPcii?=#"	Basic	toefl3800::rank3	absolute	完全な	
+gvX&A3q]S8	Basic	toefl3800::rank3	imprison	刑務所に入れる	
+"k6^#+PbTx{"	Basic	toefl3800::rank3	satire	風刺 皮肉	
+kvMAsF!O.x	Basic	toefl3800::rank3	salvation	救済	
+Mg,G<dCWi{	Basic	toefl3800::rank3	commemorate	記念する	
+ePJ}YU@Lw?	Basic	toefl3800::rank3	merger	合併	
+"MWKS#z0j?n"	Basic	toefl3800::rank3	problematic	問題のある 未定の	
+k1r6lJK]{(	Basic	toefl3800::rank3	herald	先触れ 先駆者	
+f78Px;s<c9	Basic	toefl3800::rank3	dew	露	
+Aog*P[~un1	Basic	toefl3800::rank3	culminate	頂点に達する	
+x<4nEpU(?R	Basic	toefl3800::rank3	renounce	権利を）放棄する 絶交する	
+ey<p`b<$=^	Basic	toefl3800::rank3	surcharge	追加料金	
+lpae<9<Fnf	Basic	toefl3800::rank3	lofty	崇高な 高慢な 非常に高い	
+qW%Bqg.+F|	Basic	toefl3800::rank3	dune	砂丘	
+QpDQoz*Abr	Basic	toefl3800::rank3	scrutinize	詳細に調べる 吟味する	
+u!xW%/mg1e	Basic	toefl3800::rank3	philanthropist	博愛主義者	
+I`FVN1I>kj	Basic	toefl3800::rank3	stoop	かがむ 堕落する	
+sm%kFS9Z3T	Basic	toefl3800::rank3	symmetry	対称 つりあい	
+i/^hlhP~ux	Basic	toefl3800::rank3	archive	公文書 記録 記録保管所	
+t`M1{cl:r4	Basic	toefl3800::rank3	detain	引き留める 拘留する	
+y>7%Rc|M0T	Basic	toefl3800::rank3	disk	椎間板 円盤 CD	
+x0QJnm+_;T	Basic	toefl3800::rank3	seclusion	<b>隔離、隠遁、人里離れた場所</b><br><br>She spent the weekend in complete seclusion in a cabin in the woods.&nbsp; <br>After the scandal, he lived in seclusion for several years.&nbsp; <br>Writers often seek seclusion to concentrate on their work.<br><br>ラテン語 secludere（引き離す）→ se-（離れて）+ claudere（閉じる）&nbsp; <br>「閉じて分ける」→「世間から引き離す」という意味へ派生。&nbsp; <br>同語源に exclude（除外する）、conclude（結論づける）など。&nbsp; <br>「閉ざされた空間で一人になる」と覚えるとイメージしやすい。	
+"Ey%a:#PbHk"	Basic	toefl3800::rank3	aloft	高く 上に	
+LmQqkyyy6L	Basic	toefl3800::rank3	tranquil	穏やかな	
+I<X;P[Q?-;	Basic	toefl3800::rank3	shrewd	賢い 抜け目のない	
+hpp0F|W3Lh	Basic	toefl3800::rank3	proposition	提案 命題	
+xT)iD1nUTZ	Basic	toefl3800::rank3	incite	鼓舞する 励ます 刺激す<br><br>He was arrested for <strong>inciting</strong> violence at the protest.<br>She was fired for her <strong>insolent</strong> behavior.<br>The cabin was well <strong>insulated</strong> against the cold.<br>The company became <strong>insolvent</strong> after years of mismanagement.	
+N|xti}=fC,	Basic	toefl3800::rank3	reckless	無謀な 向う見ずの	
+zdvV-l6qf<	Basic	toefl3800::rank3	diverge	意見などが）異なる 分かれる 分岐する	
+P!]NXk7)9[	Basic	toefl3800::rank3	lethal	致死の	
+kw~?kjop4m	Basic	toefl3800::rank3	margin	縁 へり 限界 利ざや	
+zfZ9qon+yN	Basic	toefl3800::rank3	potent	有力な （酒が）強い 力強い	
+Ko~vGhk{h8	Basic	toefl3800::rank3	aggression	侵害	
+pHlCVwAA4n	Basic	toefl3800::rank3	fringe	"へり 房飾り 外縁部 周辺部<br><br><table>
+
+<tbody><tr>
+<th>単語</th>
+<th>ふち度</th>
+<th>意味の広がり</th>
+<th>ヒント</th>
+</tr>
+
+
+<tr>
+<td><strong>brink</strong></td>
+<td>崖の縁（ギリギリ）</td>
+<td>緊迫・危機感あり</td>
+<td>""on the brink of 〜""</td>
+</tr>
+<tr>
+<td><strong>fringe</strong></td>
+<td>静かな縁（物理・文化）</td>
+<td>メインじゃない</td>
+<td>「社会のフチ」</td>
+</tr>
+<tr>
+<td><strong>blink</strong></td>
+<td>ふちじゃない！</td>
+<td>目の動き</td>
+<td>「パチッと一瞬」</td>
+</tr></tbody></table>"	
+G>{n1$+W,/	Basic	toefl3800::rank3	assassinate	暗殺する	
+zP8;{gmR[c	Basic	toefl3800::rank3	intake	水や空気などの）取入れ口 摂取量	
+"Qpnb0u:B#`"	Basic	toefl3800::rank3	epilogue	エピローグ （小説･詩などの）結び （事件などの）結末	
+g`OnO7`Mfw	Basic	toefl3800::rank3	composure	落ち着き 平静	
+nT%=:]B?3,	Basic	toefl3800::rank3	imaginative	想像力に富んだ	
+jtto;mr-<Y	Basic	toefl3800::rank3	insane	正気でない 狂気の	
+F+C5URGO0b	Basic	toefl3800::rank3	levy	徴収する 賦課する	
+B@YtPpyY;&	Basic	toefl3800::rank3	mutter	ぶつぶつ言う つぶやく	
+fnGHrTeRxh	Basic	toefl3800::rank3	desperate	必死の 自暴自棄の<br><br>I was so desperate that I begged for help.<br>（必死すぎて助けを乞うたんだ。）<br>He made a desperate attempt to escape.<br>（彼は必死の脱出を試みた。）	
+E$rxH:$$TG	Basic	toefl3800::rank3	magnificent	壮大な 立派な	
+Hx_8t?=KEk	Basic	toefl3800::rank3	inventory	在庫 棚卸し	
+8C_,2cLPa	Basic	toefl3800::rank3	scavenger	ハゲタカなどの）腐肉を食べる動物 清掃動物 清掃人	
+OsNYIak1$R	Basic	toefl3800::rank3	kindle	点火する 燃やす	
+Ob_slu}%8`	Basic	toefl3800::rank3	uprising	反乱 暴動	
+A)M@dqoExl	Basic	toefl3800::rank3	reactor	原子炉 反応炉	
+CP8V>l,[m<	Basic	toefl3800::rank3	relic	遺跡 遺品	
+s=L:U9_=4*	Basic	toefl3800::rank3	tundra	ツンドラ	
+t$OXD{VLEC	Basic	toefl3800::rank3	invoke	嘆願する 呼び覚ます 祈願する （法律などに）訴える	
+k$Zak]PuSB	Basic	toefl3800::rank3	meadow	牧草地 草地	
+Db+d.Cac?[	Basic	toefl3800::rank3	thrive	成長する 茂る 繁盛する 栄える	
+C4]51W+kdw	Basic	toefl3800::rank3	illuminate	照らす 照明する 明るくする	
+uAZE~(Z1-d	Basic	toefl3800::rank3	pragmatic	実践的な プラグマティズムの	
+JUuX&M8;i)	Basic	toefl3800::rank3	deference	服従 敬意	
+ubM9NX4Sj9	Basic	toefl3800::rank3	pupa	さなぎ	
+CZI(yO/;th	Basic	toefl3800::rank3	disclose	暴露する	
+Bi+,MKgj)`	Basic	toefl3800::rank3	displace	取って代わる 立ち退かせる	
+kY3cF_Ew8<	Basic	toefl3800::rank3	ominous	不穏な 不吉な 陰険な	
+fC$7O/Tl+>	Basic	toefl3800::rank3	oscillate	前後に）揺れる 振動する 振動させる	
+E-/H1+y9rC	Basic	toefl3800::rank3	symptom	病気などの)兆候	
+l:uD]:T}!.	Basic	toefl3800::rank3	identity	自己の)存在証明	
+q0vhP4=+?<	Basic	toefl3800::rank3	deputy	代理（人） 副官	
+c}*7=uzK8?	Basic	toefl3800::rank3	imaginary	想像上の	
+I^R?ddm&l$	Basic	toefl3800::rank3	agile	機敏な 頭の回転が速い	
+yUFrVh?^[L	Basic	toefl3800::rank3	wither	衰退する 枯れる	
+rttxsd?*~b	Basic	toefl3800::rank3	projection	突出 投影 計画	
+d0+&9C!58a	Basic	toefl3800::rank3	accompaniment	伴奏 付属物	
+o5va}@{?h9	Basic	toefl3800::rank3	bolster	高める 支持する 支え	
+sy==OV9iWu	Basic	toefl3800::rank3	blink	"見て見ぬふりをする まばたきする<br><br><table>
+
+<tbody><tr>
+<th>単語</th>
+<th>ふち度</th>
+<th>意味の広がり</th>
+<th>ヒント</th>
+</tr>
+
+
+<tr>
+<td><strong>brink</strong></td>
+<td>崖の縁（ギリギリ）</td>
+<td>緊迫・危機感あり</td>
+<td>""on the brink of 〜""</td>
+</tr>
+<tr>
+<td><strong>fringe</strong></td>
+<td>静かな縁（物理・文化）</td>
+<td>メインじゃない</td>
+<td>「社会のフチ」</td>
+</tr>
+<tr>
+<td><strong>blink</strong></td>
+<td>ふちじゃない！</td>
+<td>目の動き</td>
+<td>「パチッと一瞬」</td>
+</tr></tbody></table>"	
+GEXc2D>oHH	Basic	toefl3800::rank3	accumulate	集める （お金などを）ためる	
+zfoE+/bP!?	Basic	toefl3800::rank3	appease	なだめる 譲歩する 満たす	
+"s-x^#Jyw6$"	Basic	toefl3800::rank3	cruel	残酷な	
+rPxnpgj{I2	Basic	toefl3800::rank3	unsteady	不安定な	
+x79blCr2)T	Basic	toefl3800::rank3	premise	前提 家屋敷	
+AA*>HxQma+	Basic	toefl3800::rank3	cosmic	宇宙の	
+"M+H#?[:VR4"	Basic	toefl3800::rank3	insolent	横柄な 傲慢な 無礼な<br><br>He was arrested for&nbsp;<strong>inciting</strong>&nbsp;violence at the protest.<br>She was fired for her&nbsp;<strong>insolent</strong>&nbsp;behavior.<br>The cabin was well&nbsp;<strong>insulated</strong>&nbsp;against the cold.<br>The company became&nbsp;<strong>insolvent</strong>&nbsp;after years of mismanagement.	
+"K49](mD#YR"	Basic	toefl3800::rank3	nostalgia	追憶 郷愁	
+Bzdo!0V2t`	Basic	toefl3800::rank3	abruptly	突然に	
+LG?>5[Nou=	Basic	toefl3800::rank3	invert	逆にする 転化する	
+jDX$](O_vf	Basic	toefl3800::rank3	oblique	"斜めの 遠まわしな<br><br><strong>ob-（逆・外れ）＋lique（曲がる）</strong><br>
+→ 「正面・まっすぐからズレてる」＝ナナメ！"	
+d+Z~?=~pIJ	Basic	toefl3800::rank3	reconcile	"調停する 和解させる<br><br><h2>🎧 語感で覚える：「リコン + サイル → 離婚・再いる」</h2>
+<div>「re-（再び）」＋「concile（conciliate＝なだめる、仲直りする）」だから、<br>
+<strong>「また仲直りさせる」＝和解する</strong>ってニュアンス！</div>"	
+yio;j+gOg9	Basic	toefl3800::rank3	coffin	棺	
+"C0~1xWP]J#"	Basic	toefl3800::rank3	lucrative	利益の上がる もうかる	
+J`T](1Ip78	Basic	toefl3800::rank3	prosecution	起訴 告発 遂行	
+"y~BfNp=0#/"	Basic	toefl3800::rank3	infrastructure	基礎構造 インフラ	
+tgmwF2:M_x	Basic	toefl3800::rank3	submerge	水に浸す 潜水する	
+O.{L2(,W[l	Basic	toefl3800::rank3	dividend	配当金	
+u$/BP,Bz4T	Basic	toefl3800::rank3	endorse	裏書きする・支持する	
+t4,&ZkF6EH	Basic	toefl3800::rank3	confine	閉じ込める、制限する<br><br>The soldiers were confined to their barracks during the emergency.<br><br>ラテン語 com-（共に）+ finis（境界）→ 境界の中に閉じ込める&nbsp; <br>define（定義する）、finite（有限の）、infinite（無限の）	
+E;eetT,X&7	Basic	toefl3800::rank3	personnel	人員 職員	
+DSo77ydzC|	Basic	toefl3800::rank3	linguistics	言語学	
+m=cVh~*13{	Basic	toefl3800::rank3	indecisive	優柔不断の	
+bpy^v1D5Q$	Basic	toefl3800::rank3	ritual	儀式	
+ChNP?N{[g9	Basic	toefl3800::rank3	conceive	<b>思いつく、想像する、妊娠する</b><br><br>She couldn't conceive of a world without music.&nbsp; <br>He conceived the idea while taking a walk in the park.&nbsp; <br>She conceived a child shortly after their wedding.<br><br>ラテン語 concipere（取り込む、思いつく）→ com-（共に）+ capere（取る）&nbsp; <br>「心の中に取り込む」→ アイデアを思いつく、計画を練る、子を宿す、などに派生。&nbsp; <br>concept（概念）と語源を共有し、「心に取り込んだもの＝概念」と関連づけて覚えると良い。	
+"v@@A|Jg:F#"	Basic	toefl3800::rank3	spur	刺激する 拍車	
+dVV.6Ys<*s	Basic	toefl3800::rank3	wrath	激怒	
+p>%0np|L|/	Basic	toefl3800::rank3	obliterate	完全に破壊する 消す	
+q/BSh4pHkt	Basic	toefl3800::rank3	apathy	無感動 無関心	
+s3R=Aj6n4h	Basic	toefl3800::rank3	surpass	勝る しのぐ	
+NMf@`@ZBMo	Basic	toefl3800::rank3	realm	領域 領土 王国	
+"r@&CEm#r1_"	Basic	toefl3800::rank3	intervene	仲裁をする （間に）入る	
+?gn/^3b0[	Basic	toefl3800::rank3	defiance	挑戦 抵抗	
+G1DiL0v@ZT	Basic	toefl3800::rank3	frail	ひ弱な はかない もろい	
+t|6Ul]>,&g	Basic	toefl3800::rank3	deliberate	計画的な 考え深い 慎重な	
+gV(OdO[LWM	Basic	toefl3800::rank3	leukemia	白血病	
+z`bLMG7~}W	Basic	toefl3800::rank3	feudal	封建的な	
+wt+Rm`Et&!	Basic	toefl3800::rank3	municipal	地方自治の	
+"xx5O4#e)+{"	Basic	toefl3800::rank3	meddle	おせっかいする、干渉する<br><br>Don't meddle in other people's affairs.<br><br>ラテン語 miscēre（混ぜる）→ 他人の問題に混ざる&nbsp; <br>interfere（干渉する）、butt in（口出しする）、meddler（おせっかいな人）	
+KOimZssiSR	Basic	toefl3800::rank3	monarchy	君主制、君主国家<br><br>The country was ruled by an absolute monarchy for centuries.<br><br>ギリシャ語 monos（1つの）+ arkhein（支配する）→ 1人による支配&nbsp; <br>monarch（君主）、anarchy（無政府状態）、oligarchy（寡頭制）	
+"k2rp#Z<c14"	Basic	toefl3800::rank3	turbulent	<b>荒れた、混乱した、動揺した</b><br><br>The plane experienced turbulent weather.<br><br>ラテン語 turba（混乱・騒ぎ）→ turbare（かき乱す）&nbsp; <br>disturb（妨げる）、perturb（動揺させる）、turbulence（乱気流・混乱）	
+"lb#|$C//us"	Basic	toefl3800::rank3	collective	集団的な	
+F/HWK)]az%	Basic	toefl3800::rank3	prodigal	<b>浪費する、金遣いが荒い、贅沢な</b><br><br>The prodigal son returned home after spending all his money.&nbsp; <br>She lived a prodigal lifestyle, throwing extravagant parties every weekend.&nbsp; <br>His prodigal habits eventually led to bankruptcy.<br><br>ラテン語 prodigus（浪費する）→ pro-（前に）+ agere（駆り立てる）&nbsp; <br>「前へどんどん突き進むようにお金を使う」イメージ。&nbsp; <br>同語源のagile（素早い）などと関連づけて、制御のない動き＝浪費と覚えるのも◎。	
+"E#8CdTNU6F"	Basic	toefl3800::rank3	outset	<b>最初、初め、発端</b><br><br>From the outset, it was clear that the project would be challenging.&nbsp; <br>He made his intentions known at the very outset.&nbsp; <br>You should clarify the rules at the outset to avoid confusion.<br><br>語源は out（外に）+ set（置く）＝「何かを外に置くところから始まる」→「出発点、始まり」&nbsp; <br>startやbeginと似ているが、outsetはフォーマルな場や書き言葉で使われやすい。&nbsp; <br>「set out（出発する）」とも関連づけると覚えやすい。	
+P-Iv;O^IeL	Basic	toefl3800::rank3	pastime	娯楽 遊戯	
+Q{{wWD<-No	Basic	toefl3800::rank3	soot	すす	
+fldG&ZvAe!	Basic	toefl3800::rank3	brittle	もろい	
+M-|ct4AdUN	Basic	toefl3800::rank3	paddy field	稲の)水田	
+q@}%:0OQ2A	Basic	toefl3800::rank3	lucid	分かりやすい 明快な・透明な	
+cc9C2MJ*]y	Basic	toefl3800::rank3	cradle	ゆりかご	
+"fWLY*#;5Hf"	Basic	toefl3800::rank3	penetrate	貫く 突き抜ける	
+I:bTZK[s`l	Basic	toefl3800::rank3	abide	規則を)守る	
+DyWa,i$^n>	Basic	toefl3800::rank3	compliance	追従 従うこと	
+m,J%kBPlf$	Basic	toefl3800::rank3	converge	集中する 収束する	
+A@JC@@/^q~	Basic	toefl3800::rank3	solicit	勧誘する・懇願する・熱心に説く	
+N5~%;p=R]r	Basic	toefl3800::rank3	livelihood	生計	
+y`@@av`>{z	Basic	toefl3800::rank3	decomposer	ミミズやバクテリアなどの)分解生物	
+h{}]2.-*/&	Basic	toefl3800::rank3	tangible	有形の	
+kS.H<->o><	Basic	toefl3800::rank3	distrust	疑惑・疑う	
+kS+g1TRDU2	Basic	toefl3800::rank3	empirical	実験に基づいた	
+Nk.H6!dgVx	Basic	toefl3800::rank3	ambivalence	相反する感情 ためらい	
+"G,#WdY-mm("	Basic	toefl3800::rank3	contempt	さげすみ 侮辱 恥辱 侮辱行為	
+OuFq:T-BH7	Basic	toefl3800::rank3	console	慰める 元気づける	
+EpDp:1.=C`	Basic	toefl3800::rank3	volatile	不安定な 揮発性な	
+q-a{`2-vZK	Basic	toefl3800::rank3	eccentric	常軌を逸した 変な	
+GJ$IveG/QW	Basic	toefl3800::rank3	alleviate	和らげる 緩和する	
+i^JPU&/pcv	Basic	toefl3800::rank3	compound	複合 合成 合成の	
+IZY(d(guDv	Basic	toefl3800::rank3	abuse	乱用する 虐待する	
+LA^v4x{G$S	Basic	toefl3800::rank3	credulity	すぐに信じ込む性質	
+y}2BEx(xy=	Basic	toefl3800::rank3	elapse	時が)経過する	
+j:U2C2J*AV	Basic	toefl3800::rank3	exile	追放 流刑	
+Pw*~$,(=pI	Basic	toefl3800::rank3	placebo	偽薬	
+f_n0Xtg%m1	Basic	toefl3800::rank3	addiction	常用 ふけること	
+"o#*fC]J%u:"	Basic	toefl3800::rank3	distort	ゆがめる ねじる	
+y^ZOzbx`Bo	Basic	toefl3800::rank3	commence	始める	
+E[Tm%o=JJK	Basic	toefl3800::rank3	zealot	熱狂する人 狂信者	
+MT7w%}QC?g	Basic	toefl3800::rank3	finesse	巧妙な処理 技巧 策略	
+y=6bfC+w<v	Basic	toefl3800::rank3	numb	かじかんだ まひした ぼうぜんとした	
+LIgr8_5;GT	Basic	toefl3800::rank3	conifer	球果植物 針葉樹	
+"pg{-W+g#z("	Basic	toefl3800::rank3	tractable	従順な 扱いやすい 細工しやすい	
+qXgj.]5Nv|	Basic	toefl3800::rank3	instantaneously	即時に	
+G89ooDU+q[	Basic	toefl3800::rank3	stalk	茎 柄 忍び寄る ストーカー行為をす	
+j;C({s*1BJ	Basic	toefl3800::rank3	husbandry	農業 耕作 節約 家計のやりくり	
+i/xN)+?j4Q	Basic	toefl3800::rank3	retrieve	猟犬が）取ってくる 取り戻す 回収する	
+B{lSWUkKjj	Basic	toefl3800::rank3	torture	拷問 苦痛	
+bTo){iHr{?	Basic	toefl3800::rank3	infringe	権利を侵害する （法を）破る	
+I`|K7kE`:	Basic	toefl3800::rank3	momentous	重大な 重要な	
+"t#v+h%*<#j"	Basic	toefl3800::rank3	incur	負債などを）被る 負う	
+PT=Q3-cxGv	Basic	toefl3800::rank3	grass roots	草の根(運動)	
+Cr87UQt{aQ	Basic	toefl3800::rank3	affliction	苦痛・災難	
+ta`)VM.@d:	Basic	toefl3800::rank3	extort	強制する	
+C2JN~]l8!P	Basic	toefl3800::rank3	tame	調教する 飼いならされた 退屈な	
+p.1ZgJ_Y,w	Basic	toefl3800::rank3	consecutive	引き続く 連続的な	
+jnoVa~Pw,P	Basic	toefl3800::rank3	segregation	人種差別 （人種）隔離	
+lE~]?V3oho	Basic	toefl3800::rank3	heterogeneous	異種）混成の 異成分からなる 不均質の	
+z=%;x}[8mo	Basic	toefl3800::rank3	periphery	周辺部 外周	
+MQTwimWk][	Basic	toefl3800::rank3	insecticide	殺虫剤	
+lk(cX&.vIA	Basic	toefl3800::rank3	rebellion	謀反 反乱	
+"L.*{JY#]kj"	Basic	toefl3800::rank3	pupil	眼の)瞳孔	
+rO;~7Z5nUV	Basic	toefl3800::rank3	itinerary	旅行日程	
+A):u7Q`p2y	Basic	toefl3800::rank3	infallible	決して誤らない 絶対に確実な 信頼の置ける	
+E{m6*(PvM<	Basic	toefl3800::rank3	blatant	ずうずうしい 騒々しい	
+"QwzWg#_[w{"	Basic	toefl3800::rank3	blanket	覆う 毛布	
+IY&/cr`mV@	Basic	toefl3800::rank3	rugged	険しい でこぼこな 困難な	
+HD?QOT@-kH	Basic	toefl3800::rank3	notoriety	悪評	
+eAETK.fXgN	Basic	toefl3800::rank3	infer	推論する 暗示する	
+uWRQak;U7$	Basic	toefl3800::rank3	subordinate	部下 従属する 下位の	
+hgbBDX=f^b	Basic	toefl3800::rank3	Neptune	海王星	
+"sy&{N(#N}Q"	Basic	toefl3800::rank3	impending	差し迫った 切迫した	
+mbB76^d|zn	Basic	toefl3800::rank3	oblivion	忘却	
+m29XDta,_a	Basic	toefl3800::rank3	innate	将来の 先天的な	
+vU]lN$3oui	Basic	toefl3800::rank3	replica	原作の写し 模写 複製	
+PO)XkwrV+$	Basic	toefl3800::rank3	formidable	手ごわい 恐るべき	
+G>Xn0(ane/	Basic	toefl3800::rank3	luminous	光り輝く 明るい・明白な	
+GZ>uj0*3He	Basic	toefl3800::rank3	communal	共同の 公共の 共同社会の 地方自治体の→同義語：mutual	
+K~:rW]tY,j	Basic	toefl3800::rank3	nuisance	迷惑な人[行為 もの]	
+EOY`b<siu6	Basic	toefl3800::rank3	incompatible	馬が合わない 両立しない	
+EPbWths5<w	Basic	toefl3800::rank3	ascertain	事実などを)確かめる 突き止める	
+llF^ME[29c	Basic	toefl3800::rank3	gale	疾風 大風	
+C?&[5>}~[s	Basic	toefl3800::rank3	lateral	横の 側面の	
+E)446aQ{N6	Basic	toefl3800::rank3	miscellaneous	種々雑多な	
+MPS;5Tlu!r	Basic	toefl3800::rank3	rubble	石くず がれき	
+zNGiTr&d7M	Basic	toefl3800::rank3	fluorescence	蛍光発光 蛍光性	
+M!7p0U8,lD	Basic	toefl3800::rank3	inception	活動・組織などの)開始 発端	
+ASuJ,iZ3pQ	Basic	toefl3800::rank3	allotment	割当・配当	
+EH!(Yrw!V?	Basic	toefl3800::rank3	conscience	良心	
+vDH?mDH}xS	Basic	toefl3800::rank3	render	与える 報いる	
+g-nv&48;-F	Basic	toefl3800::rank3	submissive	順々な	
+M}?$Xq|^?A	Basic	toefl3800::rank3	outright	率直に 完全に	
+<-OzT<!5P	Basic	toefl3800::rank3	nominal	名ばかりの	
+lc.qGy=7}{	Basic	toefl3800::rank3	burden	負担 重荷	
+q5Z?,xyS/s	Basic	toefl3800::rank3	superb	素晴らしい	
+JJ)tGy9wWy	Basic	toefl3800::rank3	frugal	質素な 倹約する	
+AviCFC[LJe	Basic	toefl3800::rank3	dubious	いかがわしい 怪しげな	
+oabVa}(U?{	Basic	toefl3800::rank3	cardinal	主要な 基本的な	
+HOq=q(YS0r	Basic	toefl3800::rank3	detergent	洗剤	
+h1O5B/.[,O	Basic	toefl3800::rank3	tacit	無言の	
+pbb76xjtPr	Basic	toefl3800::rank3	mucous membrane	鼻などの）粘膜	
+"nt{Iad+`1#"	Basic	toefl3800::rank3	grim	厳しい 残忍な	
+"CEQ3_w#6^i"	Basic	toefl3800::rank3	catastrophe	大変動 大被害	
+oC7ajbZ~Jp	Basic	toefl3800::rank3	invoice	送り状	
+IoEs^2/3(G	Basic	toefl3800::rank3	barely	かろうじて ほとんど〜ない	
+K%EX,zxjoD	Basic	toefl3800::rank3	ardent	熱心な	
+ikCj3$f_(=	Basic	toefl3800::rank3	stake	利害 くい 棒	
+P$qN_%)Z/H	Basic	toefl3800::rank3	brand-new	真新しい	
+x~X27BMFlL	Basic	toefl3800::rank3	resignation	辞職	
+c_+{Yxdj;^	Basic	toefl3800::rank3	jargon	特殊用語 たわごと	
+l4-cOo$-;4	Basic	toefl3800::rank3	tornado	竜巻	
+"ezY+#S35WI"	Basic	toefl3800::rank3	emancipate	解放する 自由にする	
+Cx/H{`DUju	Basic	toefl3800::rank3	adverse	有害な 不利な 反対する	
+di>ilBtl=(	Basic	toefl3800::rank3	affiliate	提携する 加入する	
+g)vrJH%Ix<	Basic	toefl3800::rank3	simultaneous	同時に起こる	
+"t}zqT%S05#"	Basic	toefl3800::rank3	supreme	至高の	
+rZmy+o@W6/	Basic	toefl3800::rank3	quarry	石などを）切り出す （事実などを）探し出す 石切り場 採石場	
+yAE.4}~omc	Basic	toefl3800::rank3	counterpart	対応する物や人 副本 写し 対のうちの一方	
+B{Bi=Nxtw9	Basic	toefl3800::rank3	pasteurization	低温殺菌 加熱殺菌	
+h*y8*.zB*S	Basic	toefl3800::rank3	hay	干し草	
+mCt^CQt*j0	Basic	toefl3800::rank3	unearth	事実・証拠などを)明るみに出す・発掘する 掘り出す	
+LEmU>mF_U}	Basic	toefl3800::rank3	relevancy	関連・適合性	
+j8PI+I*@0W	Basic	toefl3800::rank3	runoff	地面を流れる雨水 排水 決勝戦	
+eFRmZh5jF;	Basic	toefl3800::rank3	trim	手入れする 刈り込む	
+l2,1llr:cz	Basic	toefl3800::rank3	sodium	ナトリウム	
+y|2vEh:lt{	Basic	toefl3800::rank3	coherent	首尾一貫した	
+bxfrNb{_Bi	Basic	toefl3800::rank3	oppression	圧迫 抑圧	
+hyy_*}pVAB	Basic	toefl3800::rank3	enmity	敵意 憎しみ	
+e55EVHbN4	Basic	toefl3800::rank3	bovine	ウシの のっそりした ウシ科の動物	
+r5(wcB|zzc	Basic	toefl3800::rank3	reclaim	開墾する・矯正する	
+OKmV{KOibA	Basic	toefl3800::rank3	apathetic	無関心な 感情のない 冷淡な	
+j~oA[57`VL	Basic	toefl3800::rank3	asymmetric	非対称な 不釣り合いの	
+E+gJJLK>6&	Basic	toefl3800::rank3	mitigate	和らげる 軽くする	
+C&J]WAaVcK	Basic	toefl3800::rank3	tribute	賛辞 貢物	
+vkt?,/%c.>	Basic	toefl3800::rank3	esteem	尊重する 〜と思う 尊敬	
+"Nz8,y?#,DT"	Basic	toefl3800::rank3	intrude	侵入する 邪魔する	
+i2!Bs}]|=X	Basic	toefl3800::rank3	scan	入念に調べる ざっと見る	
+wwvb^;ORjv	Basic	toefl3800::rank3	double helix	遺伝子の)二重らせん構造	
+x4[x8=?.+l	Basic	toefl3800::rank3	forefather	通例 ～s)(家系に関係なく)父祖 祖先	
+E.?Ijg;Xoo	Basic	toefl3800::rank3	glossary	用語解説 用語辞典	
+O7Pc&tOWA^	Basic	toefl3800::rank3	elliptical	楕円の 長円の 同義語 : oval	
+qwf&ia`3We	Basic	toefl3800::rank3	deploy	配置する	
+jH>TP*~A}K	Basic	toefl3800::rank3	whisker	通常複数形で)ほおひげ (ネコなどの)ひげ	
+gO_y5&%J[v	Basic	toefl3800::rank3	coincide	一致する	
+jwL7_zi3{U	Basic	toefl3800::rank3	setback	妨げ 逆転 後退	
+zJQh(z_;9>	Basic	toefl3800::rank3	affirmative	賛成の 積極的な	
+maRxdCeiuT	Basic	toefl3800::rank3	crescent	三日月	
+EK}W)$sV&w	Basic	toefl3800::rank3	eulogy	賛辞 賞賛	
+MLf2bp4>:h	Basic	toefl3800::rank3	sparrow	スズメ	
+JyRyr+^2tR	Basic	toefl3800::rank3	accordingly	それに応じて したがって	
+GJ|Fq;6=Ot	Basic	toefl3800::rank3	tempt	誘惑する そそのかす	
+"m;#iAB,X[3"	Basic	toefl3800::rank3	inoculation	予防接種	
+efq-%@29TR	Basic	toefl3800::rank3	preliminary	予備的な 準備の	
+G-L3Wv&-$Z	Basic	toefl3800::rank3	incidental	臨時の 付随して起こる 偶然の	
+muo7LMWR`7	Basic	toefl3800::rank3	electron microscope	電子顕微鏡	
+"v+pK>at#12"	Basic	toefl3800::rank3	embellish	飾る 美しくする	
+d=A}*%pU!t	Basic	toefl3800::rank3	insensitive	無関心な・～を感じない・無感覚な	
+z2u:b9Bm5B	Basic	toefl3800::rank3	elusive	理解しにくい 捕えにくい・逃げる	
+rgLct*EM^%	Basic	toefl3800::rank3	embryonic	胎児の 未発達の	
+umCdYM=(W*	Basic	toefl3800::rank3	freight	貨物 船荷 運賃	
+q6K|cE>01C	Basic	toefl3800::rank3	agent	成分 物質 代理人 代理店の	
+N0(o-hgp*F	Basic	toefl3800::rank3	accuse	非難する 告発する	
+IUoi`@Op.~	Basic	toefl3800::rank3	creditor	債権者	
+NG8hBX;Kmy	Basic	toefl3800::rank3	exploit	活用する 開発する （鉱山を）掘る	
+"B6phlUz#$A"	Basic	toefl3800::rank3	candor	素直さ・誠実さ・公平	
+x.oL|Os52x	Basic	toefl3800::rank3	shred	一片 断片 ずたずたに裂く	
+QW;Cep@Ghu	Basic	toefl3800::rank3	foresight	先見 将来への配慮	
+F]).)C(Nq%	Basic	toefl3800::rank3	clemency	寛大さ 慈悲	
+lVE^(PK@XG	Basic	toefl3800::rank3	methodical	秩序だった きちんとした	
+z(.wD$>*0H	Basic	toefl3800::rank3	rectify	改正する 直す	
+m=e?@~/2po	Basic	toefl3800::rank3	scrape	こすり取る こすって滑らかにする	
+yf>t}2sF08	Basic	toefl3800::rank3	precipitous	険しい・絶壁のような	
+Q;E/.gjp?<	Basic	toefl3800::rank3	animate	活気づける 生き生きとした	
+ff.ki&mGTD	Basic	toefl3800::rank3	baroque	バロック式の・バロックの(特にBachやHendelの音楽に代表される)	
+nOi-cGQhZ9	Basic	toefl3800::rank3	junk	がらくた	
+l~!wi8[a_`	Basic	toefl3800::rank3	disintegrate	崩壊する(させる) 分解する(させる)	
+fEijy>JxcP	Basic	toefl3800::rank3	nullify	無効にする	
+c@}U:4q+ut	Basic	toefl3800::rank3	myriad	無数 無数の	
+q*oy9hgYKv	Basic	toefl3800::rank3	phonetic	音声上の	
+b1CV:,+/&c	Basic	toefl3800::rank3	accelerate	加速する	
+u$Dg9!*K]L	Basic	toefl3800::rank3	consequence	結果	
+d@Us~=136a	Basic	toefl3800::rank3	chaotic	混乱した	
+r2C<3&q8F8	Basic	toefl3800::rank3	meticulously	綿密な 細心な	
+uC:}|Q,[_[	Basic	toefl3800::rank3	poultry	家禽（かきん）	
+`N8>|}Hdb	Basic	toefl3800::rank3	anthropology	文化)人類学	
+"La4(T#I[+u"	Basic	toefl3800::rank3	upheaval	激変	
+"IE|$1F/!<#"	Basic	toefl3800::rank3	foster	育てる 養育する	
+u1$B_$9W)]	Basic	toefl3800::rank3	credibility	信用できること 信頼性	
+Odma7L_}0q	Basic	toefl3800::rank3	impair	損なう 減じる	
+x{]R%d@aM9	Basic	toefl3800::rank3	exoskeleton	昆虫の)外骨格	
+"KL^uz7C5#"	Basic	toefl3800::rank3	ellipse	楕円	
+brxGs,^3QM	Basic	toefl3800::rank3	thrifty	つましい 倹約する	
+K@UJ@e%~yg	Basic	toefl3800::rank3	grotesque	奇怪な 異様な グロテスクな	
+eRoQMk=Lh/	Basic	toefl3800::rank3	precaution	予防 警戒	
+s9MgOTZ)16	Basic	toefl3800::rank3	latent	潜在的な 外から見えない	
+y[s8BfT|G7	Basic	toefl3800::rank3	liner	大型の）定期船	
+QaO^nwA%WT	Basic	toefl3800::rank3	huddle	身体を寄せ合う 集まって協議をする 縮こまる	
+bR?Sk84Nbp	Basic	toefl3800::rank3	besiege	包囲する	
+nqS=H8diJf	Basic	toefl3800::rank3	common sense	良識 常識	
+d.]@c>;uSW	Basic	toefl3800::rank3	indiscriminate	無差別の 乱雑な	
+lm9sXteMku	Basic	toefl3800::rank3	perish	腐る 滅びる 死ぬ	
+ly+Fi=Wh=G	Basic	toefl3800::rank3	touchy	厄介な 敏感な	
+c:={;=K+8[	Basic	toefl3800::rank3	retiring	内気な 引っ込み思案な・隠居する	
+lN{YXw>SI5	Basic	toefl3800::rank3	peril	危険	
+e92jk!Zsy{	Basic	toefl3800::rank3	profusion	豊富	
+GwJc$Mn6rK	Basic	toefl3800::rank3	abstain	慎む	
+LJ4Qt$g>eN	Basic	toefl3800::rank3	preside	司会する 統轄する	
+p}6(@?;7Ik	Basic	toefl3800::rank3	predominant	圧倒的な 優勢な	
+"C#8AqX/z4j"	Basic	toefl3800::rank3	bizarre	風変わりな 異様な	
+(zcwz*QPT	Basic	toefl3800::rank3	bewilder	当惑させる	
+rMK+-D5,Z^	Basic	toefl3800::rank3	deplore	非難する 遺憾に思う	
+l>84L{*!&/	Basic	toefl3800::rank3	oxidize	酸化する	
+Mj161_Fp{D	Basic	toefl3800::rank3	embark	乗り出す 乗船する	
+"zZ7-z<zmt#"	Basic	toefl3800::rank3	skelton	骨格	
+L1}C65tR}}	Basic	toefl3800::rank3	authenticate	本物であると証明する	
+y!XKj:L2LL	Basic	toefl3800::rank3	futile	無駄な 無益な くだらない	
+"N3NJIU1#6k"	Basic	toefl3800::rank3	plead	弁護する 嘆願する	
+DiVOB_SaG/	Basic	toefl3800::rank3	mend	補修する	
+nxM@1e4w~.	Basic	toefl3800::rank3	sluggish	停滞した 怠惰な のろい	
+"L_zs$#2%wb"	Basic	toefl3800::rank3	spawn	卵を産む	
+cH{6e6E[q6	Basic	toefl3800::rank3	indispensable	不可欠な	
+gk2^RdzX/&	Basic	toefl3800::rank3	yield	生む 屈服する 譲渡する	
+"C#mY&{ty+j"	Basic	toefl3800::rank3	gum	歯茎	
+vNDk=kp]`p	Basic	toefl3800::rank3	veto	拒否権	
+qW3JU}{vLy	Basic	toefl3800::rank3	contemporary	現代的な 同時代の	
+G+$jzi>PRC	Basic	toefl3800::rank3	psychiatrist	精神科医	
+EK&<*7zR(m	Basic	toefl3800::rank3	liability	責任 義務 負荷 傾向	
+b/79o)=0F-	Basic	toefl3800::rank3	seismology	地震学	
+im;%nDhVZx	Basic	toefl3800::rank3	ordinance	法令 布告	
+F0r}&Zyu*9	Basic	toefl3800::rank3	herbicide	除草剤	
+g/21Ie1+h;	Basic	toefl3800::rank3	rookery	集団繁殖地	
+iec%Ch.B]A	Basic	toefl3800::rank3	appendix	付録 虫垂	
+fP<;`:|rd9	Basic	toefl3800::rank3	topography	地形（学）	
+s=zln&BO){	Basic	toefl3800::rank3	derive	由来する	
+l`:F)S$Q!c	Basic	toefl3800::rank3	mediate	調停する 仲介する	
+Rjb0y+`/{S	Basic	toefl3800::rank3	coagulate	液体が）凝固する 固まる	
+b51FEhMd7.	Basic	toefl3800::rank3	anonymity	無名(作者不明)であること 匿名者	
+pN%0.yHYv:	Basic	toefl3800::rank3	unwarranted	不当な 保証されていない 公認されていない	
+n]iPp:U^Uk	Basic	toefl3800::rank3	coniferous tree	針葉樹	
+v9E!_Qx]lw	Basic	toefl3800::rank3	makeshift	間に合わせ(の) やりくり	
+m=zMPOZ&}1	Basic	toefl3800::rank3	tangle	紛糾(混乱)させる	
+c~tRq--~B!	Basic	toefl3800::rank3	taper	先細りになること・細いろうそく 次第に減る 弱まる	
+LyadG7m!uk	Basic	toefl3800::rank3	redundant	余分な	
+"v#gt*fiIC8"	Basic	toefl3800::rank3	replicate	複製する 模写する 再生された	
+oy)wo_`HnN	Basic	toefl3800::rank3	procession	行列 行進	
+j$M5dNg$p+	Basic	toefl3800::rank3	celestial	天の 空の 天体の	
+"lE=x;#b{$3"	Basic	toefl3800::rank3	sophistication	洗練された考え 高尚な好み 精巧化	
+Hh-C)WF|Bp	Basic	toefl3800::rank3	dine	食事する	
+x?L^%JE;G:	Basic	toefl3800::rank3	reservation	予約 心配事 気がかり	
+G6&Gjor*;<	Basic	toefl3800::rank3	heredity	遺伝	
+HVem,,3uW`	Basic	toefl3800::rank3	aberration	異常 常軌を逸する事	
+QtxKb8a~&q	Basic	toefl3800::rank3	marital	結婚の 夫婦間の	
+"d=N~13#mS0"	Basic	toefl3800::rank3	exert	努力する・用いる・発揮する	
+yb0JU_Ne(1	Basic	toefl3800::rank3	illusive	錯覚を起こさせる 幻想的な	
+Qs,Ode,8TQ	Basic	toefl3800::rank3	stockpile	備蓄する 備蓄	
+FrjwE<p&nl	Basic	toefl3800::rank3	greenback	米ドル紙幣	
+lql|KP>OLY	Basic	toefl3800::rank3	coercion	強制 威圧	
+"p#5[QkJ&|e"	Basic	toefl3800::rank3	offshore	海外の 沖の	
+"JUB3Z{ypq#"	Basic	toefl3800::rank3	lapse	ちょっとした誤り	
+y1VD%V:WDK	Basic	toefl3800::rank3	whistle	口笛を吹く	
+"JIqxl]jh#s"	Basic	toefl3800::rank3	audit	監査する	
+iLi~EMl`i&	Basic	toefl3800::rank3	plenitude	十分 豊富	
+"k`K2n5#Vc^"	Basic	toefl3800::rank3	tow	けん引する	
+p+R~9EI`pi	Basic	toefl3800::rank3	jurisdiction	司法などの)管轄権	
+kGX>npAO8<	Basic	toefl3800::rank3	dissident	反体制派(の人)	
+lv)hRI3wi7	Basic	toefl3800::rank3	dismiss	解雇する 去らせる	
+sfr}cPstJ	Basic	toefl3800::rank3	enlightenment	啓発 啓蒙	
+"n~Ae]v#mQz"	Basic	toefl3800::rank3	evergreen	常緑の	
+ERcg+?43XV	Basic	toefl3800::rank3	levity	軽薄 不謹慎	
+G}D_PF{=rT	Basic	toefl3800::rank3	wharf	埠頭	
+Qu1z6;B]F*	Basic	toefl3800::rank3	virtual	仮想の 実質上の	
+e/fVd+rESB	Basic	toefl3800::rank3	descend	下る 受け継がれる	
+k?@vTWzF7L	Basic	toefl3800::rank3	outlook	外観・眺望	
+qlGwnQI!XN	Basic	toefl3800::rank3	defame	中傷する	
+B{8LJ$!OEi	Basic	toefl3800::rank3	energize	元気付ける 活力を与える	
+K}e!>[QWM$	Basic	toefl3800::rank3	seismic	地震の	
+j^~.o|VAbT	Basic	toefl3800::rank3	authentic	本物の 信頼できる	
+eiG+I=]Dr$	Basic	toefl3800::rank3	buoy	下落しないように)支える 浮かす	
+y5n5zfowDk	Basic	toefl3800::rank3	ardor	熱心 熱意	
+iW+.1D>J0_	Basic	toefl3800::rank3	siege	包囲(攻撃)	
+kEe5H}~e~/	Basic	toefl3800::rank3	mirage	蜃気楼	
+o%[x!&ENdh	Basic	toefl3800::rank3	transparent	透明な	
+P^)buNK1yP	Basic	toefl3800::rank3	assessment	査定 評価 アセスメント 評価額	
+"k7c__^apP#"	Basic	toefl3800::rank3	credence	信用	
+gVsF5hQw[c	Basic	toefl3800::rank3	flux	流動 琉転	
+rXlffrZcRo	Basic	toefl3800::rank3	lumber	のしのし歩く 木材 材木	
+u@-of=0]eG	Basic	toefl3800::rank3	solitary	孤独の	
+k^5mR}qucO	Basic	toefl3800::rank3	hinder	妨害する	
+5%&dQ>OAt	Basic	toefl3800::rank3	constraint	強制 制約 束縛	
+g4Tjrh3U1l	Basic	toefl3800::rank3	practical	実際の 実用の 事実上の	
+je>kPT_&=Q	Basic	toefl3800::rank3	divergent	異なる・分岐する	
+QJG$R95IM4	Basic	toefl3800::rank3	integrate	統一する まとめる 溶けこませる	
+x@EaPis[4Y	Basic	toefl3800::rank3	anomaly	異例な物(人） 破格	
+qzNl+/id?V	Basic	toefl3800::rank3	proximity	近接	
+F[:Hm?+JR]	Basic	toefl3800::rank3	affluence	富裕 豊富さ	
+G|dUmBq6o(	Basic	toefl3800::rank3	amicable	友好的な	
+cQ5=Hs;Jc)	Basic	toefl3800::rank3	repent	後悔する	
+LtJ0/s$-Dv	Basic	toefl3800::rank3	conversion	転換 改宗 換算	
+f:M`VPn(AO	Basic	toefl3800::rank3	diurnal	昼間活動する・昼間の	
+gAol4+8g=C	Basic	toefl3800::rank3	genetics	遺伝学	
+n3,4%GUt-H	Basic	toefl3800::rank3	ordeal	試練	
+x@X&<o%m7L	Basic	toefl3800::rank3	incubate	卵をかえす 培養する	
+AEV(xZ~DH+	Basic	toefl3800::rank3	cumbersome	重く大きくて)扱いにくい 厄介な	
+fLq<vH3?$b	Basic	toefl3800::rank3	adhere	忠実である 固執する しっかりと付く	
+dhI}d2Rc.6	Basic	toefl3800::rank3	delete	削除する 消す	
+vGAhVn_1u?	Basic	toefl3800::rank3	maternal	母親の 母親らしい	
+"D#<#:4rNlA"	Basic	toefl3800::rank3	spark	火花 火花を出す スパークする	
+B_b5X-|m;?	Basic	toefl3800::rank3	thorax	胸部	
+Emi3`Nk73;	Basic	toefl3800::rank3	preclude	排除する	
+ld_tz?*L^%	Basic	toefl3800::rank3	exacerbate	悪化させる 怒らせる	
+Fz/v$PA7El	Basic	toefl3800::rank3	erratic	不規則な とっぴな	
+IVA~_wjCwx	Basic	toefl3800::rank3	petty	ささいな 小規模な 価値の少ない 取るに足らない	
+dRbro1n(Tl	Basic	toefl3800::rank3	latency period	病気の)潜伏期間	
+cu,sa!Q7q	Basic	toefl3800::rank3	faction	党派 派閥	
+Ba{{:D.+B+	Basic	toefl3800::rank3	excerpt	抜粋	
+u~0cu)cL+<	Basic	toefl3800::rank3	woe	悲痛 苦悩・災難	
+z$-LEMOY]1	Basic	toefl3800::rank3	equivocal	はっきりしない 両義にとれる	
+o;bnMIUKX!	Basic	toefl3800::rank3	afflict	悩ます 苦しめる	
+dX~|[H!S9f	Basic	toefl3800::rank3	eradicate	根絶する 撲滅する	
+K|_ai&tq/V	Basic	toefl3800::rank3	despise	軽蔑する ばかにする	
+qyp2K:s..g	Basic	toefl3800::rank3	riverbed	川底	
+pIIcxi&Z?x	Basic	toefl3800::rank3	rudimentary	基本的な 初歩的な 原始的な	
+lcnx<J0t@8	Basic	toefl3800::rank3	wilderness	自然の原野 荒野	
+e`U2Mj})b5	Basic	toefl3800::rank3	static	変化のない 静的な	
+N[/!QUGQdo	Basic	toefl3800::rank3	frontier	国境 辺境 フロンティア	
+zg7]7*=9z,	Basic	toefl3800::rank3	benign	穏やかな 慈悲深い （腫瘍などが）良性の	
+wJnz/6Xk7S	Basic	toefl3800::rank3	intermittent	断続的な 時々とぎれる	
+u1F<fYMiBM	Basic	toefl3800::rank3	onlooker	傍観者	
+e0cF(wl1?T	Basic	toefl3800::rank3	spiral	らせんの	
+bX)m2@xC3X	Basic	toefl3800::rank3	evasion	回避 いいのがれ	
+Cd179jO:lf	Basic	toefl3800::rank3	boost	値を）引き上げる	
+qOYqS5xm>r	Basic	toefl3800::rank3	remorse	深い悔恨 自責の念	
+oIzRL_URcW	Basic	toefl3800::rank3	cite	引用する	
+vTL4fjbH,A	Basic	toefl3800::rank3	missing	行方不明の	
+gow=kC:0il	Basic	toefl3800::rank3	oust	権利などを)取り上げる・追放する	
+r1$0Z?ER,d	Basic	toefl3800::rank3	purchasing power	購買力	
+e}6en04&<^	Basic	toefl3800::rank3	manipulate	巧みに操作する 改ざんする	
+h*pGj;B6|T	Basic	toefl3800::rank3	overwhelm	困惑させる 圧倒する 打ちのめす	
+m{D4{Wzl2d	Basic	toefl3800::rank3	concession	譲歩	
+pGaTVoJvWw	Basic	toefl3800::rank3	prone	する傾向がある うつぶせの	
+QU2{,L8Avm	Basic	toefl3800::rank3	tariff	関税 料金	
+s,1Xn!PuS>	Basic	toefl3800::rank3	collaborate	共同して働く	
+c*yz$T!4|F	Basic	toefl3800::rank3	demystify	解明する 神秘性を取り除く	
+fZ6DXT^`1&	Basic	toefl3800::rank3	utmost	最大限の	
+C5Vz30v.W,	Basic	toefl3800::rank3	itchy	かゆい うずうずする	
+IMur[57ZHy	Basic	toefl3800::rank3	perspective	観点 眺望 遠近法	
+l)>&k&F;As	Basic	toefl3800::rank3	exhaustive	完全な 徹底的な	
+f@KYEse[kD	Basic	toefl3800::rank3	testimony	証明 証言	
+f^6/hca]w|	Basic	toefl3800::rank3	cuisine	料理(法)	
+C`)I3|C>pL	Basic	toefl3800::rank3	integral	不可欠な 完全無欠な 整数の 積分の	
+on/:%&(ttv	Basic	toefl3800::rank3	requisite	必要な 必須の	
+lY68Mjf+P&	Basic	toefl3800::rank3	opportunist	日和見主義者	
+byDY&B!vIs	Basic	toefl3800::rank3	legislation	法律 立法	
+me+3>brtvd	Basic	toefl3800::rank3	congruence	一致	
+d{PMIK!e01	Basic	toefl3800::rank3	grope	手さぐりする	
+t~Nn)9}Cco	Basic	toefl3800::rank3	sympathy	思いやり 同情	
+O7Ru)mRM.S	Basic	toefl3800::rank3	don	着る かぶる	
+AT`rOVt?4o	Basic	toefl3800::rank3	ratify	批准する	
+QD]7YPh+je	Basic	toefl3800::rank3	tantalize	じらす	
+J}|0.R)}wO	Basic	toefl3800::rank3	stipulate	明記する 規定する 要求する	
+tg(aNl?8u:	Basic	toefl3800::rank3	pregnant	妊娠した 意味深長な 創意工夫に富む	
+"AH*#74S]Do"	Basic	toefl3800::rank3	clumsy	不器用な	
+Kg%Sxa|+r3	Basic	toefl3800::rank3	resonant	朗々とした 鳴り響く 反響する	
+"i!.25xs2z#"	Basic	toefl3800::rank3	controversial	論争的な	
+rbf]pOt>2w	Basic	toefl3800::rank3	exquisite	この上なく素晴らしい 洗練された	
+s<!YB7Ix,j	Basic	toefl3800::rank3	avalanche	雪崩	
+jk%w-{5I46	Basic	toefl3800::rank3	multitude	多数	
+sAcT[}WzFN	Basic	toefl3800::rank3	preface	序文	
+b`89DNhr?T	Basic	toefl3800::rank3	enigma	謎	
+"HZ2.#(<<P3"	Basic	toefl3800::rank3	bureaucracy	官僚政治 官僚制度	
+o}&b9j$Z=&	Basic	toefl3800::rank3	per capita	一人当たりの	
+jo%}wSItn6	Basic	toefl3800::rank3	orientation	進路指導 オリエンテーション	
+bpd__GQxT[	Basic	toefl3800::rank3	successive	連続する 次の	
+IGoY_Ya0x3	Basic	toefl3800::rank3	interim	しばらくの間 合間 一時の 仮の	
+"I[#M.6eQ>~"	Basic	toefl3800::rank3	averse	嫌って 反対して	
+lyk(fjvUZg	Basic	toefl3800::rank3	subsidiary	子会社 補助員 補助的な 補助金による	
+"t#w5Wc+8;D"	Basic	toefl3800::rank3	startle	驚かせる	
+Du.;|.QRr<	Basic	toefl3800::rank3	hefty	多量の 非常に重い	
+Js.ryL>4y0	Basic	toefl3800::rank3	incontrovertible	明白な 議論の余地のない	
+OiO=Tu`~,2	Basic	toefl3800::rank3	prolific	多産の 豊かな	
+"x=YhTj#,6Q"	Basic	toefl3800::rank3	stereotype	固定観念 決まり文句	
+mAN5t3=TJ{	Basic	toefl3800::rank3	perpetual	永続的な	
+F@&;-pvhSx	Basic	toefl3800::rank3	stray	それる 脱線する 迷い出た はぐれた	
+"xh[#)x=uO,"	Basic	toefl3800::rank3	dogmatic	独断的な・教義上の	
+dbD=p&-O<s	Basic	toefl3800::rank3	embezzle	横領する 使い込む	
+e*DVifyj4p	Basic	toefl3800::rank3	statistics	統計学 統計（資料）	
+E%Kgdz:zN%	Basic	toefl3800::rank3	unleash	解放する （感情などを）爆発させる （犬の）鎖を外す	
+O*}Et8!m`	Basic	toefl3800::rank3	diligence	勤勉	
+Jf*?&J4b@*	Basic	toefl3800::rank3	inhibit	抑制する （行動・発達などを）妨げる	
+"f#d4+`C.HN"	Basic	toefl3800::rank3	mountain lion	アメリカライオン ピューマ クーガー	
+yy7EG8a(K`	Basic	toefl3800::rank3	visionary	先見の明がある 夢想的な	
+pZn,lyPw+c	Basic	toefl3800::rank3	preponderance	優勢 優越	
+p$$7IEn=2c	Basic	toefl3800::rank3	canine	犬の イヌ科の	
+"Da#8.IGv*C"	Basic	toefl3800::rank3	pliable	曲げやすい 適応性のある	
+k9XH~aJ|s<	Basic	toefl3800::rank3	provincial	州の 地方の 粗野な	
+K_IVYx<(d1	Basic	toefl3800::rank3	smuggle	密輸する	
+Og,Z2CXr>,	Basic	toefl3800::rank3	thorn	植物の)とげ	
+h^4jsR*<{*	Basic	toefl3800::rank3	subsidize	補助金を支給する	
+eQIAR0boS|	Basic	toefl3800::rank3	credential	通例 ～s)信任状	
+M@83&9ruR8	Basic	toefl3800::rank3	stagnant	よどんだ 活気が無い	
+m[qm}4[idW	Basic	toefl3800::rank3	disruption	混乱 中断 妨害	
+t<+~=>7SDh	Basic	toefl3800::rank3	token	しるし 象徴 記念品 トークン（地下鉄などの代用貨幣）	
+"o#j%.?2v!|"	Basic	toefl3800::rank3	induce	誘発する	
+ktn:L?1U,b	Basic	toefl3800::rank3	glimpse	ちらりと見えること	
+jsyQ|wJxU@	Basic	toefl3800::rank3	sanction	認可 賛成 制裁	
+"KMY#R}4tV*"	Basic	toefl3800::rank3	impulse	衝動	
+m3r|Ho7:[L	Basic	toefl3800::rank3	luminary	発光体 権威者 名士	
+GH[yG,gRpq	Basic	toefl3800::rank3	rehabilitate	健康を元通りにする 修復する	
+KoaS`3<M82	Basic	toefl3800::rank3	rhetoric	効果的な話し方 修辞学	
+gq78pRAtVU	Basic	toefl3800::rank3	gastric ulcer	胃潰瘍	
+r*y~daJd!1	Basic	toefl3800::rank3	equilibrium	つりあい 均衡 バランス 心の平静	
+Lwr:Kl|)F^	Basic	toefl3800::rank3	subsequent	続いて起こる その後の	
+O`{%S@zdXU	Basic	toefl3800::rank3	underpin	支える 補強する	
+AduFo}8RT$	Basic	toefl3800::rank3	illusion	幻想 錯覚 幻影 まぼろし	
+"n8Gp28#qd%"	Basic	toefl3800::rank3	sporadic	散発的な 時々起こる	
+"Cte#llx`oh"	Basic	toefl3800::rank3	founder	創設者 創立者	
+Fsn!CY/+Z1	Basic	toefl3800::rank3	exemplify	例証する 良い例となる	
+nz*|[$^-TV	Basic	toefl3800::rank3	idiosyncrasy	特異性・独特な性癖	
+K3RE$~.$vF	Basic	toefl3800::rank3	Uranus	天王星	
+g4V:iE}<!6	Basic	toefl3800::rank3	austere	厳しい 質素な	
+zF(PYqivSb	Basic	toefl3800::rank3	condolence	哀悼 悔やみ	
+Oj?SPEsze+	Basic	toefl3800::rank3	skeptic	懐疑論者 疑い深い人	
+Icz{cv-`1c	Basic	toefl3800::rank3	ambiguous	あいまいな 多義的な	
+ErAoJ}bJVh	Basic	toefl3800::rank3	practitioner	開業者 弁護士 開業医 療法士	
+x*`3Fogq^e	Basic	toefl3800::rank3	lubricate	滑らかにする 潤滑油を差す	
+L0wMsqhToO	Basic	toefl3800::rank3	revenue	収入 歳入	
+ps^3_n!,]7	Basic	toefl3800::rank3	purge	取り除く 一掃する	
+hy>r5!.EE6	Basic	toefl3800::rank3	traumatic	精神的外傷を引き起こす 外傷の	
+y[e<90TcVi	Basic	toefl3800::rank3	convene	招集する	
+k`Ws2+;CJ_	Basic	toefl3800::rank3	legacy	遺産	
+L`5V9LJ*3A	Basic	toefl3800::rank3	peer	同僚 凝視する	
+f@xLx7JdXG	Basic	toefl3800::rank3	squall	スコール 突風	
+zs3[R@_j%S	Basic	toefl3800::rank3	pretentious	うぬぼれた これみよがしの	
+tG=%M4A?.`	Basic	toefl3800::rank3	obsolete	古くなった 廃れた 退化した	
+qS${qKmkbW	Basic	toefl3800::rank3	autonomous	自治権のある	
+J-|O?>Sg6_	Basic	toefl3800::rank3	legitimate	正当な 合法的な	
+J3:G:HXbd?	Basic	toefl3800::rank3	definitive	最終的な 決定的な 完成した	
+"s#[D$Vbw]b"	Basic	toefl3800::rank3	novelty	珍しさ 斬新さ 目新しい物	
+"K#9nbOr1/T"	Basic	toefl3800::rank3	maritime	海事の 海の 沿岸近くに住む	
+QXql?)?!-Y	Basic	toefl3800::rank3	alert	用心深い 機敏な 警戒態勢に置く 警戒 警報	
+gy<f}^Nt@+	Basic	toefl3800::rank3	recede	後退する 弱まる	
+sj=YWB*d@9	Basic	toefl3800::rank3	consequently	その結果として	
+e$u2[N$b1	Basic	toefl3800::rank3	acquire	手に入れる 習得する	
+"Oc~]yx|B@#"	Basic	toefl3800::rank3	extravagant	ぜいたくな 金遣いの荒い	
+c[($<,f-RG	Basic	toefl3800::rank3	seep	水などが)漏れる	
+DDA&@c0G$	Basic	toefl3800::rank3	glitter	きらきら輝く	
+d)8Uf2WX^^	Basic	toefl3800::rank3	additive	食品などの）添加物	
+"PDQ3$#P?r{"	Basic	toefl3800::rank3	agenda	議事 議題 協議事項リスト	
+I>nE{]FGso	Basic	toefl3800::rank3	intriguing	興味をそそる 好奇心をかきたてる	
+Go~yg%?`KO	Basic	toefl3800::rank3	massacre	大虐殺	
+DyvNic?px{	Basic	toefl3800::rank3	censor	検閲する	
+w}){O|*3!{	Basic	toefl3800::rank3	outgoing	社交的な 外交的な	
+Ez5-t{ZE/7	Basic	toefl3800::rank3	fortress	要塞 とりで	
+yd>fm]!t&s	Basic	toefl3800::rank3	gloomy	憂鬱な	
+pEpv0A{_pg	Basic	toefl3800::rank3	concede	認める 許す 譲歩する	
+JA.$xJ~`P	Basic	toefl3800::rank3	universala	普遍的な 一般的な 宇宙の	
+p?`>@b=tZd	Basic	toefl3800::rank3	lieu	場所	
+bOX(1Ax4vS	Basic	toefl3800::rank3	preeminent	卓越した 優位の	
+NKWOR]6rQh	Basic	toefl3800::rank3	inflate	膨らませる 物価を上げる	
+FC]QO%mv?4	Basic	toefl3800::rank3	incomprehensible	理解できない わかりにくい	
+UcW1[f*j^	Basic	toefl3800::rank3	momentum	運動量 はずみ	
+ynP7C7L3>O	Basic	toefl3800::rank3	barren	不毛の	
+"mfiGmV#C=U"	Basic	toefl3800::rank3	pertinent	関連する 適切な	
+eVaVREf(S2	Basic	toefl3800::rank3	elated	大得意の 意気盛んな	
+Ls?w4oeR,U	Basic	toefl3800::rank3	mob	暴徒 群衆	
+kN+7jj-=ez	Basic	toefl3800::rank3	jellyfish	クラゲ	
+wTLR<H1q`C	Basic	toefl3800::rank3	havoc	大混乱 大破壊	
+gr?n5Pnrf7	Basic	toefl3800::rank3	eclectic	折衷的な 取捨選択からなる	
+mPjznlXw.!	Basic	toefl3800::rank3	obstinate	頑固な 手に負えない	
+hH{(](dF@M	Basic	toefl3800::rank3	standstill	停止 足踏み状態	
+mgJpui{Szu	Basic	toefl3800::rank3	fervor	熱情 熱意	
+L%mZ>=TuR}	Basic	toefl3800::rank3	tuberculosis	結核	
+G2&8BjN|UF	Basic	toefl3800::rank3	incisive	明敏な 鋭い	
+ot46P_L|5B	Basic	toefl3800::rank3	nautical	航海の 船員の	
+h+oR@B`nu3	Basic	toefl3800::rank3	deplete	資源などを)消耗(減耗)する 使い果たす	
+O/Oe578nD^	Basic	toefl3800::rank3	defendant	被告	
+u(,NsS*p&^	Basic	toefl3800::rank3	improbable	ありそうもない 信じがたい	
+"kwx#*1r7)@"	Basic	toefl3800::rank3	decay	荒廃する 衰える 減衰する	
+L%6u+&%H+n	Basic	toefl3800::rank3	nectar	植物の)蜜	
+x9mo~vjD>w	Basic	toefl3800::rank3	concise	簡潔な	
+PdaukD|E2;	Basic	toefl3800::rank3	ascendancy	優位 支配	
+<c0I$)(H8	Basic	toefl3800::rank3	lean	寄りかかる 傾ける	
+xZpK)`uxdj	Basic	toefl3800::rank3	gargle	うがいをする	
+FpjtY=G-2N	Basic	toefl3800::rank3	abolish	廃止する	
+JhA/ZJE<Yk	Basic	toefl3800::rank3	devastate	荒廃させる 打ちのめす	
+OK111YTXEu	Basic	toefl3800::rank3	shudder	恐怖などで)震える	
+GSlRLbA{ao	Basic	toefl3800::rank3	illiterate	読み書きのできない	
+F--UZ+XD5M	Basic	toefl3800::rank3	wedge	くさび くさびで固定する 押しこむ	
+ymK0Y)jf9D	Basic	toefl3800::rank3	living standard	生活水準	
+A,MtJkPyel	Basic	toefl3800::rank3	hypothetical	仮説に基づいた 仮定の	
+y8Z,$Ri&6w	Basic	toefl3800::rank3	plateau	高原 大地	
+nDi1F}rIWB	Basic	toefl3800::rank3	dismal	陰気な 憂鬱な	
+O,-[Rl:@5G	Basic	toefl3800::rank3	parameter	要因 媒介変数	
+i=f9b!-R&]	Basic	toefl3800::rank3	phobia	恐怖症 病的恐怖（嫌悪）	
+fTB-oS3S,.	Basic	toefl3800::rank3	posterity	"one&#x27;s ～)子孫 (集合的に)後世の人々"	
+B8bt7ZPL7>	Basic	toefl3800::rank3	saturate	すっかりぬらす・満たす	
+FYTMEbuo,0	Basic	toefl3800::rank3	compensate	補償する	
+q+{!f}7UHv	Basic	toefl3800::rank3	fanaticism	熱狂 狂信	
+m2bFF./4@m	Basic	toefl3800::rank3	provision	準備 食料の供給 （法案などの）条項	
+hi*^h7bczN	Basic	toefl3800::rank3	cease	やめる 終わる	
+NOg)pQlG^T	Basic	toefl3800::rank3	presumption	推測 推定	
+"s9@#/qfyq~"	Basic	toefl3800::rank3	suffocate	窒息する	
+v.WnDUjAc4	Basic	toefl3800::rank3	sore	痛い いらいらして	
+N;cVY*~j4d	Basic	toefl3800::rank3	mystical	神秘的な 神秘主義の	
+P&l3vO;{p4	Basic	toefl3800::rank3	forbearance	差し控えること 忍耐 寛容	
+i94SxWn9dw	Basic	toefl3800::rank3	imaginable	想像できる	
+Qzg1f0fWO/	Basic	toefl3800::rank3	monumental	途方もない 非常に大きい 壮大な 記念碑の 不朽の	
+f:^/0x]C/r	Basic	toefl3800::rank3	pueblo	プエブロ族（北米の先住民族） れんが造りの北米先住民の集落	
+umR%OX2%FK	Basic	toefl3800::rank3	haphazard	でたらめの 偶然の 行きあたりばったりの	
+Q1A^tJn%gJ	Basic	toefl3800::rank3	precede	先導する 先んじる	
+DjRj8OSb0h	Basic	toefl3800::rank3	soothe	和らげる なだめる	
+JEhdTw*uhk	Basic	toefl3800::rank3	prompt	迅速な 即座の	
+3ZfMmo5Uf	Basic	toefl3800::rank3	depict	描く 描写する	
+4w>Mj]9gu	Basic	toefl3800::rank3	reservoir	貯蔵所 貯水池	
+hES%;HTuq0	Basic	toefl3800::rank3	propriety	礼儀正しさ・作法・適当さ	
+CaP65}4IS!	Basic	toefl3800::rank3	speculate	推測する 考える 投機する	
+maWtz+27G0	Basic	toefl3800::rank3	quota	割り当て	
+x,IH,cp*,}	Basic	toefl3800::rank3	footnote	脚注	
+"O8Kcj.#.Xw"	Basic	toefl3800::rank3	outnumber	数でまさる 多い	
+FN{:B?LT~H	Basic	toefl3800::rank3	curtail	削減する 短縮する	
+Jq(2vVxQe}	Basic	toefl3800::rank3	restless	眠れない 休まらない 不安な	
+Fp<JWokE|R	Basic	toefl3800::rank3	augment	増加させる	
+kyt@:~`<MB	Basic	toefl3800::rank3	contingency	不測の事態 偶然性	
+n[a0*R=GzL	Basic	toefl3800::rank3	benevolent	慈悲深い 親切な	
+cr,yuw2x)0	Basic	toefl3800::rank3	scorch	皮膚などを)焼く 焦がす	
+h[rTLBprzz	Basic	toefl3800::rank3	burrow	動物の）穴 隠れ場	
+y0bBsTpR4*	Basic	toefl3800::rank3	terminate	終わらせる 終結させる・終わる	
+wF38TU;C|z	Basic	toefl3800::rank3	wax	ろう	
+AE!6-WT,V0	Basic	toefl3800::rank3	salient	目立った 顕著な	
+b*JiA[xCaU	Basic	toefl3800::rank3	perplex	当惑させる 困らせる	
+xB[;u-`iZh	Basic	toefl3800::rank3	provoke	怒らせる 引き起こす	
+IJZ3uEk=A.	Basic	toefl3800::rank3	compatible	互換性のある 矛盾のない	
+re^SqHX2LL	Basic	toefl3800::rank3	divert	そらす 迂回させる	
+mE/9zd>&>t	Basic	toefl3800::rank3	temporary	一時的な 臨時の	
+Jb)v1n{5`V	Basic	toefl3800::rank3	lagoon	潟 小さな沼	
+w>YarEDgKO	Basic	toefl3800::rank3	plague	疫病 伝染病 災害 異常発生 疫病にかからせる 悩ませる	
+oIN+,D_Mo@	Basic	toefl3800::rank3	elaborate	詳しく説明する 念入りに作る	
+"tmfMuFq%#j"	Basic	toefl3800::rank3	consolidate	合併する 強固にする	
+E%Ql^.$>RV	Basic	toefl3800::rank3	inert	不活性の 不活発な	
+h+spcoz2Ec	Basic	toefl3800::rank3	precise	正確な 精密な はっきりした	
+M~,:2@H@(3	Basic	toefl3800::rank3	vowel	母音	
+jC|_Eo:sj&	Basic	toefl3800::rank3	irrelevant	関係のない 見当違いの 的外れの	
+td/B{*0BIO	Basic	toefl3800::rank3	trough	波などの)谷間 (景気の)底	
+Kval96Xe!<	Basic	toefl3800::rank3	valid	有効な 合法的な 論理的な	
+i)wtyDM@={	Basic	toefl3800::rank3	incentive	刺激 動機 誘因	
+BCHEy<l-5N	Basic	toefl3800::rank3	pathetic	痛ましい 哀れを誘う 惨めな 物哀しい	
+"xI8#WyzL8@"	Basic	toefl3800::rank3	growl	うなる 怒鳴り声で言う	
+i)WI~K{CT8	Basic	toefl3800::rank3	expiration	満期・(権利の)失効	
+"L(j#86<VAu"	Basic	toefl3800::rank3	perfunctory	いい加減な やる気のない	
+M7Q{*3B]@7	Basic	toefl3800::rank3	forerunner	先駆者 前進 前ぶれ	
+s=||7H26Eu	Basic	toefl3800::rank3	influenza	インフルエンザ	
+iWH(Mo+B|G	Basic	toefl3800::rank3	prevail	広く行き渡る	
+PqW|9?0lK/	Basic	toefl3800::rank3	ascribe	原因を)～に帰する ~のせいにする	
+PacYuVLN7u	Basic	toefl3800::rank3	right angle	直角	
+s`Q|{{qL|c	Basic	toefl3800::rank3	comply	規則・基準などに)従う	
+"i~$^NL_V#+"	Basic	toefl3800::rank3	enhance	価値・性能・魅力などを)高める 増す	
+w}Q.}lP4,c	Basic	toefl3800::rank3	ponder	熟考する	
+omZ%sTa[uf	Basic	toefl3800::rank3	timid	臆病な	
+k@5xBN@H:l	Basic	toefl3800::rank3	bill	法案 請求書 請求書を送る	
+nrY&V9pz&)	Basic	toefl3800::rank3	hoist	つり上げる 持ち上げる	
+"e9Jb>N7#)m"	Basic	toefl3800::rank3	pest	害虫 疫病	
+rUyy?P7Xxx	Basic	toefl3800::rank3	obese	肥満した 太り過ぎの	
+N$v3mQuZPS	Basic	toefl3800::rank3	fleet	艦隊 船団 すばやい 快速の	
+"IY#Fq7XcU."	Basic	toefl3800::rank3	manifest	明白な はっきりとした 明らかにする	
+MBzLP95ZKC	Basic	toefl3800::rank3	foreshadow	の前兆となる 前もって示す	
+JN~x%gdiKD	Basic	toefl3800::rank3	menace	脅迫 おどし 脅威 危険人物	
+dVG[F/NZFM	Basic	toefl3800::rank3	ascend	上昇する 登る	
+OE.hBQIWGk	Basic	toefl3800::rank3	industrious	勤勉な	
+kvvG&rD,M6	Basic	toefl3800::rank3	trivial	ささいな つまらない	
+GKLgN>PM}J	Basic	toefl3800::rank3	furor	熱狂 興奮 激怒	
+"L#rtq!0/y+"	Basic	toefl3800::rank3	indulge	甘やかす	
+q(ie^smRbI	Basic	toefl3800::rank3	capricious	気まぐれな 移り気な	
+imEyy*UR2<	Basic	toefl3800::rank3	introvert	内向的な	
+d>hu[GAnj}	Basic	toefl3800::rank3	retract	取り消す・引っ込める	
+J;v^6GL+PK	Basic	toefl3800::rank3	waive	権利などを）自発的に放棄する	
+"P>#BWZP])Y"	Basic	toefl3800::rank3	monetary	通貨の 金融上の 金銭の	
+w^(JigY-fB	Basic	toefl3800::rank3	concord	一致 調和	
+Mb|OE9B|HS	Basic	toefl3800::rank3	rebel	反逆者	
+HLlqkl&G:V	Basic	toefl3800::rank3	prototype	典型 模範 原型 試作品	
+xr[`rOII!-	Basic	toefl3800::rank3	finite	限られた 有限の	
+Ql&a*v8vAE	Basic	toefl3800::rank3	detached	公平な 独立した	
+m&TvA1Z0RK	Basic	toefl3800::rank3	criterion	判断・評価の)基準 標準	
+ty/{}*_G?^	Basic	toefl3800::rank3	satirical	風刺的な 皮肉な	
+Pp1rq&19d7	Basic	toefl3800::rank3	bold	大胆な 勇敢な	
+"h#:jp$&~+%"	Basic	toefl3800::rank3	compromise	妥協する 譲歩する	
+Lm@],l?^(Z	Basic	toefl3800::rank3	hurl	強く投げつける 放り投げる	
+Eb|qCQC60{	Basic	toefl3800::rank3	attribute	のせいにする 〜に帰する	
+dGN=DvY3HL	Basic	toefl3800::rank3	turbulence	大荒れ 動乱 乱気流	
+fuh?R?08k:	Basic	toefl3800::rank3	principal	利子に対して)元金 校長 収容な	
+Lz+wsp<ZY0	Basic	toefl3800::rank3	concur	賛成する 同時に起こる	
+g)hHN$bj9G	Basic	toefl3800::rank3	install	取り付ける 設置する	
+C0<WIW2_>{	Basic	toefl3800::rank3	erroneous	誤った 間違った	
+Ew6cLmgbz5	Basic	toefl3800::rank3	mandate	権限 命令 委任統治領にする 権限を与える	
+Lje:Da>SxY	Basic	toefl3800::rank3	still	じっとしている 静止した なお まだ	
+b-rc]CtMmd	Basic	toefl3800::rank3	rigor	厳しさ 苛酷さ 厳密さ	
+q^}rE,aeUC	Basic	toefl3800::rank3	arduously	骨を折って 苦労して	
+bEOPk.[[*)	Basic	toefl3800::rank3	imposing	印象的な 人目を引く 堂々とした	
+pP|d`%%p3[	Basic	toefl3800::rank3	inertia	慣性 惰性 不活性 ものしぐさ	
+"feT&#L/&5M"	Basic	toefl3800::rank3	texture	布地・皮膚などの）感触 手触り 織地	
+AS]/Tg9]%E	Basic	toefl3800::rank3	imprudent	軽率な 思慮の浅い 無分別な	
+D/dpq@),xQ	Basic	toefl3800::rank3	perspire	汗をかく	
+eQK~u>RTJu	Basic	toefl3800::rank3	extol	褒めそやす 激賞する	
+kuNvl50-GP	Basic	toefl3800::rank3	irreparable	損害・損失などが)修復できない 取り返しのつかない	
+u)33?sXg6M	Basic	toefl3800::rank3	emit	ガス・光・熱などを)発する 放出する	
+A^N.=sy1D$	Basic	toefl3800::rank3	withhold	差し控える (税金などを)給料から差し引く	
+ceJ(?~A&IU	Basic	toefl3800::rank3	dump	放棄する 棄てる	
+kf-?n=RuGf	Basic	toefl3800::rank3	consent	同意 承諾 一致	
+nF`tX}P-E[	Basic	toefl3800::rank3	renewal	更新 再開 再生	
+P?kdk-l^mV	Basic	toefl3800::rank3	expedite	はかどらせる 促進する	
+n`m.WX%I]E	Basic	toefl3800::rank3	notorious	悪名高い	
+O18q(=s{)Z	Basic	toefl3800::rank3	bedrock	基盤 基礎 根本	
+sFr3S@I;dE	Basic	toefl3800::rank3	pathology	病理学	
+"J!Yeaj#u:6"	Basic	toefl3800::rank3	scramble	よじ登る 先を争う	
+Gt)dt/B6at	Basic	toefl3800::rank3	didactic	教師然とした 教訓的な	
+n|4,lFTeBN	Basic	toefl3800::rank3	forgo	なしで済ませる 慎む	
+eh6FeKSQ`v	Basic	toefl3800::rank3	beset	悩ませる つきまとう	
+HM!Y9aS8p>	Basic	toefl3800::rank3	aesthetic	美の 審美的な	
+OEbQ?th%as	Basic	toefl3800::rank3	susceptible	影響を受けやすい 感染しやすい 感受性の強い	
+M8|~E{r>`5	Basic	toefl3800::rank3	compulsion	強制 衝動	
+K5Td*m][5w	Basic	toefl3800::rank3	spectrum	スペクトル 波長 範囲	
+j6ce&9_l(8	Basic	toefl3800::rank3	partisan	熱心な支持者 同士 党派心の強い	
+pJSqQOF/Ul	Basic	toefl3800::rank3	hug	抱きしめる	
+y9i2-S*96a	Basic	toefl3800::rank3	metabolism	代謝作用 新陳代謝	
+h53<;`Pa38	Basic	toefl3800::rank3	frigid	極寒の 寒さが厳しい	
+cbv0c5%=c8	Basic	toefl3800::rank3	pervasive	隅々に広がった 浸透する 充満する	
+sswt]un4F~	Basic	toefl3800::rank3	retreat	退却する 交代する	
+"gGN/%d{#];"	Basic	toefl3800::rank3	doom	運命づける	
+uTPy-[<TVU	Basic	toefl3800::rank3	apparatus	器具 装置	
+pzIY@9f`im	Basic	toefl3800::rank3	erupt	噴火する 爆発する	
+j*eq$(5m$6	Basic	toefl3800::rank3	arbitrary	独断的な 恣意的な	
+N&&mlt|oRT	Basic	toefl3800::rank3	supplementary	追加の 補充的な	
+zl<Qxv,g<A	Basic	toefl3800::rank3	commitment	責任 約束 献身	
+"MY`#&fF_z9"	Basic	toefl3800::rank3	literacy	読み書きの能力	
+g9P(@9&K:!	Basic	toefl3800::rank3	aggravate	悪化させる	
+LjCZWA:rXp	Basic	toefl3800::rank3	redefine	再評価する 再定義する	
+"+#(S#(+w%"	Basic	toefl3800::rank3	heed	耳を傾ける 注意する	
+Lo*KKyUq@8	Basic	toefl3800::rank3	apprehend	懸念する 恐れる 理解する	
+BSU=78O7Rv	Basic	toefl3800::rank3	roost	ねぐら 止まり木	
+Mfs.^7%ZJH	Basic	toefl3800::rank3	ignite	点火する	
+ekvc;Zjk4+	Basic	toefl3800::rank3	adversary	敵 対戦相手	
+Dk>kM&=R.h	Basic	toefl3800::rank3	denounce	公然と避難する	
+z;OoCb~);I	Basic	toefl3800::rank3	particle	微粒子 細片	
+"Hs!LU(9#07"	Basic	toefl3800::rank3	foe	敵 かたき	
+dm;iQ5$F6a	Basic	toefl3800::rank3	abbreviate	省略［短縮］する	
+"Pih{xNn/#t"	Basic	toefl3800::rank3	dilute	液体などを）薄める 弱める	
+xDd~^a&k9c	Basic	toefl3800::rank3	jeopardy	危険	
+"w.?0*#Zwh6"	Basic	toefl3800::rank3	linear	線形の 直線的な	
+n|]RPZS^0r	Basic	toefl3800::rank3	counterfeit	偽造の	
+M9YxdatN$L	Basic	toefl3800::rank3	repertoire	レパートリー 上演目録 演奏曲目	
+"B#RdN?k*tq"	Basic	toefl3800::rank3	proliferation	急増 拡散	
+y=+9N59>Co	Basic	toefl3800::rank3	fingerprint	指紋	
+l$<$]yz}sL	Basic	toefl3800::rank3	dissolution	消滅 分解 溶解 解散	
+"ByIn2#*)l!"	Basic	toefl3800::rank3	negligence	怠慢 手抜き 過失	
+puPi6Eyq[j	Basic	toefl3800::rank3	bankruptcy	倒産 破産	
+o^I6%^.Lo|	Basic	toefl3800::rank3	reminiscence	回想 追憶 思い出	
+oC|e<(_PBm	Basic	toefl3800::rank3	prohibit	禁止する	
+KdUM:bVHcg	Basic	toefl3800::rank3	liquidate	負債などを)精算する (会社などを)整理する	
+m:HjoaCRBx	Basic	toefl3800::rank3	scar	傷あと	
+qLcOXALv@X	Basic	toefl3800::rank3	diabetic	糖尿病の 糖尿病患者	
+H47`b]`~M4	Basic	toefl3800::rank3	debris	がれき 破片 がらくた	
+e1Pl(;q2RS	Basic	toefl3800::rank3	discriminating	識別力のある 差別的な	
+K!t6}W<FG6	Basic	toefl3800::rank3	sympathize	同情する	
+xL}08TL-a>	Basic	toefl3800::rank3	plausible	もっともらしい	
+k*[,pz{JxM	Basic	toefl3800::rank3	ironic	皮肉な	
+FyZ^x+^>HY	Basic	toefl3800::rank3	tumor	腫瘍	
+qwnNv6T|`M	Basic	toefl3800::rank3	tedious	長くて)退屈な	
+"Ku@H#t,DML"	Basic	toefl3800::rank3	placid	穏やかな	
+K>94Kdh2jT	Basic	toefl3800::rank3	ethnology	民俗学	
+"epNWdYEoJ#"	Basic	toefl3800::rank3	acclaim	賞賛する	
+E5D;1]@W{$	Basic	toefl3800::rank3	profound	深い 難解な	
+"LU3w~p#1u%"	Basic	toefl3800::rank3	disdain	軽蔑する 見下す 軽蔑 さげすみ	
+h72`E}hlR^	Basic	toefl3800::rank3	vigor	精力 活力 活気・迫力	
+P^=-3DCtSq	Basic	toefl3800::rank3	treaty	国家間の）条約 協定	
+QXm!tD}I-`	Basic	toefl3800::rank3	submit	提出する 服従させる	
+Ie@^!o0G$j	Basic	toefl3800::rank3	rebut	反論する	
+sIf6GrB}g|	Basic	toefl3800::rank3	meteorology	気象学	
+PgR|$L5S->	Basic	toefl3800::rank3	fortification	要塞 とりで	
+bL*fl1C6M?	Basic	toefl3800::rank3	discretion	思慮分別 慎重	
+n]^V%,{A7n	Basic	toefl3800::rank3	wander	ぶらつく 放浪する	
+HMRPzd8z1F	Basic	toefl3800::rank3	impromptu	即興の 準備なしの	
+F5*@2HeF2a	Basic	toefl3800::rank3	contagious	感染症の 移りやすい	
+cH?W+{[.co	Basic	toefl3800::rank3	veterinarian	獣医	
+gnadtg3I{F	Basic	toefl3800::rank3	refurbish	一新する 改装する	
+G9_{fy+Do(	Basic	toefl3800::rank3	aggregate	総計の 集合した 集計(する) 集合(する)	
+L*PEP;+2nf	Basic	toefl3800::rank3	elastic	弾力性のある 融通性のある	
+G2M.4bUG>[	Basic	toefl3800::rank3	wary	用心深い 警戒して	
+p[o0lgB$9h	Basic	toefl3800::rank3	judicious	思慮分別のある 懸命な	
+clVn*3rT?-	Basic	toefl3800::rank3	zinc	亜鉛	
+oX_LIOdbEP	Basic	toefl3800::rank3	vow	誓う 誓い	
+fCKPRuWO;E	Basic	toefl3800::rank3	converse	反対 逆	
+z<n0,jO>r&	Basic	toefl3800::rank3	strife	争い 不和 衝突	
+l08-m=)vti	Basic	toefl3800::rank3	remedy	治療 解決方法	
+HccxSda)Ne	Basic	toefl3800::rank3	corrupt	腐敗した 堕落した	
+N?2n0CkD/=	Basic	toefl3800::rank3	memorialize	記念する	
+ppT<2aMYy.	Basic	toefl3800::rank3	allocate	割り当てる 配分する	
+r+%7sUn@[G	Basic	toefl3800::rank3	sewer	下水道	
+f68|||p`fC	Basic	toefl3800::rank3	standpoint	見地 観点	
+pa20PUAX>y	Basic	toefl3800::rank3	paleontology	古生物学	
+Mnu-|aKQo/	Basic	toefl3800::rank3	haunt	たびたび訪れる （幽霊などが）出没する	
+yTA7zKsJL-	Basic	toefl3800::rank3	compile	編集する （資料などを）収集してまとめる	
+Mij!wO3.=6	Basic	toefl3800::rank3	uneasy	不安な	
+q>O7y/(]b0	Basic	toefl3800::rank3	acute	鋭い 先の尖った 急性の	
+tIZr@6.oo2	Basic	toefl3800::rank3	lick	なめる	
+GRO^]h(N15	Basic	toefl3800::rank3	censure	避難 不信任 非難する	
+vno!{{v{dH	Basic	toefl3800::rank3	crude	生の 粗野な 未完成の 大雑把な	
+k$r[&,7dVM	Basic	toefl3800::rank3	outlet	出口 吹き出し口 販売代理店	
+n,-<k[IRg0	Basic	toefl3800::rank3	relief	安心 軽減 除去	
+vW0x9E>|hd	Basic	toefl3800::rank3	acoustic	聴覚の	
+"tJ?{K^x#1E"	Basic	toefl3800::rank3	compel	強制する	
+ou?wfVgH/V	Basic	toefl3800::rank3	hamper	邪魔する 妨げる	
+i0e=E]1@9L	Basic	toefl3800::rank3	nocturnal	夜行性の 夜の	
+oYLm3@c5o	Basic	toefl3800::rank3	amiable	愛想の良い 好意的な	
+K7]_z]3C(B	Basic	toefl3800::rank3	reserve	保護区 蓄え 遠慮 準備金	
+cqPYVy,%|!	Basic	toefl3800::rank3	detect	見つける 感知する	
+ivh9Ge4;u4	Basic	toefl3800::rank3	abrasive	研磨剤 すりむく すり減らす 無神経な	
+GS:BaacyQ;	Basic	toefl3800::rank3	striking	目立つ 著しい	
+r]b?~){<*C	Basic	toefl3800::rank3	deadlock	行き詰まり	
+bQ|f{Cl/OJ	Basic	toefl3800::rank3	archetype	原型 典型的な見本 模範	
+BF@<rDD|Tj	Basic	toefl3800::rank3	consensus	意見などの）一致 総意	
+vu6rMAlA[[	Basic	toefl3800::rank3	frown	渋い顔をする 眉をひそめる	
+C}Ris]H<yD	Basic	toefl3800::rank3	blast	爆破する 爆風 突風	
+F~!3ilRUIK	Basic	toefl3800::rank3	intact	無傷の 完全な姿で 手を付けられていない	
+lsHmP02~b;	Basic	toefl3800::rank3	cohesive	結合力のある 粘着する	
+"d/u^IA#p<B"	Basic	toefl3800::rank3	acid	酸性の 酸	
+kG2@,*`;C8	Basic	toefl3800::rank3	bearish	弱気の （熊のように）粗暴な	
+L0QjY`}u2h	Basic	toefl3800::rank3	indifferent	無関心な 中立の	
+NE5D|d4c|U	Basic	toefl3800::rank3	practicable	実行可能な 実用的な	
+"DT]J_#C*LG"	Basic	toefl3800::rank3	recession	不況 景気後退	
+x>KZyKr$&Q	Basic	toefl3800::rank3	thatch	わらぶき屋根 屋根ふき材（わら イグサ シュロの葉など）	
+"w[)#9{3&Hw"	Basic	toefl3800::rank3	maneuver	作戦行動・(車などの)巧みな操作 巧みに動かす 巧みに操る	
+z{VN8=W4q3	Basic	toefl3800::rank3	antipathy	嫌悪 反感	
+g]f_?rX17i	Basic	toefl3800::rank3	indigestion	消化不良	
+JQzSG>j_<y	Basic	toefl3800::rank3	obsess	取りつかれる 悩まされる	
+v&trrlSpT]	Basic	toefl3800::rank3	conclusive	決定的な 最終的な	
+zgGqX3gh{f	Basic	toefl3800::rank3	acquisition	獲得 習得	
+y-1z%!&;Zp	Basic	toefl3800::rank3	armored	装甲した	
+wQAs+M$YmW	Basic	toefl3800::rank3	condone	許す 大目に見る	
+klRy1>vfIV	Basic	toefl3800::rank3	captivity	とらわれの身 隷属 拘留	
+j;&1_k/$7(	Basic	toefl3800::rank3	turmoil	騒ぎ 騒動	
+EfA7R&0(hl	Basic	toefl3800::rank3	languish	みじめな生活をする しぼむ 元気がなくなる	
+"zo{HkiB/e#"	Basic	toefl3800::rank3	uniformity	均一なこと 画一性	
+L}63|/%C$2	Basic	toefl3800::rank3	patriot	愛国者	
+EixPj.s?Or	Basic	toefl3800::rank3	constituency	有権者 選挙区	
+"j)T]1#!X`["	Basic	toefl3800::rank3	narrative	物語風の 物語 話術	
+"oB~T/#b_pn"	Basic	toefl3800::rank3	embed	刻み込まれる 埋め込まれる	
+F36C2k1}1]	Basic	toefl3800::rank3	banal	ありふれた 陳腐な	
+Qm@9g>hoe`	Basic	toefl3800::rank3	contend	対処する 主張する	
+J?Dbx>R6QX	Basic	toefl3800::rank3	rigid	厳格な 硬直した	
+"IWq$!sH.#,"	Basic	toefl3800::rank3	dissent	意義を唱える 不賛成 意義	
+w!iYaSgY>|	Basic	toefl3800::rank3	aloof	離れて 距離を置いて	
+rSugcM$166	Basic	toefl3800::rank3	divorce	分離する 離婚する	
+BS`<!C^8Uz	Basic	toefl3800::rank3	critical	批判的な 重大な	
+G)D6v]ReM;	Basic	toefl3800::rank3	somber	薄暗い 陰気な	
+g)}7Y/r(^I	Basic	toefl3800::rank3	reminiscent	連想させる 追憶の	
+x^*gZ`bnIT	Basic	toefl3800::rank3	landfill	埋め立て地	
+k;5UV,KIoX	Basic	toefl3800::rank3	expel	追放する 放出する	
+xz-a.+K?DO	Basic	toefl3800::rank3	sterilize	消毒(殺菌)する・不妊にする	
+E[xSPp~ptA	Basic	toefl3800::rank3	leak	液体・ガスなどの）漏れ 漏れる	
+WEirvGp7i	Basic	toefl3800::rank3	apprehension	懸念 気遣い 理解力	
+swk?&`]M05	Basic	toefl3800::rank3	reclaimed land	埋立地 開墾地	
+E?YS5NPrkj	Basic	toefl3800::rank3	disposal	処分 処理 売却 配置	
+Dq56h:+,c{	Basic	toefl3800::rank3	mating season	繁殖期 交尾期	
+y+_8C03B-}	Basic	toefl3800::rank3	corrosive	腐食性の 侵食する むしばむ	
