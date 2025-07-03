@@ -36,7 +36,7 @@ class EnhancedAnkiProcessor:
         構造化されたフィールド別コンテンツ生成
         """
         # Definition フィールド（意味）
-        definition = f"<div class='definition'><strong>{meaning}</strong></div><br>"
+        definition = f"<div class='definition'><strong>{meaning}</strong></div>"
         
         # Examples フィールド（例文）
         examples_html = '<div class="examples">'
@@ -44,7 +44,7 @@ class EnhancedAnkiProcessor:
             # 全角数字で番号付け
             number = "（" + str(i) + "）"
             examples_html += f'<div class="example">{number}{example}</div>'
-        examples_html += '</div><br>'
+        examples_html += '</div>'
         
         # Etymology フィールド（語源・記憶法）
         etymology_html = f'<div class="etymology">{tips}</div>'
