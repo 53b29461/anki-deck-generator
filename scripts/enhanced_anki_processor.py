@@ -36,13 +36,15 @@ class EnhancedAnkiProcessor:
         構造化されたフィールド別コンテンツ生成
         """
         # Definition フィールド（意味）
-        definition = f"<strong>{meaning}</strong>"
+        definition = f"<div class='definition'><strong>{meaning}</strong></div><br>"
         
         # Examples フィールド（例文）
         examples_html = '<div class="examples">'
-        for example in examples:
-            examples_html += f'<div class="example">{example}</div>'
-        examples_html += '</div>'
+        for i, example in enumerate(examples, 1):
+            # 全角数字で番号付け
+            number = "（" + str(i) + "）"
+            examples_html += f'<div class="example">{number}{example}</div>'
+        examples_html += '</div><br>'
         
         # Etymology フィールド（語源・記憶法）
         etymology_html = f'<div class="etymology">{tips}</div>'
@@ -217,13 +219,14 @@ class EnhancedAnkiProcessor:
 }
 
 .definition {
-    font-size: 20px;
-    color: #34495e;
+    font-size: 24px;
+    color: #2c3e50;
     text-align: center;
     margin-bottom: 25px;
-    padding: 10px;
+    padding: 12px;
     background-color: #ecf0f1;
-    border-radius: 5px;
+    border-radius: 6px;
+    font-weight: bold;
 }
 
 .examples {
@@ -232,7 +235,7 @@ class EnhancedAnkiProcessor:
 
 .examples .example {
     font-style: italic;
-    color: #7f8c8d;
+    color: #5a6c7d;
     margin: 8px 0;
     padding: 8px 12px;
     background-color: #ffffff;
@@ -240,14 +243,21 @@ class EnhancedAnkiProcessor:
     border-radius: 3px;
 }
 
+.example::first-letter {
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
 .etymology {
-    background-color: #fff3cd;
-    border: 1px solid #ffeaa7;
+    background-color: #f4f1e8;
+    border: 1px solid #d4be8a;
     border-radius: 5px;
     padding: 15px;
     margin-top: 20px;
     font-size: 14px;
-    color: #856404;
+    color: #8b4513;
+    line-height: 1.5;
 }
 
 .etymology::before {
