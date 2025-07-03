@@ -50,7 +50,7 @@ class EnhancedAnkiProcessor:
         etymology_html = f'<div class="etymology">{tips}</div>'
         
         return {
-            'word': word,
+            'word': f'<div class="word">{word}</div>',  # HTML形式で格納
             'definition': definition,
             'examples': examples_html,
             'etymology': etymology_html
@@ -196,8 +196,9 @@ class EnhancedAnkiProcessor:
         """
         css_content = """
 /* Enhanced TOEFL Vocabulary Card Styling */
-/* このCSSをAnkiのカードテンプレート「Styling」欄にコピーしてください */
+/* このCSSをAnkiのカードテンプレート「Styling」欄に完全置き換えでコピーしてください */
 
+/* 基本カードスタイル */
 .card {
     font-family: 'Hiragino Sans', 'Meiryo', sans-serif;
     font-size: 16px;
@@ -206,6 +207,8 @@ class EnhancedAnkiProcessor:
     margin: 0 auto;
     padding: 20px;
     background-color: #fafafa;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 .word {
