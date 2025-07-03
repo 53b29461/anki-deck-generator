@@ -89,6 +89,22 @@ class EnhancedAnkiProcessor:
             return "相殺する、オフセット、埋め合わせる"
         elif word == "outcome":
             return "結果、成果、帰結"
+        elif word == "tripe":
+            return "胃袋、内臓、くだらないもの"
+        elif word == "prawn":
+            return "大エビ、クルマエビ"
+        elif word == "tan":
+            return "日焼け、褐色、なめす"
+        elif word == "temperate":
+            return "温帯の、節制した、穏やかな"
+        elif word == "hardy":
+            return "丈夫な、頑強な、耐久性のある"
+        elif word == "attorney":
+            return "弁護士、代理人"
+        elif word == "placate":
+            return "なだめる、機嫌を取る、鎮める"
+        elif word == "sea anemone":
+            return "イソギンチャク"
         else:
             return f"{word}（高品質定義生成中）"
     
@@ -154,6 +170,54 @@ class EnhancedAnkiProcessor:
                 "Regular exercise will improve your health outcomes.",
                 "We're still waiting for the outcome of the investigation."
             ]
+        elif word == "tripe":
+            return [
+                "The restaurant served traditional tripe soup.",
+                "He dismissed the movie as complete tripe.",
+                "Don't waste your time reading that tripe."
+            ]
+        elif word == "prawn":
+            return [
+                "The chef prepared grilled prawns with garlic butter.",
+                "Tiger prawns are particularly popular in Asian cuisine.",
+                "We caught fresh prawns during our fishing trip."
+            ]
+        elif word == "tan":
+            return [
+                "She got a beautiful tan during her vacation in Hawaii.",
+                "The leather was carefully tanned using traditional methods.",
+                "His face had a tan from working outdoors all summer."
+            ]
+        elif word == "temperate":
+            return [
+                "The temperate climate is ideal for growing wine grapes.",
+                "He maintained a temperate attitude despite the provocation.",
+                "Temperate zones experience four distinct seasons."
+            ]
+        elif word == "hardy":
+            return [
+                "These hardy plants can survive extreme cold temperatures.",
+                "The hardy explorer ventured into the dangerous wilderness.",
+                "Hardy vegetables like cabbage grow well in winter."
+            ]
+        elif word == "attorney":
+            return [
+                "The attorney represented her client in the murder trial.",
+                "He hired an attorney to handle the contract negotiations.",
+                "The district attorney announced new charges today."
+            ]
+        elif word == "placate":
+            return [
+                "The manager tried to placate the angry customers.",
+                "Nothing could placate his fury after the betrayal.",
+                "The government offered concessions to placate the protesters."
+            ]
+        elif word == "sea anemone":
+            return [
+                "The colorful sea anemone swayed gently in the current.",
+                "Clownfish live symbiotically with sea anemones.",
+                "The tide pool contained several species of sea anemones."
+            ]
         else:
             return [
                 f"The word '{word}' appears frequently in academic texts.",
@@ -183,6 +247,22 @@ class EnhancedAnkiProcessor:
             return """語源：「off（離れて）+ set（置く）」<br>元は印刷用語で「ずらして置く」意味<br>会計では「帳消しにする」、環境では「相殺する」に発展"""
         elif word == "outcome":
             return """語源：「out（外に）+ come（来る）」<br>「外に出てくるもの」→「結果」<br>何かの過程から「出て来る」最終的な結果"""
+        elif word == "tripe":
+            return """語源：古フランス語「tripe」（動物の胃）<br>「くだらないもの」の意味は胃袋の不快なイメージから<br>「trash」「trivial」との関連で覚えると効果的"""
+        elif word == "prawn":
+            return """語源：中世英語「prane」（カニに似た生物）<br>shrimp（小エビ）とは区別される大型のエビ<br>「crustacean（甲殻類）」ファミリーで記憶"""
+        elif word == "tan":
+            return """語源：古英語「tannian」（なめす）<br>樹皮のタンニンで革をなめすことから<br>「太陽で肌をなめす」→「日焼け」の意味に発展"""
+        elif word == "temperate":
+            return """語源：ラテン語「temperatus」（調和の取れた）<br>「temper（調節する）+ -ate（〜の性質）」<br>temperature（温度）と同じ語根で気候・性格両方に使用"""
+        elif word == "hardy":
+            return """語源：古フランス語「hardi」（勇敢な）<br>「hard（固い）」から派生した形容詞<br>物理的・精神的両方の「強さ」を表現"""
+        elif word == "attorney":
+            return """語源：古フランス語「atorner」（任命する）<br>「turn to（向ける）」の意味から「代理人に向ける」<br>lawyer（法律家）とattorney（代理人）の違いを意識"""
+        elif word == "placate":
+            return """語源：ラテン語「placare」（なだめる）<br>「place（場所）」ではなく「平和」の語根<br>「appease」「pacify」と類義語グループで記憶"""
+        elif word == "sea anemone":
+            return """語源：ラテン語「anemone」（風の花）<br>ギリシャ神話：風の神に愛された花の名前<br>海中で風に揺れる花のように見えることから命名"""
         else:
             return f"""語源：{word}の詳細な語源分析<br>関連語との繋がりで記憶を強化<br>TOEFL頻出語として重要度高"""
     
