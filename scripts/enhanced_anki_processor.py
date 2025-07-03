@@ -65,9 +65,7 @@ class EnhancedAnkiProcessor:
                 "Police officers were killed in a terrorist ambush.", 
                 "The predator waited in ambush for unsuspecting prey."
             ]
-            tips = """語源：古フランス語「embuscher」（茂みに隠れる）から派生<br>
-「em-（中に）+ busch（茂み）」→茂みの中に隠れて待ち伏せする<br>
-military terminology として覚えると、warfare関連語彙と関連付けやすい"""
+            tips = """語源：古フランス語「embuscher」（茂みに隠れる）から派生<br>「em-（中に）+ busch（茂み）」→茂みの中に隠れて待ち伏せする<br>military terminology として覚えると、warfare関連語彙と関連付けやすい"""
             
         elif word == "bountiful":
             meaning = "豊富な、物惜しみしない、気前の良い"
@@ -76,9 +74,7 @@ military terminology として覚えると、warfare関連語彙と関連付け�
                 "She received bountiful praise for her performance.",
                 "The garden produced a bountiful supply of vegetables."
             ]
-            tips = """語源：古フランス語「bonté」（善良さ）から派生<br>
-「bounty（恵み、報奨金）+ -ful（〜に満ちた）」<br>
-abundance, plentiful などの類義語と関連付けて覚える"""
+            tips = """語源：古フランス語「bonté」（善良さ）から派生<br>「bounty（恵み、報奨金）+ -ful（〜に満ちた）」<br>abundance, plentiful などの類義語と関連付けて覚える"""
             
         elif word == "inhale":
             meaning = "吸い込む、吸入する"
@@ -87,9 +83,7 @@ abundance, plentiful などの類義語と関連付けて覚える"""
                 "The patient needs to inhale the medication through this device.",
                 "Don't inhale the fumes from the chemical."
             ]
-            tips = """語源：ラテン語「inhalare」<br>
-「in-（中に）+ halare（息する）」→中に息を吸う<br>
-対義語：exhale（吐き出す）とペアで覚えると効果的"""
+            tips = """語源：ラテン語「inhalare」<br>「in-（中に）+ halare（息する）」→中に息を吸う<br>対義語：exhale（吐き出す）とペアで覚えると効果的"""
             
         else:
             # デフォルト処理（実装時に拡張）
