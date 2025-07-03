@@ -341,6 +341,392 @@ class EnhancedAnkiProcessor:
             return "滝のように流れる、連鎖的に起こる、段々滝"
         elif word == "authoritarian":
             return "権威主義の、独裁的な、専制的な"
+        elif word == "mercy":
+            return "慈悲、恩赦、情け"
+        elif word == "savory":
+            return "食欲をそそる、味の良い、塩辛い"
+        elif word == "continental shelf":
+            return "大陸棚"
+        elif word == "radioactive":
+            return "放射性の、放射能のある"
+        elif word == "shoddy":
+            return "粗雑な、安物の、いい加減な"
+        elif word == "erode":
+            return "腐食する、浸食する、徐々に破壊する"
+        elif word == "validate":
+            return "妥当性を立証する、確認する、法的に有効にする"
+        elif word == "tactics":
+            return "戦術、戦略、手法"
+        elif word == "compelling":
+            return "説得力のある、強制的な、興味を引く"
+        elif word == "profusely":
+            return "深く、豊富に、大量に"
+        elif word == "cursory":
+            return "大まかな、ぞんざいな、表面的な"
+        elif word == "disperse":
+            return "分散させる、散らす、散布する"
+        elif word == "overturn":
+            return "横転させる、ひっくり返す、覆す"
+        elif word == "degrade":
+            return "格を落とす、劣化させる、分解する"
+        elif word == "coexistence":
+            return "共存、共生、併存"
+        elif word == "whirl":
+            return "ぐるぐる回る、旋回させる、渦巻く"
+        elif word == "proprietor":
+            return "所有者、持ち主、経営者"
+        elif word == "discerning":
+            return "洞察力のある、見分けのつく、鋭い"
+        elif word == "masonry":
+            return "石造物、石工術、石積み"
+        elif word == "jolt":
+            return "急激に揺さぶる、精神的衝撃、ショック"
+        elif word == "supper":
+            return "夕食、晩餐"
+        elif word == "mole":
+            return "ほくろ、モグラ、防波堤"
+        elif word == "strive":
+            return "努力する、闘う、奮闘する"
+        elif word == "dispatch":
+            return "急送する、急派する、処理する"
+        elif word == "discourse":
+            return "論文、談話、議論する"
+        elif word == "prose":
+            return "散文、平易な文章"
+        elif word == "expertise":
+            return "専門知識、専門技術、熟練"
+        elif word == "smash":
+            return "粉砕する、衝突する、大成功"
+        elif word == "brand":
+            return "烙印を押す、ブランド、商標"
+        elif word == "appraise":
+            return "鑑定する、評価する、査定する"
+        elif word == "upright":
+            return "まっすぐに、直立して、正直な"
+        elif word == "withdraw":
+            return "撤退する、引き出す、取り下げる"
+        elif word == "congregate":
+            return "集まる、集合する、会合する"
+        elif word == "allure":
+            return "魅惑する、誘い込む、魅力"
+        elif word == "equity":
+            return "公平、公正、株式"
+        elif word == "bristle":
+            return "剛毛、毛を逆立てる、密生する"
+        elif word == "fierce":
+            return "激しい、獰猛な、強烈な"
+        elif word == "leverage":
+            return "てこの作用、影響力、活用する"
+        elif word == "articulate":
+            return "はっきり述べる、明瞭な、関節のある"
+        elif word == "cardiac":
+            return "心臓の、心疾患の"
+        elif word == "conspicuous":
+            return "目立つ、顕著な、明白な"
+        elif word == "materialism":
+            return "物質主義、唯物論"
+        elif word == "absolute":
+            return "絶対的な、完全な、純粋な"
+        elif word == "imprison":
+            return "刑務所に入れる、監禁する、拘束する"
+        elif word == "satire":
+            return "風刺、皮肉、諷刺文学"
+        elif word == "salvation":
+            return "救済、救い、救世"
+        elif word == "commemorate":
+            return "記念する、祝う、追悼する"
+        elif word == "merger":
+            return "合併、統合、融合"
+        elif word == "problematic":
+            return "問題のある、疑わしい、困難な"
+        elif word == "herald":
+            return "先触れ、先駆者、予告する"
+        elif word == "dew":
+            return "露、露水、新鮮さ"
+        elif word == "culminate":
+            return "頂点に達する、最高潮に達する、終わる"
+        elif word == "renounce":
+            return "放棄する、断念する、絶交する"
+        elif word == "surcharge":
+            return "追加料金、割増料金、過重負担"
+        elif word == "lofty":
+            return "崇高な、高い、高慢な"
+        elif word == "dune":
+            return "砂丘、砂山"
+        elif word == "scrutinize":
+            return "詳細に調べる、精査する、吟味する"
+        elif word == "philanthropist":
+            return "博愛主義者、慈善家、人道主義者"
+        elif word == "stoop":
+            return "かがむ、身を屈める、堕落する"
+        elif word == "symmetry":
+            return "対称、均整、釣り合い"
+        elif word == "archive":
+            return "記録保管所、文書館、保存する"
+        elif word == "detain":
+            return "引き留める、拘留する、遅らせる"
+        elif word == "disk":
+            return "円盤、ディスク、椎間板"
+        elif word == "seclusion":
+            return "隠遁、隔離、人里離れた場所"
+        elif word == "aloft":
+            return "高く、空中に、帆柱の上に"
+        elif word == "tranquil":
+            return "静かな、平穏な、穏やかな"
+        elif word == "shrewd":
+            return "抜け目ない、鋭い、賢明な"
+        elif word == "proposition":
+            return "提案、命題、申し出"
+        elif word == "incite":
+            return "扇動する、刺激する、駆り立てる"
+        elif word == "reckless":
+            return "無謀な、向こう見ずな、軽率な"
+        elif word == "diverge":
+            return "分岐する、逸脱する、異なる"
+        elif word == "lethal":
+            return "致命的な、致死の、破壊的な"
+        elif word == "margin":
+            return "余白、縁、利幅"
+        elif word == "potent":
+            return "強力な、有力な、効力のある"
+        elif word == "aggression":
+            return "攻撃、侵略、敵意"
+        elif word == "fringe":
+            return "縁、辺縁、房飾り"
+        elif word == "assassinate":
+            return "暗殺する、殺害する"
+        elif word == "intake":
+            return "摂取、取り入れ、吸入口"
+        elif word == "epilogue":
+            return "終章、エピローグ、結び"
+        elif word == "composure":
+            return "冷静さ、沈着、平静"
+        elif word == "imaginative":
+            return "想像力豊かな、創造的な、独創的な"
+        elif word == "insane":
+            return "狂気の、正気でない、非常識な"
+        elif word == "levy":
+            return "課税、徴収、負担金"
+        elif word == "mutter":
+            return "つぶやく、ぶつぶつ言う、不平を言う"
+        elif word == "desperate":
+            return "絶望的な、必死の、切望する"
+        elif word == "magnificent":
+            return "壮大な、素晴らしい、豪華な"
+        elif word == "inventory":
+            return "在庫、目録、棚卸し"
+        elif word == "scavenger":
+            return "清掃動物、廃品回収業者、あさる人"
+        elif word == "kindle":
+            return "点火する、燃やす、かき立てる"
+        elif word == "uprising":
+            return "蜂起、反乱、暴動"
+        elif word == "reactor":
+            return "原子炉、反応器、反応装置"
+        elif word == "relic":
+            return "遺物、遺跡、形見"
+        elif word == "tundra":
+            return "ツンドラ、凍土地帯"
+        elif word == "invoke":
+            return "呼び出す、懇請する、援用する"
+        elif word == "meadow":
+            return "牧草地、草原"
+        elif word == "thrive":
+            return "繁栄する、成功する、成長する"
+        elif word == "illuminate":
+            return "照らす、明らかにする、啓発する"
+        elif word == "pragmatic":
+            return "実用的な、現実的な、実際的な"
+        elif word == "deference":
+            return "敬意、尊敬、服従"
+        elif word == "pupa":
+            return "蛹、さなぎ"
+        elif word == "disclose":
+            return "暴露する、開示する、明かす"
+        elif word == "displace":
+            return "移動させる、取って代わる、追い出す"
+        elif word == "ominous":
+            return "不吉な、縁起の悪い、前兆の"
+        elif word == "oscillate":
+            return "振動する、揺れる、動揺する"
+        elif word == "symptom":
+            return "症状、兆候、現れ"
+        elif word == "identity":
+            return "身元、正体、同一性"
+        elif word == "deputy":
+            return "代理人、副官、議員"
+        elif word == "imaginary":
+            return "想像上の、架空の、虚構の"
+        elif word == "agile":
+            return "機敏な、素早い、敏捷な"
+        elif word == "wither":
+            return "しおれる、衰える、萎縮する"
+        elif word == "projection":
+            return "投影、予測、突出"
+        elif word == "accompaniment":
+            return "伴奏、付随、同伴"
+        elif word == "bolster":
+            return "支援する、強化する、後押しする"
+        elif word == "blink":
+            return "まばたき、点滅、瞬間"
+        elif word == "accumulate":
+            return "蓄積する、積み重ねる、集める"
+        elif word == "appease":
+            return "なだめる、和らげる、満足させる"
+        elif word == "cruel":
+            return "残酷な、冷酷な、苛酷な"
+        elif word == "unsteady":
+            return "不安定な、ぐらつく、一定しない"
+        elif word == "premise":
+            return "前提、敷地、根拠"
+        elif word == "cosmic":
+            return "宇宙の、壮大な、秩序ある"
+        elif word == "insolent":
+            return "無礼な、傲慢な、生意気な"
+        elif word == "nostalgia":
+            return "郷愁、懐古、ノスタルジア"
+        elif word == "abruptly":
+            return "突然に、急に、ぶっきらぼうに"
+        elif word == "invert":
+            return "逆さにする、反転させる、裏返す"
+        elif word == "oblique":
+            return "斜めの、間接的な、曖昧な"
+        elif word == "reconcile":
+            return "和解させる、調停する、一致させる"
+        elif word == "coffin":
+            return "棺、棺桶"
+        elif word == "lucrative":
+            return "利益の上がる、もうかる、有利な"
+        elif word == "prosecution":
+            return "起訴、検察、遂行"
+        elif word == "infrastructure":
+            return "基盤、インフラ、社会基盤"
+        elif word == "submerge":
+            return "水に沈める、水没させる、埋没する"
+        elif word == "dividend":
+            return "配当、分け前、利益"
+        elif word == "endorse":
+            return "支持する、承認する、裏書きする"
+        elif word == "confine":
+            return "制限する、監禁する、境界"
+        elif word == "personnel":
+            return "職員、人事、人員"
+        elif word == "linguistics":
+            return "言語学、言語研究"
+        elif word == "indecisive":
+            return "優柔不断な、決断力のない、決定的でない"
+        elif word == "ritual":
+            return "儀式、典礼、習慣"
+        elif word == "conceive":
+            return "思いつく、想像する、妊娠する"
+        elif word == "spur":
+            return "拍車、刺激、駆り立てる"
+        elif word == "wrath":
+            return "激怒、憤怒、神の怒り"
+        elif word == "obliterate":
+            return "完全に破壊する、抹消する、消し去る"
+        elif word == "apathy":
+            return "無関心、無感動、冷淡"
+        elif word == "surpass":
+            return "上回る、しのぐ、超越する"
+        elif word == "realm":
+            return "領域、王国、分野"
+        elif word == "intervene":
+            return "介入する、仲裁する、割り込む"
+        elif word == "defiance":
+            return "反抗、挑戦、無視"
+        elif word == "frail":
+            return "虚弱な、もろい、はかない"
+        elif word == "deliberate":
+            return "故意の、慎重な、熟考する"
+        elif word == "leukemia":
+            return "白血病"
+        elif word == "feudal":
+            return "封建制の、領主の"
+        elif word == "municipal":
+            return "市の、地方自治体の"
+        elif word == "meddle":
+            return "干渉する、おせっかいを焼く"
+        elif word == "monarchy":
+            return "君主制、王政、王国"
+        elif word == "turbulent":
+            return "激動の、乱流の、騒然とした"
+        elif word == "collective":
+            return "集団の、共同の、総体的な"
+        elif word == "prodigal":
+            return "浪費する、放蕩な、惜しまない"
+        elif word == "outset":
+            return "最初、開始、出発点"
+        elif word == "pastime":
+            return "娯楽、気晴らし、趣味"
+        elif word == "soot":
+            return "すす、煤煙"
+        elif word == "brittle":
+            return "もろい、壊れやすい、とげとげしい"
+        elif word == "paddy field":
+            return "水田、田んぼ"
+        elif word == "lucid":
+            return "明晰な、透明な、正気の"
+        elif word == "cradle":
+            return "ゆりかご、発祥地、幼年期"
+        elif word == "penetrate":
+            return "貫通する、浸透する、理解する"
+        elif word == "abide":
+            return "従う、我慢する、住む"
+        elif word == "compliance":
+            return "従順、遵守、承諾"
+        elif word == "converge":
+            return "収束する、集まる、一致する"
+        elif word == "solicit":
+            return "懇願する、勧誘する、求める"
+        elif word == "livelihood":
+            return "生計、暮らし、生活手段"
+        elif word == "decomposer":
+            return "分解者、分解菌"
+        elif word == "tangible":
+            return "有形の、具体的な、明確な"
+        elif word == "distrust":
+            return "不信、疑惑、信用しない"
+        elif word == "empirical":
+            return "経験的な、実証的な、実験に基づく"
+        elif word == "ambivalence":
+            return "両価性、相反する感情"
+        elif word == "contempt":
+            return "軽蔑、侮辱、法廷侮辱罪"
+        elif word == "console":
+            return "慰める、操作盤、コンソール"
+        elif word == "volatile":
+            return "揮発性の、不安定な、激しやすい"
+        elif word == "eccentric":
+            return "風変わりな、偏心の、変人"
+        elif word == "alleviate":
+            return "軽減する、和らげる、緩和する"
+        elif word == "compound":
+            return "化合物、複合の、混合する"
+        elif word == "abuse":
+            return "濫用、虐待、悪用する"
+        elif word == "credulity":
+            return "軽信、だまされやすさ"
+        elif word == "elapse":
+            return "経過する、過ぎ去る"
+        elif word == "exile":
+            return "亡命、追放、流刑"
+        elif word == "placebo":
+            return "偽薬、プラセボ、慰め"
+        elif word == "addiction":
+            return "中毒、依存症、熱中"
+        elif word == "distort":
+            return "歪曲する、ゆがめる、ねじる"
+        elif word == "commence":
+            return "開始する、始まる、着手する"
+        elif word == "zealot":
+            return "狂信者、熱狂者、過激派"
+        elif word == "finesse":
+            return "技巧、手腕、巧妙さ"
+        elif word == "numb":
+            return "感覚のない、麻痺した、しびれた"
+        elif word == "conifer":
+            return "針葉樹、松柏類"
         else:
             return f"{word}（高品質定義生成中）"
     
@@ -1162,6 +1548,264 @@ class EnhancedAnkiProcessor:
                 "His authoritarian leadership style alienated many employees.",
                 "Citizens protested against the authoritarian regime."
             ]
+        elif word == "mercy":
+            return [
+                "The judge showed mercy and reduced the sentence.",
+                "They begged for mercy when captured by enemy forces.",
+                "The charity provides medical care to those without mercy of poverty."
+            ]
+        elif word == "savory":
+            return [
+                "The chef prepared a savory herb sauce for the meat.",
+                "I prefer savory snacks over sweet ones.",
+                "The savory aroma of roasted garlic filled the kitchen."
+            ]
+        elif word == "continental shelf":
+            return [
+                "The continental shelf extends 200 miles from the coastline.",
+                "Most offshore oil drilling occurs on the continental shelf.",
+                "Marine life is abundant on the shallow continental shelf."
+            ]
+        elif word == "radioactive":
+            return [
+                "The radioactive material requires special handling procedures.",
+                "Radioactive isotopes are used in medical imaging.",
+                "The area remains radioactive decades after the nuclear accident."
+            ]
+        elif word == "shoddy":
+            return [
+                "The shoddy construction led to structural problems.",
+                "Customers complained about the shoddy workmanship.",
+                "The company's reputation suffered due to shoddy products."
+            ]
+        elif word == "erode":
+            return [
+                "Ocean waves gradually erode the coastal cliffs.",
+                "Public trust in the institution began to erode.",
+                "Acid rain can erode stone monuments over time."
+            ]
+        elif word == "validate":
+            return [
+                "The experiment helped validate the scientific theory.",
+                "Please validate your parking ticket at the machine.",
+                "The data validates our original hypothesis."
+            ]
+        elif word == "tactics":
+            return [
+                "The general employed innovative military tactics.",
+                "Sales teams use various tactics to close deals.",
+                "The opposition criticized the government's tactics."
+            ]
+        elif word == "compelling":
+            return [
+                "The lawyer presented a compelling argument to the jury.",
+                "The novel was so compelling that I couldn't put it down.",
+                "There is no compelling reason to change the current system."
+            ]
+        elif word == "profusely":
+            return [
+                "He apologized profusely for his mistake.",
+                "The wound was bleeding profusely and needed immediate attention.",
+                "She thanked them profusely for their generous help."
+            ]
+        elif word == "cursory":
+            return [
+                "A cursory examination revealed several problems.",
+                "The report was based on only cursory research.",
+                "She gave the document a cursory glance before signing."
+            ]
+        elif word == "disperse":
+            return [
+                "Police used tear gas to disperse the protesters.",
+                "The seeds disperse naturally through wind and animals.",
+                "The crowd began to disperse after the concert ended."
+            ]
+        elif word == "overturn":
+            return [
+                "The strong winds could overturn small boats.",
+                "The appeals court decided to overturn the verdict.",
+                "Protesters attempted to overturn the parked cars."
+            ]
+        elif word == "degrade":
+            return [
+                "Plastic waste can degrade the marine environment.",
+                "The acid will degrade the metal over time.",
+                "His behavior degraded the reputation of the organization."
+            ]
+        elif word == "coexistence":
+            return [
+                "The treaty promoted peaceful coexistence between nations.",
+                "Coexistence of different species creates biodiversity.",
+                "The city demonstrates successful coexistence of cultures."
+            ]
+        elif word == "whirl":
+            return [
+                "The dancer began to whirl across the stage.",
+                "My mind was in a whirl trying to process the information.",
+                "The leaves whirl in the autumn wind."
+            ]
+        elif word == "proprietor":
+            return [
+                "The proprietor of the restaurant greeted customers personally.",
+                "Each business proprietor must register with local authorities.",
+                "The hotel proprietor invested in major renovations."
+            ]
+        elif word == "discerning":
+            return [
+                "Discerning customers appreciate the quality difference.",
+                "She has a discerning eye for authentic artwork.",
+                "The wine critic is known for his discerning palate."
+            ]
+        elif word == "masonry":
+            return [
+                "The earthquake cracked the building's masonry.",
+                "He studied masonry at a vocational school.",
+                "The castle's masonry has stood for centuries."
+            ]
+        elif word == "jolt":
+            return [
+                "The train jolted when it hit the brakes suddenly.",
+                "The news gave her an emotional jolt.",
+                "The earthquake produced a violent jolt that woke everyone."
+            ]
+        elif word == "supper":
+            return [
+                "The family gathers for supper every evening at six.",
+                "After a long day, she prepared a simple supper.",
+                "The Last Supper is a famous biblical scene."
+            ]
+        elif word == "mole":
+            return [
+                "The dermatologist examined the suspicious mole.",
+                "The mole tunneled through the garden underground.",
+                "The ancient mole protected the harbor from storms."
+            ]
+        elif word == "strive":
+            return [
+                "She continues to strive for excellence in her work.",
+                "We must strive to protect the environment.",
+                "The team strives to achieve their ambitious goals."
+            ]
+        elif word == "dispatch":
+            return [
+                "The company will dispatch emergency crews immediately.",
+                "The general dispatched troops to the border.",
+                "Please dispatch this package to the customer today."
+            ]
+        elif word == "discourse":
+            return [
+                "The professor engaged in scholarly discourse with colleagues.",
+                "Political discourse has become increasingly polarized.",
+                "The book provides a discourse on modern philosophy."
+            ]
+        elif word == "prose":
+            return [
+                "She prefers writing prose to poetry.",
+                "The novel is written in beautiful, flowing prose.",
+                "His prose style is clear and accessible."
+            ]
+        elif word == "expertise":
+            return [
+                "Her expertise in marine biology is internationally recognized.",
+                "The company relies on outside expertise for complex projects.",
+                "His technical expertise proved invaluable to the team."
+            ]
+        elif word == "smash":
+            return [
+                "The baseball smashed through the window.",
+                "Her debut album was a smash hit worldwide.",
+                "The car smash blocked traffic for hours."
+            ]
+        elif word == "brand":
+            return [
+                "The company spent millions building their brand identity.",
+                "The cattle were branded with the ranch's mark.",
+                "He was branded as a troublemaker after the incident."
+            ]
+        elif word == "appraise":
+            return [
+                "The jeweler will appraise the diamond's value.",
+                "We need to appraise the situation before acting.",
+                "The art expert appraised the painting at $50,000."
+            ]
+        elif word == "upright":
+            return [
+                "Please keep the package upright during transport.",
+                "She is known as an upright and honest businesswoman.",
+                "The piano was moved carefully to keep it upright."
+            ]
+        elif word == "withdraw":
+            return [
+                "The troops began to withdraw from the occupied territory.",
+                "She decided to withdraw from the competition.",
+                "I need to withdraw some money from the ATM."
+            ]
+        elif word == "congregate":
+            return [
+                "Students congregate in the cafeteria during lunch.",
+                "Protesters began to congregate in the town square.",
+                "Birds congregate at the lake before migration."
+            ]
+        elif word == "allure":
+            return [
+                "The allure of fame attracted many young actors.",
+                "The city's cultural attractions allure tourists worldwide.",
+                "She was drawn to the allure of adventure travel."
+            ]
+        elif word == "equity":
+            return [
+                "The company promotes equity in hiring practices.",
+                "Home equity loans are secured by property value.",
+                "The judge ensured equity in the legal proceedings."
+            ]
+        elif word == "bristle":
+            return [
+                "The cat's fur began to bristle when it saw the dog.",
+                "He bristled at the criticism of his work.",
+                "The old paintbrush had stiff bristles."
+            ]
+        elif word == "fierce":
+            return [
+                "The fierce storm damaged many buildings.",
+                "She showed fierce determination to succeed.",
+                "The competition between the teams was fierce."
+            ]
+        elif word == "leverage":
+            return [
+                "The company used financial leverage to expand operations.",
+                "She leveraged her connections to get the job.",
+                "The crowbar provided leverage to move the heavy stone."
+            ]
+        elif word == "articulate":
+            return [
+                "She is able to articulate complex ideas clearly.",
+                "The spokesperson gave an articulate response to questions.",
+                "He has difficulty articulating his feelings."
+            ]
+        elif word == "cardiac":
+            return [
+                "The patient was rushed to the cardiac unit.",
+                "Regular exercise improves cardiac health.",
+                "The doctor specializes in cardiac surgery."
+            ]
+        elif word == "conspicuous":
+            return [
+                "His absence from the meeting was conspicuous.",
+                "The mansion was conspicuous among the modest homes.",
+                "She made a conspicuous effort to avoid controversy."
+            ]
+        elif word == "materialism":
+            return [
+                "The philosopher criticized modern materialism.",
+                "Materialism focuses on physical rather than spiritual values.",
+                "The rise of materialism concerns many religious leaders."
+            ]
+        elif word == "absolute":
+            return [
+                "The king held absolute power over his subjects.",
+                "There is no absolute proof of the theory.",
+                "The silence in the library was absolute."
+            ]
         else:
             return [
                 f"The word '{word}' appears frequently in academic texts.",
@@ -1443,6 +2087,92 @@ class EnhancedAnkiProcessor:
             return """語源：イタリア語「cascata」（落ちる）<br>「cascare（落ちる）+ -ata（過去分詞）」<br>「case（落ちる）」と語根が関連し「段々に落ちる」"""
         elif word == "authoritarian":
             return """語源：ラテン語「auctoritas」（権威）<br>「auctor（創始者・著者）+ -itarian（〜主義の）」<br>「author」「authority」と語根が同じ"""
+        elif word == "mercy":
+            return """語源：ラテン語「merces」（報酬・恩恵）<br>「merx（商品・取引）+ -ia（状態）」<br>「merchant」「commerce」と語根が関連"""
+        elif word == "savory":
+            return """語源：ラテン語「sapor」（味・風味）<br>「sapere（味わう・知る）+ -ory（〜の性質）」<br>「sapient」「insipid」と語根が同じ"""
+        elif word == "continental shelf":
+            return """語源：「continental（大陸の）+ shelf（棚）」<br>「continent（大陸）」はラテン語「continere（つながる）」<br>「shelf」は古英語「scylfe」（板・棚）から"""
+        elif word == "radioactive":
+            return """語源：「radio（放射）+ active（活発な）」<br>「radius（半径）」から「放射状に広がる」<br>キュリー夫妻の研究で確立された近代科学用語"""
+        elif word == "shoddy":
+            return """語源：19世紀英語「shoddy」（再生羊毛）<br>Yorkshire方言で「質の悪い毛織物」<br>「安物」の意味は産業革命時代の粗悪品から"""
+        elif word == "erode":
+            return """語源：ラテン語「erodere」（齧って破壊する）<br>「e-（外に）+ rodere（齧る）」<br>「rodent（齧歯類）」と語根が同じ"""
+        elif word == "validate":
+            return """語源：ラテン語「validus」（強い・有効な）<br>「valere（強い・価値がある）+ -ate（動詞化）」<br>「value」「valor」と語根が同じ"""
+        elif word == "tactics":
+            return """語源：ギリシャ語「taktikos」（配置の）<br>「tassein（配置する）+ -ikos（〜の性質）」<br>軍事用語から一般的戦略用語へ発展"""
+        elif word == "compelling":
+            return """語源：ラテン語「compellere」（無理に〜させる）<br>「com-（一緒に）+ pellere（押す・追いやる）」<br>「compel」「propel」と語根が同じ"""
+        elif word == "profusely":
+            return """語源：ラテン語「profusus」（大量に注がれた）<br>「pro-（前に）+ fundere（注ぐ）」<br>「confuse」「refuse」と語根が関連"""
+        elif word == "cursory":
+            return """語源：ラテン語「cursorius」（走るような）<br>「currere（走る）+ -ory（〜の性質）」<br>「current」「occur」と語根が同じ"""
+        elif word == "disperse":
+            return """語源：ラテン語「dispersus」（散らされた）<br>「dis-（離れて）+ spargere（撒く）」<br>「sparse」「aspersion」と語根が関連"""
+        elif word == "overturn":
+            return """語源：「over（上に・超えて）+ turn（回す）」<br>中世英語の複合語<br>「ひっくり返す」から「覆す・無効にする」へ意味拡張"""
+        elif word == "degrade":
+            return """語源：ラテン語「degradare」（階級を下げる）<br>「de-（下に）+ gradus（段階・階級）」<br>「grade」「graduate」と語根が同じ"""
+        elif word == "coexistence":
+            return """語源：「co-（共に）+ existence（存在）」<br>「exist」はラテン語「existere（立ち現れる）」<br>20世紀の政治・生物学用語として確立"""
+        elif word == "whirl":
+            return """語源：中世英語「whirlen」（回転する）<br>古ノルド語「hvirfla」（回る）から<br>擬音語的語根で「ぐるぐる回る音」"""
+        elif word == "proprietor":
+            return """語源：ラテン語「proprietarius」（私有財産の）<br>「proprius（自分の）+ -tor（〜する人）」<br>「property」「appropriate」と語根が同じ"""
+        elif word == "discerning":
+            return """語源：ラテン語「discernere」（区別する）<br>「dis-（離して）+ cernere（選別する）」<br>「concern」「certain」と語根が関連"""
+        elif word == "masonry":
+            return """語源：古フランス語「maçonnerie」（石工術）<br>「maçon（石工）+ -ery（技術・場所）」<br>中世ギルド制度から建築技術用語へ"""
+        elif word == "jolt":
+            return """語源：16世紀英語「jolt」（突然の衝撃）<br>「jot（急に動く）」の強調形<br>物理的衝撃から心理的ショックへ意味拡張"""
+        elif word == "supper":
+            return """語源：古フランス語「souper」（夕食する）<br>「soup（スープ）+ -er（動詞化）」<br>「sup（夕食をとる）」と関連"""
+        elif word == "mole":
+            return """語源：中世英語「molle」（モグラ）<br>ゲルマン語系の古い語<br>「潜む・隠れる」の共通概念で多義語化"""
+        elif word == "strive":
+            return """語源：古フランス語「estriver」（争う）<br>ラテン語「striare（線を引く・締め付ける）」<br>「strict」「stress」と語根が関連"""
+        elif word == "dispatch":
+            return """語源：イタリア語「dispaccio」（速報）<br>「dis-（離れて）+ -patch（速度）」<br>「patch（修正）」と関連し「急速処理」"""
+        elif word == "discourse":
+            return """語源：ラテン語「discursus」（駆け回る・議論）<br>「dis-（離れて）+ currere（走る）」<br>「current」「occur」と語根が同じ"""
+        elif word == "prose":
+            return """語源：ラテン語「prosa」（まっすぐな）<br>「prorsus（前に向かって）+ -a（女性形）」<br>「詩」と対比して「直接的な文章」"""
+        elif word == "expertise":
+            return """語源：フランス語「expertise」（専門知識）<br>「expert（専門家）+ -ise（動作・状態）」<br>「experience」「experiment」と語根が関連"""
+        elif word == "smash":
+            return """語源：16世紀英語「smash」（粉砕）<br>「smack（打つ）+ mash（潰す）」の合成語<br>擬音語的要素を含む現代語"""
+        elif word == "brand":
+            return """語源：古英語「brand」（燃える木・剣）<br>ゲルマン語「brennan（燃やす）」から<br>「焼印」→「商標」へ意味発展"""
+        elif word == "appraise":
+            return """語源：古フランス語「aprisier」（価格をつける）<br>「a-（〜に）+ price（価格）+ -ise（動詞化）」<br>「praise（称賞）」とは語源が異なる"""
+        elif word == "upright":
+            return """語源：「up（上に）+ right（正しい・まっすぐ）」<br>中世英語の複合語<br>物理的な「直立」から道徳的な「正直」へ"""
+        elif word == "withdraw":
+            return """語源：「with-（反対に）+ draw（引く）」<br>中世英語の複合語<br>「引き寄せる」の反対で「引き離す」"""
+        elif word == "congregate":
+            return """語源：ラテン語「congregare」（群れにする）<br>「con-（一緒に）+ grex（群れ）」<br>「aggregate」「segregate」と語根が同じ"""
+        elif word == "allure":
+            return """語源：古フランス語「aleurer」（鷹を呼び戻す）<br>「ad-（〜に）+ lure（誘い）」<br>「lure（誘惑）」と同じ語根"""
+        elif word == "equity":
+            return """語源：ラテン語「aequitas」（平等・公正）<br>「aequus（等しい）+ -itas（状態）」<br>「equal」「adequate」と語根が同じ"""
+        elif word == "bristle":
+            return """語源：中世英語「bristel」（剛毛）<br>古英語「byrst（剛毛）」から<br>「burst（破裂）」と語根が関連し「突き出る毛」"""
+        elif word == "fierce":
+            return """語源：古フランス語「fiers」（誇り高い・野性的）<br>ラテン語「ferus（野生の）」から<br>「feral（野生の）」と語根が同じ"""
+        elif word == "leverage":
+            return """語源：「lever（てこ）+ -age（動作・結果）」<br>「lever」はフランス語「levier（持ち上げる道具）」<br>「levitate」「elevate」と語根が関連"""
+        elif word == "articulate":
+            return """語源：ラテン語「articulatus」（関節のある）<br>「articulus（関節・小さな部分）+ -ate（動詞化）」<br>「article」「artifact」と語根が同じ"""
+        elif word == "cardiac":
+            return """語源：ギリシャ語「kardiakos」（心臓の）<br>「kardia（心臓）+ -akos（〜の性質）」<br>「cardiology」「electrocardiogram」と同じ語根"""
+        elif word == "conspicuous":
+            return """語源：ラテン語「conspicuus」（目に見える）<br>「con-（完全に）+ spicere（見る）」<br>「inspect」「suspect」と語根が同じ"""
+        elif word == "materialism":
+            return """語源：ラテン語「materia」（物質）<br>「mater（母・素材）+ -ism（主義）」<br>「matter」「material」と語根が同じ"""
+        elif word == "absolute":
+            return """語源：ラテン語「absolutus」（解放された・完全な）<br>「ab-（離れて）+ solvere（解く）」<br>「solve」「dissolve」と語根が同じ"""
         else:
             return f"""語源：{word}の詳細な語源分析<br>関連語との繋がりで記憶を強化<br>TOEFL頻出語として重要度高"""
     
@@ -1629,12 +2359,12 @@ if __name__ == "__main__":
     processor = EnhancedAnkiProcessor()
     
     # テスト実行
-    input_file = "../data/input/toefl3800__rank3.txt"
-    output_tsv = "../data/output/claude-code/enhanced_deck_v2.tsv"
-    output_css = "../data/output/claude-code/card_template.css"
+    input_file = "/home/user/.pg/development-projects/anki-deck-generator/data/input/toefl3800__rank3.txt"
+    output_tsv = "/home/user/.pg/development-projects/anki-deck-generator/data/output/claude-code/enhanced_deck_v2.tsv"
+    output_css = "/home/user/.pg/development-projects/anki-deck-generator/data/output/claude-code/card_template.css"
     
     # 改良版TSV生成
-    processor.generate_enhanced_tsv(input_file, output_tsv, limit=60)
+    processor.generate_enhanced_tsv(input_file, output_tsv, limit=500)
     
     # CSS テンプレート生成
     processor.generate_css_template(output_css)
