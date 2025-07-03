@@ -165,6 +165,182 @@ class EnhancedAnkiProcessor:
             return "忠告する、警告する、戒める"
         elif word == "loquacious":
             return "おしゃべりの、話好きの、雄弁な"
+        elif word == "built-in":
+            return "作り付けの、組み込み式の、内蔵の"
+        elif word == "strand":
+            return "立ち往生させる、座礁させる、要素、糸"
+        elif word == "conviction":
+            return "確信、有罪判決、信念"
+        elif word == "transplant":
+            return "移植、移植する、移し替える"
+        elif word == "liaison":
+            return "連絡、仲介、密通、調整役"
+        elif word == "stern":
+            return "厳しい、船尾、厳格な"
+        elif word == "impede":
+            return "妨げる、阻害する、遅らせる"
+        elif word == "peripheral":
+            return "周辺の、末梢の、重要でない"
+        elif word == "falcon":
+            return "ハヤブサ、鷹"
+        elif word == "alloy":
+            return "合金、混合物、合金にする"
+        elif word == "stroll":
+            return "散歩、ぶらぶら歩く、散策"
+        elif word == "refute":
+            return "反駁する、論破する、否定する"
+        elif word == "intestine":
+            return "腸、内臓、国内の"
+        elif word == "terminology":
+            return "専門用語、術語、用語法"
+        elif word == "singular":
+            return "単数の、独特の、異常な"
+        elif word == "expire":
+            return "期限切れになる、息を引き取る、満了する"
+        elif word == "monotonous":
+            return "単調な、退屈な、変化のない"
+        elif word == "ingenious":
+            return "独創的な、巧妙な、器用な"
+        elif word == "replenish":
+            return "補充する、補給する、再び満たす"
+        elif word == "matrix":
+            return "基盤、母体、行列、型"
+        elif word == "coach":
+            return "コーチ、指導者、馬車、指導する"
+        elif word == "kidney":
+            return "腎臓、性質、種類"
+        elif word == "succinct":
+            return "簡潔な、要約した、端的な"
+        elif word == "poach":
+            return "密猟する、ゆでる、盗む"
+        elif word == "conviction":
+            return "確信、信念、有罪判決"
+        elif word == "transplant":
+            return "移植、移植する、移住させる"
+        elif word == "amity":
+            return "友好、親善、友情"
+        elif word == "astronomical":
+            return "膨大な、天文学の、法外な"
+        elif word == "attrition":
+            return "摩耗、消耗、自然減"
+        elif word == "platypus":
+            return "カモノハシ"
+        elif word == "diffuse":
+            return "散らす、拡散する、散漫な"
+        elif word == "intrinsically":
+            return "本質的に、内在的に"
+        elif word == "attest":
+            return "証明する、立証する、証言する"
+        elif word == "sanitation":
+            return "衛生設備、公衆衛生、環境整備"
+        elif word == "fiscal":
+            return "財政の、会計の、国庫の"
+        elif word == "markedly":
+            return "著しく、際だって、明らかに"
+        elif word == "expose":
+            return "さらす、暴露する、露出させる"
+        elif word == "overtime":
+            return "時間外労働、超過勤務、延長戦"
+        elif word == "pasture":
+            return "牧草地、牧場、放牧する"
+        elif word == "plaintiff":
+            return "原告、告訴人、申立人"
+        elif word == "prescribe":
+            return "処方する、指示する、規定する"
+        elif word == "ail":
+            return "患う、苦しめる、悩ます"
+        elif word == "posture":
+            return "姿勢、態度、状況"
+        elif word == "verdict":
+            return "評決、判決、判断"
+        elif word == "magnitude":
+            return "大きさ、重要性、震度"
+        elif word == "devoid":
+            return "欠いている、ない、空の"
+        elif word == "celebrated":
+            return "有名な、著名な、祝賀される"
+        elif word == "paralysis":
+            return "麻痺、停滞、無力化"
+        elif word == "reputed":
+            return "評判の、噂される、推定の"
+        elif word == "residue":
+            return "残り、残留物、残渣"
+        elif word == "remit":
+            return "送金する、送る、許す"
+        elif word == "fathom":
+            return "理解する、測る、尋（水深の単位）"
+        elif word == "surge":
+            return "波のように押し寄せる、急増、うねり"
+        elif word == "conductive":
+            return "伝導性の、導電性の"
+        elif word == "chuckle":
+            return "くすくす笑い、含み笑い"
+        elif word == "sprinkle":
+            return "まく、振りかける、小雨"
+        elif word == "domain":
+            return "領域、分野、ドメイン"
+        elif word == "unfold":
+            return "開く、広げる、展開する"
+        elif word == "solemn":
+            return "荘厳な、厳粛な、真剣な"
+        elif word == "transitory":
+            return "はかない、一時的な、過渡の"
+        elif word == "liaison":
+            return "連絡、連携、リエゾン"
+        elif word == "stern":
+            return "厳格な、厳しい、船尾"
+        elif word == "impede":
+            return "妨げる、阻害する、邪魔する"
+        elif word == "peripheral":
+            return "周辺の、末梢の、重要でない"
+        elif word == "falcon":
+            return "ハヤブサ、鷹"
+        elif word == "alloy":
+            return "合金、混合物、混ぜる"
+        elif word == "stroll":
+            return "ぶらつく、散歩する、のんびり歩く"
+        elif word == "refute":
+            return "反駁する、論破する、否定する"
+        elif word == "intestine":
+            return "腸、内臓"
+        elif word == "terminology":
+            return "専門用語、術語、用語体系"
+        elif word == "singular":
+            return "まれな、非凡な、単数の"
+        elif word == "expire":
+            return "失効する、期限切れになる、息を引き取る"
+        elif word == "monotonous":
+            return "単調な、変化のない、退屈な"
+        elif word == "ingenious":
+            return "独創的な、巧妙な、器用な"
+        elif word == "replenish":
+            return "補充する、補給する、再び満たす"
+        elif word == "matrix":
+            return "基盤、母体、行列、型"
+        elif word == "coach":
+            return "コーチ、指導者、馬車、指導する"
+        elif word == "kidney":
+            return "腎臓、性質、種類"
+        elif word == "succinct":
+            return "簡潔な、要約した、端的な"
+        elif word == "poach":
+            return "密猟する、ゆでる、盗む"
+        elif word == "collapse":
+            return "崩壊、倒壊、破綻、倒れる"
+        elif word == "inscribe":
+            return "刻む、記す、内接する"
+        elif word == "hectic":
+            return "てんやわんやの、慌ただしい、混乱した"
+        elif word == "suppress":
+            return "抑える、抑圧する、隠す"
+        elif word == "tentative":
+            return "仮の、試験的な、不確かな"
+        elif word == "archipelago":
+            return "群島、諸島、多島海"
+        elif word == "cascade":
+            return "滝のように流れる、連鎖的に起こる、段々滝"
+        elif word == "authoritarian":
+            return "権威主義の、独裁的な、専制的な"
         else:
             return f"{word}（高品質定義生成中）"
     
@@ -458,6 +634,534 @@ class EnhancedAnkiProcessor:
                 "She became more loquacious after a few drinks.",
                 "His loquacious nature made him popular at parties."
             ]
+        elif word == "built-in":
+            return [
+                "The kitchen has built-in appliances to save space.",
+                "Smartphones have built-in cameras and GPS systems.",
+                "The software includes built-in security features."
+            ]
+        elif word == "strand":
+            return [
+                "The ship was stranded on the rocky shore.",
+                "Each strand of DNA contains genetic information.",
+                "Bad weather stranded passengers at the airport."
+            ]
+        elif word == "conviction":
+            return [
+                "She spoke with conviction about environmental protection.",
+                "His conviction for fraud resulted in five years in prison.",
+                "The evidence led to the conviction of the suspect."
+            ]
+        elif word == "transplant":
+            return [
+                "The patient received a heart transplant last month.",
+                "We need to transplant these seedlings to larger pots.",
+                "The family transplanted from rural to urban areas."
+            ]
+        elif word == "liaison":
+            return [
+                "She serves as liaison between the departments.",
+                "The military liaison coordinated the joint operation.",
+                "Their secret liaison was discovered by the media."
+            ]
+        elif word == "stern":
+            return [
+                "The stern teacher demanded absolute silence.",
+                "The captain stood at the stern of the ship.",
+                "His stern expression showed his displeasure."
+            ]
+        elif word == "impede":
+            return [
+                "Heavy snow will impede traffic on the highways.",
+                "Budget constraints impede the project's progress.",
+                "Nothing should impede your pursuit of education."
+            ]
+        elif word == "peripheral":
+            return [
+                "The peripheral vision detected movement to the side.",
+                "Cost reduction is peripheral to our main objective.",
+                "Connect the peripheral devices to the computer."
+            ]
+        elif word == "falcon":
+            return [
+                "The falcon swooped down to catch its prey.",
+                "Peregrine falcons are the fastest birds in the world.",
+                "Ancient Egyptians worshipped the falcon-headed god Horus."
+            ]
+        elif word == "alloy":
+            return [
+                "Steel is an alloy of iron and carbon.",
+                "The jewelry was made from a gold alloy.",
+                "This alloy combines strength with light weight."
+            ]
+        elif word == "stroll":
+            return [
+                "They took a leisurely stroll through the park.",
+                "Evening strolls help reduce stress after work.",
+                "The couple strolled along the beach at sunset."
+            ]
+        elif word == "refute":
+            return [
+                "The scientist refuted the earlier research findings.",
+                "She refuted all accusations with solid evidence.",
+                "The data clearly refutes this common misconception."
+            ]
+        elif word == "intestine":
+            return [
+                "The small intestine absorbs nutrients from food.",
+                "Intestinal bacteria play a crucial role in digestion.",
+                "The surgery repaired damage to his large intestine."
+            ]
+        elif word == "terminology":
+            return [
+                "Medical terminology can be difficult for laypeople.",
+                "Legal terminology requires precise understanding.",
+                "The professor explained the scientific terminology clearly."
+            ]
+        elif word == "singular":
+            return [
+                "The word 'child' is singular, 'children' is plural.",
+                "She showed singular dedication to her research.",
+                "This was a singular achievement in space exploration."
+            ]
+        elif word == "expire":
+            return [
+                "My passport will expire next month.",
+                "The contract expires at the end of this year.",
+                "The patient expired peacefully in his sleep."
+            ]
+        elif word == "monotonous":
+            return [
+                "The monotonous work made her feel drowsy.",
+                "His monotonous voice put the audience to sleep.",
+                "The monotonous landscape stretched for miles."
+            ]
+        elif word == "ingenious":
+            return [
+                "The ingenious design saved both space and money.",
+                "She found an ingenious solution to the problem.",
+                "The ingenious inventor held over fifty patents."
+            ]
+        elif word == "replenish":
+            return [
+                "Please replenish the water supply before leaving.",
+                "The forest needs time to replenish after the fire.",
+                "Exercise helps replenish energy and improve mood."
+            ]
+        elif word == "matrix":
+            return [
+                "The data was organized in a mathematical matrix.",
+                "The cultural matrix shapes our worldview.",
+                "Cells grow within a supportive matrix of proteins."
+            ]
+        elif word == "coach":
+            return [
+                "The basketball coach motivated his team to victory.",
+                "She hired a life coach to improve her career.",
+                "The luxury coach transported tourists across Europe."
+            ]
+        elif word == "kidney":
+            return [
+                "The kidney filters waste from the bloodstream.",
+                "He donated a kidney to save his sister's life.",
+                "Kidney stones can cause severe pain."
+            ]
+        elif word == "succinct":
+            return [
+                "Give me a succinct summary of the report.",
+                "Her succinct presentation impressed the board.",
+                "The manual provides succinct instructions for assembly."
+            ]
+        elif word == "poach":
+            return [
+                "Poachers illegally hunt endangered elephants for ivory.",
+                "She learned to poach eggs for breakfast.",
+                "The company tried to poach employees from competitors."
+            ]
+        elif word == "conviction":
+            return [
+                "Her strong conviction about social justice motivated her activism.",
+                "The jury reached a conviction after deliberating for three hours.",
+                "He spoke with such conviction that everyone believed him."
+            ]
+        elif word == "transplant":
+            return [
+                "The patient needs a heart transplant to survive.",
+                "We decided to transplant the rose bushes to a sunnier location.",
+                "Many families transplant from rural areas to urban centers."
+            ]
+        elif word == "amity":
+            return [
+                "The peace treaty established amity between the two nations.",
+                "Their long-standing amity survived many political disagreements.",
+                "The diplomatic summit aimed to restore amity in the region."
+            ]
+        elif word == "astronomical":
+            return [
+                "The cost of the space program reached astronomical proportions.",
+                "Astronomical observations have revealed distant galaxies.",
+                "The CEO's salary was astronomical compared to average workers."
+            ]
+        elif word == "attrition":
+            return [
+                "The company suffered high employee attrition this year.",
+                "Constant rain caused attrition of the mountain slopes.",
+                "The war of attrition gradually weakened both armies."
+            ]
+        elif word == "platypus":
+            return [
+                "The platypus is one of the few mammals that lay eggs.",
+                "Scientists were puzzled when they first discovered the platypus.",
+                "The platypus uses electroreception to hunt underwater."
+            ]
+        elif word == "diffuse":
+            return [
+                "The lighting system diffuses light evenly throughout the room.",
+                "Her argument was too diffuse to make a clear point.",
+                "The fragrance began to diffuse across the entire garden."
+            ]
+        elif word == "intrinsically":
+            return [
+                "Humans are intrinsically social creatures who need community.",
+                "The material is intrinsically waterproof without any coating.",
+                "This problem is intrinsically difficult to solve."
+            ]
+        elif word == "attest":
+            return [
+                "Multiple witnesses can attest to his whereabouts that evening.",
+                "The certificate attests to her professional qualifications.",
+                "Archaeological evidence attests to ancient civilization here."
+            ]
+        elif word == "sanitation":
+            return [
+                "Poor sanitation in the refugee camp led to disease outbreaks.",
+                "The restaurant failed its sanitation inspection last month.",
+                "Modern sanitation systems have dramatically improved public health."
+            ]
+        elif word == "fiscal":
+            return [
+                "The government announced new fiscal policies to boost the economy.",
+                "The company's fiscal year ends in December.",
+                "Fiscal responsibility requires careful budget management."
+            ]
+        elif word == "markedly":
+            return [
+                "Her performance improved markedly after the coaching sessions.",
+                "The temperature dropped markedly as we climbed higher.",
+                "His attitude changed markedly after the promotion."
+            ]
+        elif word == "expose":
+            return [
+                "The investigation will expose corruption in the government.",
+                "Don't expose your skin to direct sunlight for too long.",
+                "The documentary exposed the harsh realities of factory farming."
+            ]
+        elif word == "overtime":
+            return [
+                "She worked overtime to finish the project before the deadline.",
+                "The football game went into overtime after a tied score.",
+                "Overtime pay is calculated at time-and-a-half rates."
+            ]
+        elif word == "pasture":
+            return [
+                "The cattle graze peacefully in the green pasture.",
+                "The farmer rotates his livestock between different pastures.",
+                "This land provides excellent pasture for dairy cows."
+            ]
+        elif word == "plaintiff":
+            return [
+                "The plaintiff filed a lawsuit seeking monetary damages.",
+                "The judge ruled in favor of the plaintiff's claims.",
+                "As the plaintiff, she must present evidence to support her case."
+            ]
+        elif word == "prescribe":
+            return [
+                "The doctor will prescribe antibiotics for your infection.",
+                "The law prescribes harsh penalties for tax evasion.",
+                "The manual prescribes specific procedures for equipment maintenance."
+            ]
+        elif word == "ail":
+            return [
+                "What ailment does this patient suffer from?",
+                "Economic problems continue to ail the struggling nation.",
+                "The mysterious disease began to ail residents of the valley."
+            ]
+        elif word == "posture":
+            return [
+                "Maintaining good posture while working prevents back pain.",
+                "The country adopted an aggressive posture toward its neighbors.",
+                "Her confident posture reflected her strong leadership skills."
+            ]
+        elif word == "verdict":
+            return [
+                "The jury delivered a guilty verdict after three days of deliberation.",
+                "Critics gave a positive verdict on the new restaurant.",
+                "The scientific community awaits the verdict on this controversial theory."
+            ]
+        elif word == "magnitude":
+            return [
+                "Scientists measured the earthquake's magnitude at 7.2.",
+                "The magnitude of the environmental crisis requires immediate action.",
+                "She underestimated the magnitude of the challenge ahead."
+            ]
+        elif word == "devoid":
+            return [
+                "The desert landscape appeared devoid of any life.",
+                "His speech was devoid of emotion or passion.",
+                "The abandoned building stood devoid of furniture or decoration."
+            ]
+        elif word == "celebrated":
+            return [
+                "The celebrated author won numerous literary awards.",
+                "This restaurant is celebrated for its innovative cuisine.",
+                "The celebrated pianist performed to a sold-out audience."
+            ]
+        elif word == "paralysis":
+            return [
+                "The accident left him with permanent paralysis in his legs.",
+                "Political paralysis prevented the government from acting decisively.",
+                "Fear of failure can cause paralysis in decision-making."
+            ]
+        elif word == "reputed":
+            return [
+                "He is reputed to be one of the best surgeons in the country.",
+                "The restaurant is reputed for its authentic Italian cuisine.",
+                "This wine region is reputed to produce exceptional vintages."
+            ]
+        elif word == "residue":
+            return [
+                "Chemical residue from the factory contaminated the river.",
+                "After burning, only a small residue of ash remained.",
+                "The cleaning solution left no residue on the glass surface."
+            ]
+        elif word == "remit":
+            return [
+                "Please remit payment within 30 days of receiving the invoice.",
+                "The company will remit taxes to the government quarterly.",
+                "The judge decided to remit the defendant's prison sentence."
+            ]
+        elif word == "fathom":
+            return [
+                "Scientists cannot fathom the mysteries of the deep ocean.",
+                "It's hard to fathom how quickly technology has advanced.",
+                "The shipwreck lies 20 fathoms below the surface."
+            ]
+        elif word == "surge":
+            return [
+                "A surge of excitement swept through the crowd.",
+                "The hospital prepared for a surge in patient admissions.",
+                "Ocean surges damaged coastal properties during the storm."
+            ]
+        elif word == "conductive":
+            return [
+                "Copper is highly conductive to electricity.",
+                "The material's conductive properties make it ideal for electronics.",
+                "Heat-conductive metals transfer thermal energy efficiently."
+            ]
+        elif word == "chuckle":
+            return [
+                "His joke made everyone chuckle softly.",
+                "She gave a quiet chuckle at the amusing story.",
+                "The grandfather's chuckle filled the room with warmth."
+            ]
+        elif word == "sprinkle":
+            return [
+                "Sprinkle some salt on the vegetables before cooking.",
+                "A light sprinkle of rain refreshed the garden.",
+                "The baker will sprinkle powdered sugar on top."
+            ]
+        elif word == "domain":
+            return [
+                "Artificial intelligence is expanding into every domain of life.",
+                "The professor is an expert in the domain of molecular biology.",
+                "The company registered a new domain name for their website."
+            ]
+        elif word == "unfold":
+            return [
+                "The mystery began to unfold as more evidence emerged.",
+                "Please unfold the map so we can see the entire route.",
+                "Historical events unfold differently in various cultures."
+            ]
+        elif word == "solemn":
+            return [
+                "The judge spoke in a solemn voice during sentencing.",
+                "They held a solemn ceremony to honor the fallen soldiers.",
+                "His solemn expression revealed the gravity of the situation."
+            ]
+        elif word == "transitory":
+            return [
+                "Youth is transitory, but wisdom lasts forever.",
+                "The company's success proved to be merely transitory.",
+                "Economic booms are often transitory phenomena."
+            ]
+        elif word == "liaison":
+            return [
+                "She serves as liaison between the departments.",
+                "The military liaison coordinated the joint operation.",
+                "Their secret liaison was discovered by the media."
+            ]
+        elif word == "stern":
+            return [
+                "The stern teacher demanded absolute silence.",
+                "The captain stood at the stern of the ship.",
+                "His stern expression showed his displeasure."
+            ]
+        elif word == "impede":
+            return [
+                "Heavy snow will impede traffic on the highways.",
+                "Budget constraints impede the project's progress.",
+                "Nothing should impede your pursuit of education."
+            ]
+        elif word == "peripheral":
+            return [
+                "The peripheral vision detected movement to the side.",
+                "Cost reduction is peripheral to our main objective.",
+                "Connect the peripheral devices to the computer."
+            ]
+        elif word == "falcon":
+            return [
+                "The falcon soared majestically above the mountains.",
+                "Medieval nobility practiced falcon hunting as a sport.",
+                "The peregrine falcon is the fastest bird in the world."
+            ]
+        elif word == "alloy":
+            return [
+                "Steel is an alloy of iron and carbon.",
+                "The jewelry was made from a gold alloy.",
+                "Engineers alloy different metals to improve strength."
+            ]
+        elif word == "stroll":
+            return [
+                "They took a leisurely stroll through the park.",
+                "Evening strolls help reduce stress and improve mood.",
+                "The couple enjoyed their romantic stroll along the beach."
+            ]
+        elif word == "refute":
+            return [
+                "The scientist provided evidence to refute the theory.",
+                "No one could refute her logical argument.",
+                "The defense attorney tried to refute the prosecution's claims."
+            ]
+        elif word == "intestine":
+            return [
+                "The small intestine absorbs nutrients from food.",
+                "Intestinal bacteria play a crucial role in digestion.",
+                "The doctor examined the patient's intestine using endoscopy."
+            ]
+        elif word == "terminology":
+            return [
+                "Medical terminology can be confusing for patients.",
+                "Each field has its own specialized terminology.",
+                "Students must master legal terminology before practice."
+            ]
+        elif word == "singular":
+            return [
+                "His singular talent made him stand out from others.",
+                "The artist's work displays a singular vision.",
+                "In English, 'child' is the singular form of 'children'."
+            ]
+        elif word == "expire":
+            return [
+                "Your passport will expire next month.",
+                "The medication expired two years ago.",
+                "The contract expires at the end of this year."
+            ]
+        elif word == "monotonous":
+            return [
+                "The monotonous sound of rain helped him fall asleep.",
+                "Factory work can become monotonous without variety.",
+                "Her monotonous voice made the lecture unbearable."
+            ]
+        elif word == "ingenious":
+            return [
+                "The engineer designed an ingenious solution to the problem.",
+                "Her ingenious plan saved the company millions of dollars.",
+                "The ingenious device simplifies complex calculations."
+            ]
+        elif word == "replenish":
+            return [
+                "Please replenish the water supply before leaving.",
+                "The forest needs time to replenish after the fire.",
+                "Exercise helps replenish energy and improve mood."
+            ]
+        elif word == "matrix":
+            return [
+                "The data was organized in a mathematical matrix.",
+                "The cultural matrix shapes our worldview.",
+                "Cells grow within a supportive matrix of proteins."
+            ]
+        elif word == "coach":
+            return [
+                "The basketball coach motivated his team to victory.",
+                "She hired a life coach to improve her career.",
+                "The luxury coach transported tourists across Europe."
+            ]
+        elif word == "kidney":
+            return [
+                "The kidney filters waste from the bloodstream.",
+                "He donated a kidney to save his sister's life.",
+                "Kidney stones can cause severe pain."
+            ]
+        elif word == "succinct":
+            return [
+                "Give me a succinct summary of the report.",
+                "Her succinct presentation impressed the board.",
+                "The manual provides succinct instructions for assembly."
+            ]
+        elif word == "poach":
+            return [
+                "Poachers illegally hunt endangered elephants for ivory.",
+                "She learned to poach eggs for breakfast.",
+                "The company tried to poach employees from competitors."
+            ]
+        elif word == "collapse":
+            return [
+                "The old building could collapse at any moment.",
+                "The economic collapse devastated the entire region.",
+                "She collapsed from exhaustion after the marathon."
+            ]
+        elif word == "inscribe":
+            return [
+                "The artist will inscribe your name on the sculpture.",
+                "Ancient texts were inscribed on stone tablets.",
+                "Please inscribe a dedication in the book."
+            ]
+        elif word == "hectic":
+            return [
+                "The holiday season is always hectic for retail workers.",
+                "After a hectic day at work, she needed to relax.",
+                "The hectic pace of modern life can be overwhelming."
+            ]
+        elif word == "suppress":
+            return [
+                "The government tried to suppress the protest movement.",
+                "She had to suppress her anger during the meeting.",
+                "Medications can suppress immune system responses."
+            ]
+        elif word == "tentative":
+            return [
+                "We made tentative plans to meet next week.",
+                "The results are still tentative pending further analysis.",
+                "She gave a tentative smile, unsure of the situation."
+            ]
+        elif word == "archipelago":
+            return [
+                "The Philippines is an archipelago of over 7,000 islands.",
+                "The Greek archipelago attracts millions of tourists annually.",
+                "Climate change threatens many low-lying archipelago nations."
+            ]
+        elif word == "cascade":
+            return [
+                "The mountain cascade created a beautiful natural pool.",
+                "A cascade of events led to the company's downfall.",
+                "The waterfall cascaded down the rocky cliff face."
+            ]
+        elif word == "authoritarian":
+            return [
+                "The authoritarian government restricted freedom of speech.",
+                "His authoritarian leadership style alienated many employees.",
+                "Citizens protested against the authoritarian regime."
+            ]
         else:
             return [
                 f"The word '{word}' appears frequently in academic texts.",
@@ -563,6 +1267,182 @@ class EnhancedAnkiProcessor:
             return """語源：ラテン語「admonere」（思い出させる・警告する）<br>「ad-（〜に向かって）+ monere（警告する）」<br>「monitor（監視する）」「monument（記念碑）」と同じ語根"""
         elif word == "loquacious":
             return """語源：ラテン語「loquax」（おしゃべりな）<br>「loqui（話す）+ -acious（〜の性質が強い）」<br>「eloquent（雄弁な）」「colloquial（口語の）」と同じ語根"""
+        elif word == "built-in":
+            return """語源：「build（建てる）+ in（中に）」の複合語<br>20世紀の工業化とともに生まれた現代語<br>「組み込み式」の概念は近代技術の発展と共に"""
+        elif word == "strand":
+            return """語源：古英語「strand」（岸・浜辺）<br>「岸に打ち上げられる」→「立ち往生する」<br>「糸の束」の意味は「より合わせる」から発展"""
+        elif word == "conviction":
+            return """語源：ラテン語「convincere」（完全に勝つ・確信させる）<br>「con-（完全に）+ vincere（勝つ）」<br>「convince（説得する）」と同じ語根"""
+        elif word == "transplant":
+            return """語源：ラテン語「trans-（越えて）+ plantare（植える）」<br>「別の場所に植え替える」が基本意味<br>医学的「移植」は20世紀の用法"""
+        elif word == "liaison":
+            return """語源：フランス語「lier」（結ぶ・つなぐ）<br>「li（結ぶ）+ -aison（行為・状態）」<br>「ally（同盟）」「reliable（信頼できる）」と語根が関連"""
+        elif word == "stern":
+            return """語源：古英語「steorn」（厳格な）<br>船の「船尾」の意味は「操舵の重要部分」から<br>「star（星）」と語源が関連し「固定・安定」の概念"""
+        elif word == "impede":
+            return """語源：ラテン語「impedire」（足かせをはめる）<br>「in-（中に）+ pes（足）」<br>「足に障害物を置く」→「妨げる」"""
+        elif word == "peripheral":
+            return """語源：ギリシャ語「periphereia」（周囲）<br>「peri-（周り）+ pherein（運ぶ・持つ）」<br>「perimeter（周囲）」と同じ語根"""
+        elif word == "falcon":
+            return """語源：古フランス語「faucon」<br>ゲルマン語「falko」（鷹）から<br>中世の鷹狩り文化とともに英語に借用"""
+        elif word == "alloy":
+            return """語源：古フランス語「aloyer」（混合する）<br>「ad-（〜に）+ ligare（結ぶ）」<br>「ally（同盟）」と語源が関連し「結合」の概念"""
+        elif word == "stroll":
+            return """語源：ドイツ語「strollen」（さまよう）<br>17世紀に英語に借用<br>「のんびり歩く」の概念は近世ヨーロッパの都市文化から"""
+        elif word == "refute":
+            return """語源：ラテン語「refutare」（押し返す・論破する）<br>「re-（戻す）+ -futare（打つ）」<br>「論理で打ち返す」→「反駁する」"""
+        elif word == "intestine":
+            return """語源：ラテン語「intestinus」（内部の）<br>「intus（内側）+ -inus（〜の性質）」<br>「internal（内部の）」と同じ語根"""
+        elif word == "terminology":
+            return """語源：ラテン語「terminus」（境界・用語）+ ギリシャ語「-logia」（学問）<br>「用語の学問」→「専門用語」<br>18世紀の学術発展とともに確立"""
+        elif word == "singular":
+            return """語源：ラテン語「singularis」（一つの）<br>「singulus（一つずつ）+ -aris（〜の性質）」<br>「single（単一の）」と同じ語根"""
+        elif word == "expire":
+            return """語源：ラテン語「expirare」（息を吐き出す）<br>「ex-（外に）+ spirare（息する）」<br>「息が尽きる」→「期限切れ」「死ぬ」"""
+        elif word == "monotonous":
+            return """語源：ギリシャ語「monotonos」（一つの調子）<br>「mono-（一つ）+ tonos（調子・音）」<br>「tone（音調）」と同じ語根"""
+        elif word == "ingenious":
+            return """語源：ラテン語「ingeniosus」（天賦の才のある）<br>「in-（中に）+ gignere（生む）」<br>「内に生まれた才能」→「独創的な」"""
+        elif word == "replenish":
+            return """語源：古フランス語「replenir」（再び満たす）<br>「re-（再び）+ plenir（満たす）」<br>「plenty（豊富）」「complete（完全な）」と語根が関連"""
+        elif word == "matrix":
+            return """語源：ラテン語「matrix」（子宮・母体）<br>「mater（母）+ -ix（〜する女性）」<br>「生み出すもの」→「基盤・型」"""
+        elif word == "coach":
+            return """語源：ハンガリーの町「Kocs」<br>16世紀にコーチ式馬車が開発された地名<br>「指導者」の意味は「目標へ運ぶ人」から"""
+        elif word == "kidney":
+            return """語源：中世英語「kidnei」<br>「kid（子供）+ nei（腎臓）」<br>「子供の腎臓」のような形から命名"""
+        elif word == "succinct":
+            return """語源：ラテン語「succinctus」（帯で締めた）<br>「sub-（下に）+ cingere（帯で締める）」<br>「きっちり締めた」→「簡潔な」"""
+        elif word == "poach":
+            return """語源：古フランス語「pocher」（袋に入れる）<br>密猟の意味は「こっそり袋に入れる」から<br>料理の「ゆでる」は袋状に卵白が固まることから"""
+        elif word == "conviction":
+            return """語源：ラテン語「convincere」（完全に征服する）<br>「con-（完全に）+ vincere（征服する）」<br>「完全に納得させる」→「確信」「有罪判決」"""
+        elif word == "transplant":
+            return """語源：ラテン語「transplantare」<br>「trans-（向こうに）+ plantare（植える）」<br>「別の場所に植え替える」から現代医学の「移植」へ"""
+        elif word == "amity":
+            return """語源：ラテン語「amitas」（友愛）<br>「amare（愛する）+ -itas（状態）」<br>「friend」「amiable」と語根が同じ"""
+        elif word == "astronomical":
+            return """語源：ギリシャ語「astronomia」（星の法則）<br>「astro-（星）+ -nomia（法則・学問）」<br>「天文学的に大きい」は宇宙の広大さから"""
+        elif word == "attrition":
+            return """語源：ラテン語「attritio」（摩擦による摩耗）<br>「ad-（〜に対して）+ terere（こする）」<br>「トライべーション」と語根が関連"""
+        elif word == "platypus":
+            return """語源：ギリシャ語「platypous」（平らな足）<br>「platy-（平らな）+ pous（足）」<br>水かきのある平たい足の特徴から命名"""
+        elif word == "diffuse":
+            return """語源：ラテン語「diffusus」（広がった）<br>「dis-（離れて）+ fundere（注ぐ）」<br>「liquid」が「流れ広がる」イメージ"""
+        elif word == "intrinsically":
+            return """語源：ラテン語「intrinsecus」（内側から）<br>「intra-（内部）+ secus（〜に従って）」<br>「外部の影響によらず内在的に」"""
+        elif word == "attest":
+            return """語源：ラテン語「attestari」（証言する）<br>「ad-（〜に向かって）+ testari（証言する）」<br>「testament」「testimony」と同じ語根"""
+        elif word == "sanitation":
+            return """語源：ラテン語「sanitas」（健康）<br>「sanus（健康な）+ -ation（動作・状態）」<br>「sanity」「sane」と語根が同じ"""
+        elif word == "fiscal":
+            return """語源：ラテン語「fiscalis」（国庫の）<br>「fiscus（国庫・籠）+ -alis（〜の性質）」<br>古代ローマの税収を籠に入れていたことから"""
+        elif word == "markedly":
+            return """語源：古英語「mearc」（境界・印）<br>「mark（印）+ -ed（〜された）+ -ly（副詞）」<br>「目立つ印がついた」→「著しく」"""
+        elif word == "expose":
+            return """語源：ラテン語「exponere」（外に置く）<br>「ex-（外に）+ ponere（置く）」<br>「position」「compose」と語根が同じ"""
+        elif word == "overtime":
+            return """語源：「over（超えて）+ time（時間）」<br>19世紀の産業革命時代に労働用語として確立<br>「規定時間を超えた労働」"""
+        elif word == "pasture":
+            return """語源：ラテン語「pastura」（牧草地）<br>「pascere（食べる・牧する）+ -ura（場所）」<br>「pastoral」と語根が同じ"""
+        elif word == "plaintiff":
+            return """語源：古フランス語「plaintif」（訴える人）<br>「plaindre（嘆く・訴える）+ -tif（〜する人）」<br>「complain」「complaint」と語根が関連"""
+        elif word == "prescribe":
+            return """語源：ラテン語「praescribere」（前もって書く）<br>「prae-（前に）+ scribere（書く）」<br>「description」「script」と語根が同じ"""
+        elif word == "ail":
+            return """語源：古英語「eglan」（悩ます・困らせる）<br>ゲルマン語系の古い語<br>「illness」とは語源が異なるが意味は関連"""
+        elif word == "posture":
+            return """語源：ラテン語「positura」（位置・姿勢）<br>「ponere（置く）+ -tura（状態）」<br>「position」「pose」と語根が同じ"""
+        elif word == "verdict":
+            return """語源：ラテン語「veredictum」（真実を語ること）<br>「vere（真に）+ dictum（語られたもの）」<br>「verity（真実）」「diction」と語根が関連"""
+        elif word == "magnitude":
+            return """語源：ラテン語「magnitudo」（大きさ）<br>「magnus（大きい）+ -tudo（状態）」<br>「magnify」「magnificent」と語根が同じ"""
+        elif word == "devoid":
+            return """語源：古フランス語「desvoidier」（空にする）<br>「des-（離れて）+ voidier（空にする）」<br>「void（空虚）」「avoid」と語根が関連"""
+        elif word == "celebrated":
+            return """語源：ラテン語「celebratus」（有名にされた）<br>「celeber（有名な）+ -atus（〜された）」<br>「celebrity」「celebration」と語根が同じ"""
+        elif word == "paralysis":
+            return """語源：ギリシャ語「paralysis」（麻痺）<br>「para-（横に・異常に）+ lysis（解放・解体）」<br>「analyze」「paralyze」と語根が関連"""
+        elif word == "reputed":
+            return """語源：ラテン語「reputatus」（考慮された）<br>「re-（再び）+ putare（考える）」<br>「reputation」「compute」と語根が同じ"""
+        elif word == "residue":
+            return """語源：ラテン語「residuum」（残ったもの）<br>「re-（後に）+ sidere（座る・留まる）」<br>「resident」「reside」と語根が同じ"""
+        elif word == "remit":
+            return """語源：ラテン語「remittere」（送り返す）<br>「re-（戻って）+ mittere（送る）」<br>「transmit」「submit」と語根が同じ"""
+        elif word == "fathom":
+            return """語源：古英語「fæthm」（両腕を広げた長さ）<br>船乗りが水深を測る際の単位<br>「理解する」は「深さを測る」から発展"""
+        elif word == "surge":
+            return """語源：ラテン語「surgere」（立ち上がる）<br>「sub-（下から）+ regere（導く）」<br>「insurgent」「resurrection」と語根が関連"""
+        elif word == "conductive":
+            return """語源：ラテン語「conducere」（一緒に導く）<br>「con-（一緒に）+ ducere（導く）」<br>「conduct」「conductor」と同じ語根"""
+        elif word == "chuckle":
+            return """語源：中世英語「chukken」（クッと音を立てる）<br>擬音語由来の単語<br>「chuck（投げる）」とは語源が異なる"""
+        elif word == "sprinkle":
+            return """語源：中世英語「sprenklen」（散らす）<br>「spread（広げる）」と語根が関連<br>水をパラパラと散らすイメージ"""
+        elif word == "domain":
+            return """語源：ラテン語「dominium」（支配権）<br>「dominus（主人）+ -ium（場所・状態）」<br>「dominate」「domestic」と語根が同じ"""
+        elif word == "unfold":
+            return """語源：「un-（逆に）+ fold（折る）」<br>「折られたものを開く」→「展開する」<br>古英語「unfaldan」から"""
+        elif word == "solemn":
+            return """語源：ラテン語「sollemnis」（年中行事の）<br>「sollus（全体の）+ annus（年）」<br>宗教的な年中行事から「厳粛な」意味へ"""
+        elif word == "transitory":
+            return """語源：ラテン語「transitorius」（通り過ぎる）<br>「trans-（向こうに）+ ire（行く）」<br>「transit」「transition」と語根が同じ"""
+        elif word == "liaison":
+            return """語源：フランス語「liaison」（結びつき）<br>「lier（結ぶ）+ -aison（動作・状態）」<br>「ligament」「obligation」と語根が関連"""
+        elif word == "stern":
+            return """語源：古英語「stearn」（厳格な）<br>船尾の意味は「船の後ろを固定する部分」から<br>「star（星）」とは語源が異なる"""
+        elif word == "impede":
+            return """語源：ラテン語「impedire」（足を縛る）<br>「in-（中に）+ pes（足）」<br>「pedestrian」「expedition」と語根が同じ"""
+        elif word == "peripheral":
+            return """語源：ギリシャ語「periphereia」（周囲）<br>「peri-（周り）+ pherein（運ぶ・持つ）」<br>「perimeter（周囲）」と同じ語根"""
+        elif word == "falcon":
+            return """語源：古フランス語「faucon」<br>ゲルマン語「falko」（鷹）から<br>中世の鷹狩り文化とともに英語に借用"""
+        elif word == "alloy":
+            return """語源：古フランス語「aloyer」（混合する）<br>「ad-（〜に）+ ligare（結ぶ）」<br>「ally（同盟）」と語源が関連し「結合」の概念"""
+        elif word == "stroll":
+            return """語源：ドイツ語「strollen」（さまよう）<br>17世紀に英語に借用<br>「のんびり歩く」の概念は近世ヨーロッパの都市文化から"""
+        elif word == "refute":
+            return """語源：ラテン語「refutare」（押し返す・論破する）<br>「re-（戻す）+ -futare（打つ）」<br>「論理で打ち返す」→「反駁する」"""
+        elif word == "intestine":
+            return """語源：ラテン語「intestinus」（内部の）<br>「intus（内側）+ -inus（〜の性質）」<br>「internal（内部の）」と同じ語根"""
+        elif word == "terminology":
+            return """語源：ラテン語「terminus」（境界・用語）+ ギリシャ語「-logia」（学問）<br>「用語の学問」→「専門用語」<br>18世紀の学術発展とともに確立"""
+        elif word == "singular":
+            return """語源：ラテン語「singularis」（一つの）<br>「singulus（一つずつ）+ -aris（〜の性質）」<br>「single（単一の）」と同じ語根"""
+        elif word == "expire":
+            return """語源：ラテン語「expirare」（息を吐き出す）<br>「ex-（外に）+ spirare（息する）」<br>「息が尽きる」→「期限切れ」「死ぬ」"""
+        elif word == "monotonous":
+            return """語源：ギリシャ語「monotonos」（一つの調子）<br>「mono-（一つ）+ tonos（調子・音）」<br>「tone（音調）」と同じ語根"""
+        elif word == "ingenious":
+            return """語源：ラテン語「ingeniosus」（天賦の才のある）<br>「in-（中に）+ gignere（生む）」<br>「内に生まれた才能」→「独創的な」"""
+        elif word == "replenish":
+            return """語源：古フランス語「replenir」（再び満たす）<br>「re-（再び）+ plenir（満たす）」<br>「plenty（豊富）」「complete（完全な）」と語根が関連"""
+        elif word == "matrix":
+            return """語源：ラテン語「matrix」（子宮・母体）<br>「mater（母）+ -ix（〜する女性）」<br>「生み出すもの」→「基盤・型」"""
+        elif word == "coach":
+            return """語源：ハンガリーの町「Kocs」<br>16世紀にコーチ式馬車が開発された地名<br>「指導者」の意味は「目標へ運ぶ人」から"""
+        elif word == "kidney":
+            return """語源：中世英語「kidnei」<br>「kid（子供）+ nei（腎臓）」<br>「子供の腎臓」のような形から命名"""
+        elif word == "succinct":
+            return """語源：ラテン語「succinctus」（帯で締めた）<br>「sub-（下に）+ cingere（帯で締める）」<br>「きっちり締めた」→「簡潔な」"""
+        elif word == "poach":
+            return """語源：古フランス語「pocher」（袋に入れる）<br>密猟の意味は「こっそり袋に入れる」から<br>料理の「ゆでる」は袋状に卵白が固まることから"""
+        elif word == "collapse":
+            return """語源：ラテン語「collapsus」（共に倒れる）<br>「con-（一緒に）+ labi（滑る・倒れる）」<br>「lapse（経過）」「relapse（再発）」と語根が同じ"""
+        elif word == "inscribe":
+            return """語源：ラテン語「inscribere」（中に書く）<br>「in-（中に）+ scribere（書く）」<br>「describe」「prescribe」と語根が同じ"""
+        elif word == "hectic":
+            return """語源：ギリシャ語「hektikos」（習慣的な・継続的な）<br>「hexis（習慣・状態）+ -tikos（〜の性質）」<br>医学用語から「慌ただしい」意味に発展"""
+        elif word == "suppress":
+            return """語源：ラテン語「suppressus」（下に押さえつける）<br>「sub-（下に）+ premere（押す）」<br>「press」「compress」と語根が同じ"""
+        elif word == "tentative":
+            return """語源：ラテン語「tentativus」（試みの）<br>「tentare（試す・触る）+ -ive（〜の性質）」<br>「attempt」「tempt」と語根が関連"""
+        elif word == "archipelago":
+            return """語源：イタリア語「arcipelago」（主要な海）<br>「archi-（主要な）+ pelago（海）」<br>元はエーゲ海を指す地理用語"""
+        elif word == "cascade":
+            return """語源：イタリア語「cascata」（落ちる）<br>「cascare（落ちる）+ -ata（過去分詞）」<br>「case（落ちる）」と語根が関連し「段々に落ちる」"""
+        elif word == "authoritarian":
+            return """語源：ラテン語「auctoritas」（権威）<br>「auctor（創始者・著者）+ -itarian（〜主義の）」<br>「author」「authority」と語根が同じ"""
         else:
             return f"""語源：{word}の詳細な語源分析<br>関連語との繋がりで記憶を強化<br>TOEFL頻出語として重要度高"""
     
@@ -754,7 +1634,7 @@ if __name__ == "__main__":
     output_css = "../data/output/claude-code/card_template.css"
     
     # 改良版TSV生成
-    processor.generate_enhanced_tsv(input_file, output_tsv, limit=40)
+    processor.generate_enhanced_tsv(input_file, output_tsv, limit=60)
     
     # CSS テンプレート生成
     processor.generate_css_template(output_css)
