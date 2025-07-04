@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+config/token.pickle
+config/credentials.json
+*.log
+
+# Large output files (keep structure, ignore content)
+output/anki/*.json
+output/*.json
+input/screenshots/*.png
+
+# Keep important files
+!output/anki/cc_anki_perfect.tsv
+!output/anki/perfect_quality_report.md
+!output/anki/anki_template_setup.md
+!README.md
