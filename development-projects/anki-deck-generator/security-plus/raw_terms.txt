@@ -1,0 +1,110 @@
+Security+ 用語集（原文）
+
+暗号化（Encryption）: データを読み取り不可能な形式に変換するプロセス
+復号化（Decryption）: 暗号化されたデータを元の読み取り可能な形式に戻すプロセス
+ハッシュ関数（Hash Function）: 任意の長さの入力データを固定長の出力に変換する数学的関数
+デジタル署名（Digital Signature）: メッセージの真正性と完全性を証明するための暗号学的仕組み
+PKI（Public Key Infrastructure）: 公開鍵暗号方式を利用した認証基盤
+SSL/TLS: インターネット上でデータを安全に送信するためのプロトコル
+VPN（Virtual Private Network）: インターネット上に仮想的な専用回線を構築する技術
+ファイアウォール（Firewall）: ネットワークトラフィックを監視し、不正アクセスを防ぐセキュリティシステム
+IDS（Intrusion Detection System）: 不正侵入を検知するシステム
+IPS（Intrusion Prevention System）: 不正侵入を検知し、自動的に防御するシステム
+認証（Authentication）: ユーザーが主張するアイデンティティを確認するプロセス
+認可（Authorization）: 認証されたユーザーに対して特定のリソースへのアクセス権限を与えるプロセス
+アカウンタビリティ（Accountability）: ユーザーの行動を追跡・記録し、責任を明確にすること
+多要素認証（Multi-Factor Authentication, MFA）: 複数の認証要素を組み合わせた認証方式
+シングルサインオン（Single Sign-On, SSO）: 一度の認証で複数のシステムにアクセスできる仕組み
+LDAP（Lightweight Directory Access Protocol）: ディレクトリサービスにアクセスするためのプロトコル
+RBAC（Role-Based Access Control）: 役割に基づいてアクセス権限を管理する手法
+ACL（Access Control List）: リソースへのアクセス権限を定義したリスト
+CIA トライアド: 機密性（Confidentiality）、完全性（Integrity）、可用性（Availability）の3つの要素
+リスクアセスメント（Risk Assessment）: 組織が直面するリスクを特定・評価するプロセス
+脆弱性スキャン（Vulnerability Scanning）: システムやネットワークの脆弱性を自動的に検出する手法
+ペネトレーションテスト（Penetration Testing）: システムのセキュリティを評価するために実際に攻撃を試みるテスト
+ソーシャルエンジニアリング（Social Engineering）: 人間の心理を悪用して機密情報を入手する攻撃手法
+フィッシング（Phishing）: 偽装されたメールやウェブサイトを使って個人情報を盗む攻撃
+スピアフィッシング（Spear Phishing）: 特定の個人や組織を標的とした高度なフィッシング攻撃
+マルウェア（Malware）: コンピュータに害を与える悪意のあるソフトウェアの総称
+ランサムウェア（Ransomware）: データを暗号化して身代金を要求するマルウェア
+トロイの木馬（Trojan Horse）: 正当なソフトウェアに偽装した悪意のあるプログラム
+ルートキット（Rootkit）: システムの深部に隠れて不正な権限を維持するマルウェア
+ボットネット（Botnet）: 攻撃者によって制御される感染コンピュータのネットワーク
+DDoS攻撃（Distributed Denial of Service）: 複数のコンピュータから同時に行われるサービス妨害攻撃
+SQLインジェクション（SQL Injection）: データベースへの不正な操作を行う攻撃手法
+クロスサイトスクリプティング（Cross-Site Scripting, XSS）: ウェブサイトに悪意のあるスクリプトを埋め込む攻撃
+CSRF（Cross-Site Request Forgery）: ユーザーの意図しないリクエストを送信させる攻撃
+バッファオーバーフロー（Buffer Overflow）: プログラムのメモリ領域を超えてデータを書き込む攻撃
+特権昇格（Privilege Escalation）: 通常のユーザー権限から管理者権限へと昇格させる攻撃
+中間者攻撃（Man-in-the-Middle Attack）: 通信の途中で盗聴や改ざんを行う攻撃
+APT（Advanced Persistent Threat）: 長期間にわたって継続的に行われる高度な標的型攻撃
+ゼロデイ攻撃（Zero-Day Attack）: まだ対策が施されていない脆弱性を悪用した攻撃
+インシデント対応（Incident Response）: セキュリティインシデントが発生した際の対処プロセス
+災害復旧（Disaster Recovery）: 災害発生時にシステムやデータを復旧させる計画と手順
+事業継続計画（Business Continuity Planning, BCP）: 緊急事態においても事業を継続するための計画
+データ損失防止（Data Loss Prevention, DLP）: 機密データの漏洩を防ぐための技術と手法
+エンドポイントセキュリティ（Endpoint Security）: 個々のデバイス（エンドポイント）を保護するセキュリティ対策
+SIEM（Security Information and Event Management）: セキュリティ情報とイベントを統合管理するシステム
+SOC（Security Operations Center）: セキュリティ監視と対応を行う専門組織
+コンプライアンス（Compliance）: 法規制や業界標準に準拠すること
+GDPR（General Data Protection Regulation）: EU一般データ保護規則
+HIPAA（Health Insurance Portability and Accountability Act）: 米国の医療情報保護法
+PCI DSS（Payment Card Industry Data Security Standard）: クレジットカード業界のセキュリティ標準
+ISO 27001: 情報セキュリティマネジメントシステムの国際標準
+NIST フレームワーク: 米国国立標準技術研究所が策定したサイバーセキュリティフレームワーク
+ペンテスト（Penetration Testing）: システムのセキュリティを評価するために実際に攻撃を試みるテスト
+レッドチーム（Red Team）: 攻撃者の視点からセキュリティを評価するチーム
+ブルーチーム（Blue Team）: 防御者の視点からセキュリティを強化するチーム
+パープルチーム（Purple Team）: レッドチームとブルーチームが協力してセキュリティを向上させるアプローチ
+ハニーポット（Honeypot）: 攻撃者を誘き寄せて攻撃手法を分析するためのシステム
+サンドボックス（Sandbox）: 隔離された安全な環境でプログラムを実行する技術
+暗号化通信（Encrypted Communication）: データを暗号化して通信すること
+量子暗号（Quantum Cryptography）: 量子力学の原理を利用した暗号技術
+ブロックチェーン（Blockchain）: 分散台帳技術を利用したデータ管理手法
+IoTセキュリティ（Internet of Things Security）: インターネットに接続されたデバイスのセキュリティ
+クラウドセキュリティ（Cloud Security）: クラウドサービスにおけるセキュリティ対策
+DevSecOps: 開発、セキュリティ、運用を統合したアプローチ
+セキュリティバイデザイン（Security by Design）: 設計段階からセキュリティを考慮するアプローチ
+プライバシーバイデザイン（Privacy by Design）: 設計段階からプライバシーを考慮するアプローチ
+暗号アジリティ（Crypto Agility）: 暗号アルゴリズムを柔軟に変更できる能力
+ポストクォンタム暗号（Post-Quantum Cryptography）: 量子コンピュータに対して安全な暗号技術
+セキュリティオーケストレーション（Security Orchestration）: セキュリティツールと プロセスを自動化・統合すること
+SOAR（Security Orchestration, Automation and Response）: セキュリティの自動化と対応を統合するプラットフォーム
+脅威インテリジェンス（Threat Intelligence）: サイバー脅威に関する情報を収集・分析・活用すること
+CTI（Cyber Threat Intelligence）: サイバー脅威に関する戦略的な情報
+IOC（Indicators of Compromise）: システムが侵害されたことを示す証拠
+TTPs（Tactics, Techniques, and Procedures）: 攻撃者の戦術、技術、手順
+MITRE ATT&CK: 攻撃者の戦術と技術を体系化したフレームワーク
+キルチェーン（Kill Chain）: 攻撃者が目標を達成するまでの一連の段階
+ダイヤモンドモデル（Diamond Model）: インシデント分析のためのフレームワーク
+STIX/TAXII: 脅威インテリジェンスの共有と交換のための標準
+サイバーキルチェーン（Cyber Kill Chain）: サイバー攻撃のライフサイクルを表現したモデル
+セキュリティポスチャ（Security Posture）: 組織のセキュリティ対策の全体的な状況
+リスクレジスタ（Risk Register）: 組織が直面するリスクを記録・管理する文書
+セキュリティメトリクス（Security Metrics）: セキュリティの有効性を測定する指標
+KRI（Key Risk Indicators）: 主要リスク指標
+KPI（Key Performance Indicators）: 主要業績評価指標
+セキュリティガバナンス（Security Governance）: セキュリティに関する意思決定と監督の仕組み
+セキュリティポリシー（Security Policy）: 組織のセキュリティに関する方針と規則
+セキュリティプロシージャ（Security Procedures）: セキュリティポリシーを実行するための具体的な手順
+セキュリティ基準（Security Standards）: セキュリティ対策の技術的要件
+セキュリティガイドライン（Security Guidelines）: セキュリティ対策の推奨事項
+情報分類（Information Classification）: 情報の機密性に応じた分類
+データガバナンス（Data Governance）: データの管理・活用に関する方針と手順
+データプライバシー（Data Privacy）: 個人データの保護と適切な取り扱い
+プライバシー影響評価（Privacy Impact Assessment, PIA）: プライバシーへの影響を事前に評価すること
+データ保護影響評価（Data Protection Impact Assessment, DPIA）: データ保護への影響を事前に評価すること
+忘れられる権利（Right to be Forgotten）: 個人データの削除を求める権利
+データポータビリティ（Data Portability）: 個人データを他のサービスに移行できる権利
+データ最小化（Data Minimization）: 必要最小限の個人データのみを収集・処理すること
+目的制限（Purpose Limitation）: 収集目的以外での個人データの利用を制限すること
+データ保持（Data Retention）: データを保存する期間と方法
+セキュアデリート（Secure Delete）: データを完全に削除する技術
+データ匿名化（Data Anonymization）: 個人を特定できないようにデータを加工すること
+データ仮名化（Data Pseudonymization）: 個人を特定するデータを仮名に置き換えること
+差分プライバシー（Differential Privacy）: 統計的な分析結果を公開する際にプライバシーを保護する手法
+同形暗号（Homomorphic Encryption）: 暗号化されたデータに対して直接計算を行える暗号技術
+秘密計算（Secure Multi-party Computation）: 複数の当事者が秘密情報を共有せずに共同計算を行う技術
+ゼロ知識証明（Zero-Knowledge Proof）: 秘密情報を明かすことなく、その知識を持っていることを証明する技術
+フェデレーテッドラーニング（Federated Learning）: データを分散したまま機械学習を行う手法
+プライベート情報検索（Private Information Retrieval）: サーバーに検索内容を知られることなく情報を取得する技術

@@ -1,0 +1,31 @@
+Front	Back
+CIA	<b>CIA トライアド</b><br>正式名称: CIA トライアド<br>定義: 機密性（Confidentiality）、完全性（Integrity）、可用性（Availability）の3つの要素<br>実例: ユーザー権限管理、認証システム<br><small>カテゴリ: access_control</small>
+ACL	<b>Access Control List</b><br>正式名称: Access Control List<br>定義: リソースへのアクセス権限を定義したリスト<br>実例: ルーター設定、ファイルサーバーのアクセス権限<br><small>カテゴリ: access_control</small>
+PKI	<b>Public Key Infrastructure</b><br>正式名称: Public Key Infrastructure<br>定義: 公開鍵暗号方式を利用した認証基盤<br>実例: デジタル証明書の発行・管理、WebサーバーのSSL証明書<br><small>カテゴリ: cryptography</small>
+VPN	<b>Virtual Private Network</b><br>正式名称: Virtual Private Network<br>定義: インターネット上に仮想的な専用回線を構築する技術<br>実例: リモートワーク時の安全な企業ネットワーク接続<br><small>カテゴリ: network_security</small>
+MFA	<b>Multi-Factor Authentication</b><br>正式名称: Multi-Factor Authentication<br>定義: 複数の認証要素を組み合わせた認証方式<br>実例: 銀行ATM（カード＋PIN）、クラウドサービス（パスワード＋SMS）<br><small>カテゴリ: access_control</small>
+IDS	<b>Intrusion Detection System</b><br>正式名称: Intrusion Detection System<br>定義: 不正侵入を検知するシステム<br>実例: ネットワーク監視、不正侵入の検知・ログ記録<br><small>カテゴリ: network_security</small>
+IPS	<b>Intrusion Prevention System</b><br>正式名称: Intrusion Prevention System<br>定義: 不正侵入を検知し、自動的に防御するシステム<br>実例: ファイアウォール設定、トラフィック監視<br><small>カテゴリ: network_security</small>
+SIEM	<b>Security Information and Event Management</b><br>正式名称: Security Information and Event Management<br>定義: セキュリティ情報とイベントを統合管理するシステム<br>実例: セキュリティログの収集・分析・可視化プラットフォーム<br><small>カテゴリ: incident_response</small>
+DDoS	<b>Distributed Denial of Service</b><br>正式名称: Distributed Denial of Service<br>定義: 複数のコンピュータから同時に行われるサービス妨害攻撃<br>実例: ボットネットによる大量アクセスでサーバーダウン<br><small>カテゴリ: network_security</small>
+GDPR	<b>General Data Protection Regulation</b><br>正式名称: General Data Protection Regulation<br>定義: EU一般データ保護規則<br>実例: EU居住者の個人データ処理に関する同意取得・削除権<br><small>カテゴリ: risk_compliance</small>
+SSL/TLS	<b>Secure Sockets Layer / Transport Layer Security</b><br>正式名称: SSL/TLS<br>定義: インターネット上でデータを安全に送信するためのプロトコル<br>実例: 暗号化通信、データ保護、認証システム<br><small>カテゴリ: cryptography</small>
+SOC	<b>Security Operations Center</b><br>正式名称: Security Operations Center<br>定義: セキュリティ監視と対応を行う専門組織<br>実例: セキュリティインシデント対応手順<br><small>カテゴリ: incident_response</small>
+RBAC	<b>Role-Based Access Control</b><br>正式名称: Role-Based Access Control<br>定義: 役割に基づいてアクセス権限を管理する手法<br>実例: ユーザー権限管理、認証システム<br><small>カテゴリ: access_control</small>
+LDAP	<b>Lightweight Directory Access Protocol</b><br>正式名称: Lightweight Directory Access Protocol<br>定義: ディレクトリサービスにアクセスするためのプロトコル<br>実例: ユーザー権限管理、認証システム<br><small>カテゴリ: access_control</small>
+SSO	<b>Single Sign-On</b><br>正式名称: Single Sign-On<br>定義: 一度の認証で複数のシステムにアクセスできる仕組み<br>実例: ユーザー権限管理、認証システム<br><small>カテゴリ: access_control</small>
+APT	<b>Advanced Persistent Threat</b><br>正式名称: Advanced Persistent Threat<br>定義: 長期間にわたって継続的に行われる高度な標的型攻撃<br>実例: サイバー攻撃の手法、セキュリティ対策<br><small>カテゴリ: threats_attacks</small>
+XSS	<b>Cross-Site Scripting</b><br>正式名称: Cross-Site Scripting<br>定義: ウェブサイトに悪意のあるスクリプトを埋め込む攻撃<br>実例: サイバー攻撃の手法、セキュリティ対策<br><small>カテゴリ: threats_attacks</small>
+CSRF	<b>Cross-Site Request Forgery</b><br>正式名称: Cross-Site Request Forgery<br>定義: ユーザーの意図しないリクエストを送信させる攻撃<br>実例: サイバー攻撃の手法、セキュリティ対策<br><small>カテゴリ: threats_attacks</small>
+SQL Injection	<b>SQL インジェクション</b><br>正式名称: SQL Injection<br>定義: データベースへの不正な操作を行う攻撃手法<br>実例: サイバー攻撃の手法、セキュリティ対策<br><small>カテゴリ: threats_attacks</small>
+PCI DSS	<b>Payment Card Industry Data Security Standard</b><br>正式名称: Payment Card Industry Data Security Standard<br>定義: クレジットカード業界のセキュリティ標準<br>実例: 規制遵守、リスク管理プロセス<br><small>カテゴリ: risk_compliance</small>
+ISO 27001	<b>ISO 27001</b><br>正式名称: ISO 27001<br>定義: 情報セキュリティマネジメントシステムの国際標準<br>実例: 規制遵守、リスク管理プロセス<br><small>カテゴリ: risk_compliance</small>
+NIST	<b>NIST Framework</b><br>正式名称: NIST フレームワーク<br>定義: 米国国立標準技術研究所が策定したサイバーセキュリティフレームワーク<br>実例: 規制遵守、リスク管理プロセス<br><small>カテゴリ: risk_compliance</small>
+HIPAA	<b>Health Insurance Portability and Accountability Act</b><br>正式名称: Health Insurance Portability and Accountability Act<br>定義: 米国の医療情報保護法<br>実例: 規制遵守、リスク管理プロセス<br><small>カテゴリ: risk_compliance</small>
+DLP	<b>Data Loss Prevention</b><br>正式名称: Data Loss Prevention<br>定義: 機密データの漏洩を防ぐための技術と手法<br>実例: 個人情報保護、プライバシー対策<br><small>カテゴリ: data_privacy</small>
+BCP	<b>Business Continuity Planning</b><br>正式名称: Business Continuity Planning<br>定義: 緊急事態においても事業を継続するための計画<br>実例: セキュリティインシデント対応手順<br><small>カテゴリ: incident_response</small>
+SOAR	<b>Security Orchestration, Automation and Response</b><br>正式名称: Security Orchestration, Automation and Response<br>定義: セキュリティの自動化と対応を統合するプラットフォーム<br>実例: セキュリティインシデント対応手順<br><small>カテゴリ: incident_response</small>
+CTI	<b>Cyber Threat Intelligence</b><br>正式名称: Cyber Threat Intelligence<br>定義: サイバー脅威に関する戦略的な情報<br>実例: セキュリティインシデント対応手順<br><small>カテゴリ: incident_response</small>
+IOC	<b>Indicators of Compromise</b><br>正式名称: Indicators of Compromise<br>定義: システムが侵害されたことを示す証拠<br>実例: セキュリティインシデント対応手順<br><small>カテゴリ: incident_response</small>
+TTPs	<b>Tactics, Techniques, and Procedures</b><br>正式名称: Tactics, Techniques, and Procedures<br>定義: 攻撃者の戦術、技術、手順<br>実例: セキュリティインシデント対応手順<br><small>カテゴリ: incident_response</small>
+MITRE ATT&CK	<b>MITRE ATT&CK Framework</b><br>正式名称: MITRE ATT&CK<br>定義: 攻撃者の戦術と技術を体系化したフレームワーク<br>実例: セキュリティ関連技術・概念<br><small>カテゴリ: general</small>

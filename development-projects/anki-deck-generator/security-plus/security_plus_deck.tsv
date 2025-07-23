@@ -1,0 +1,109 @@
+Front	Japanese	English_Full	Definition	Practical_Example	Category	Priority
+CIA	CIA トライアド	CIA トライアド	機密性（Confidentiality）、完全性（Integrity）、可用性（Availability）の3つの要素	ユーザー権限管理、認証システム	access_control	high
+SSL	SSL/TLS	SSL/TLS	インターネット上でデータを安全に送信するためのプロトコル	暗号化通信、データ保護、認証システム	cryptography	high
+MITRE	MITRE ATT&CK	MITRE ATT&CK	攻撃者の戦術と技術を体系化したフレームワーク	セキュリティ関連技術・概念	general	high
+STIX	STIX/TAXII	STIX/TAXII	脅威インテリジェンスの共有と交換のための標準	セキュリティ関連技術・概念	general	high
+TTP	Tactics, Techniques, and Procedures	TTPs	攻撃者の戦術、技術、手順	セキュリティインシデント対応手順	incident_response	high
+DD	Distributed Denial of Service	DDoS攻撃	複数のコンピュータから同時に行われるサービス妨害攻撃	ファイアウォール設定、トラフィック監視	network_security	high
+ISO	ISO 27001	ISO 27001	情報セキュリティマネジメントシステムの国際標準	規制遵守、リスク管理プロセス	risk_compliance	high
+NIST	NIST フレームワーク	NIST フレームワーク	米国国立標準技術研究所が策定したサイバーセキュリティフレームワーク	規制遵守、リスク管理プロセス	risk_compliance	high
+PCI	Payment Card Industry Data Security Standard	PCI DSS	クレジットカード業界のセキュリティ標準	規制遵守、リスク管理プロセス	risk_compliance	high
+SQL	SQL Injection	SQLインジェクション	データベースへの不正な操作を行う攻撃手法	サイバー攻撃の手法、セキュリティ対策	threats_attacks	high
+ACL	Access Control List	ACL	リソースへのアクセス権限を定義したリスト	ルーター設定、ファイルサーバーのアクセス権限	access_control	medium
+LDAP	Lightweight Directory Access Protocol	LDAP	ディレクトリサービスにアクセスするためのプロトコル	ユーザー権限管理、認証システム	access_control	medium
+RBAC	Role-Based Access Control	RBAC	役割に基づいてアクセス権限を管理する手法	ユーザー権限管理、認証システム	access_control	medium
+アカウンタビリティ	Accountability	アカウンタビリティ	ユーザーの行動を追跡・記録し、責任を明確にすること	ユーザー権限管理、認証システム	access_control	medium
+シングルサインオン	Single Sign-On, SSO	シングルサインオン	一度の認証で複数のシステムにアクセスできる仕組み	ユーザー権限管理、認証システム	access_control	medium
+多要素認証	Multi-Factor Authentication, MFA	多要素認証	複数の認証要素を組み合わせた認証方式	ユーザー権限管理、認証システム	access_control	medium
+認可	Authorization	認可	認証されたユーザーに対して特定のリソースへのアクセス権限を与えるプロセス	ユーザー権限管理、認証システム	access_control	medium
+認証	Authentication	認証	ユーザーが主張するアイデンティティを確認するプロセス	ユーザー権限管理、認証システム	access_control	medium
+PKI	Public Key Infrastructure	PKI	公開鍵暗号方式を利用した認証基盤	デジタル証明書の発行・管理、WebサーバーのSSL証明書	cryptography	medium
+ゼロ知識証明	Zero-Knowledge Proof	ゼロ知識証明	秘密情報を明かすことなく、その知識を持っていることを証明する技術	暗号化通信、データ保護、認証システム	cryptography	medium
+デジタル署名	Digital Signature	デジタル署名	メッセージの真正性と完全性を証明するための暗号学的仕組み	暗号化通信、データ保護、認証システム	cryptography	medium
+ハッシュ関数	Hash Function	ハッシュ関数	任意の長さの入力データを固定長の出力に変換する数学的関数	暗号化通信、データ保護、認証システム	cryptography	medium
+ポストクォンタム暗号	Post-Quantum Cryptography	ポストクォンタム暗号	量子コンピュータに対して安全な暗号技術	暗号化通信、データ保護、認証システム	cryptography	medium
+同形暗号	Homomorphic Encryption	同形暗号	暗号化されたデータに対して直接計算を行える暗号技術	暗号化通信、データ保護、認証システム	cryptography	medium
+差分プライバシー	Differential Privacy	差分プライバシー	統計的な分析結果を公開する際にプライバシーを保護する手法	暗号化通信、データ保護、認証システム	cryptography	medium
+復号化	Decryption	復号化	暗号化されたデータを元の読み取り可能な形式に戻すプロセス	暗号化通信、データ保護、認証システム	cryptography	medium
+暗号アジリティ	Crypto Agility	暗号アジリティ	暗号アルゴリズムを柔軟に変更できる能力	暗号化通信、データ保護、認証システム	cryptography	medium
+暗号化	Encryption	暗号化	データを読み取り不可能な形式に変換するプロセス	暗号化通信、データ保護、認証システム	cryptography	medium
+暗号化通信	Encrypted Communication	暗号化通信	データを暗号化して通信すること	暗号化通信、データ保護、認証システム	cryptography	medium
+量子暗号	Quantum Cryptography	量子暗号	量子力学の原理を利用した暗号技術	暗号化通信、データ保護、認証システム	cryptography	medium
+データガバナンス	Data Governance	データガバナンス	データの管理・活用に関する方針と手順	個人情報保護、プライバシー対策	data_privacy	medium
+データプライバシー	Data Privacy	データプライバシー	個人データの保護と適切な取り扱い	個人情報保護、プライバシー対策	data_privacy	medium
+データポータビリティ	Data Portability	データポータビリティ	個人データを他のサービスに移行できる権利	個人情報保護、プライバシー対策	data_privacy	medium
+データ仮名化	Data Pseudonymization	データ仮名化	個人を特定するデータを仮名に置き換えること	個人情報保護、プライバシー対策	data_privacy	medium
+データ保護影響評価	Data Protection Impact Assessment, DPIA	データ保護影響評価	データ保護への影響を事前に評価すること	個人情報保護、プライバシー対策	data_privacy	medium
+データ匿名化	Data Anonymization	データ匿名化	個人を特定できないようにデータを加工すること	個人情報保護、プライバシー対策	data_privacy	medium
+データ損失防止	Data Loss Prevention, DLP	データ損失防止	機密データの漏洩を防ぐための技術と手法	個人情報保護、プライバシー対策	data_privacy	medium
+データ最小化	Data Minimization	データ最小化	必要最小限の個人データのみを収集・処理すること	個人情報保護、プライバシー対策	data_privacy	medium
+プライバシー影響評価	Privacy Impact Assessment, PIA	プライバシー影響評価	プライバシーへの影響を事前に評価すること	個人情報保護、プライバシー対策	data_privacy	medium
+忘れられる権利	Right to be Forgotten	忘れられる権利	個人データの削除を求める権利	個人情報保護、プライバシー対策	data_privacy	medium
+DevSecOps	DevSecOps	DevSecOps	開発、セキュリティ、運用を統合したアプローチ	最新技術、将来のセキュリティ	emerging_tech	medium
+クラウドセキュリティ	Cloud Security	クラウドセキュリティ	クラウドサービスにおけるセキュリティ対策	最新技術、将来のセキュリティ	emerging_tech	medium
+セキュリティバイデザイン	Security by Design	セキュリティバイデザイン	設計段階からセキュリティを考慮するアプローチ	最新技術、将来のセキュリティ	emerging_tech	medium
+フェデレーテッドラーニング	Federated Learning	フェデレーテッドラーニング	データを分散したまま機械学習を行う手法	最新技術、将来のセキュリティ	emerging_tech	medium
+プライベート情報検索	Private Information Retrieval	プライベート情報検索	サーバーに検索内容を知られることなく情報を取得する技術	最新技術、将来のセキュリティ	emerging_tech	medium
+秘密計算	Secure Multi-party Computation	秘密計算	複数の当事者が秘密情報を共有せずに共同計算を行う技術	最新技術、将来のセキュリティ	emerging_tech	medium
+エンドポイントセキュリティ	Endpoint Security	エンドポイントセキュリティ	個々のデバイス（エンドポイント）を保護するセキュリティ対策	セキュリティ関連技術・概念	general	medium
+キルチェーン	Kill Chain	キルチェーン	攻撃者が目標を達成するまでの一連の段階	セキュリティ関連技術・概念	general	medium
+サイバーキルチェーン	Cyber Kill Chain	サイバーキルチェーン	サイバー攻撃のライフサイクルを表現したモデル	セキュリティ関連技術・概念	general	medium
+セキュアデリート	Secure Delete	セキュアデリート	データを完全に削除する技術	セキュリティ関連技術・概念	general	medium
+セキュリティオーケストレーション	Security Orchestration	セキュリティオーケストレーション	セキュリティツールと プロセスを自動化・統合すること	セキュリティ関連技術・概念	general	medium
+セキュリティガイドライン	Security Guidelines	セキュリティガイドライン	セキュリティ対策の推奨事項	セキュリティ関連技術・概念	general	medium
+セキュリティプロシージャ	Security Procedures	セキュリティプロシージャ	セキュリティポリシーを実行するための具体的な手順	セキュリティ関連技術・概念	general	medium
+セキュリティポスチャ	Security Posture	セキュリティポスチャ	組織のセキュリティ対策の全体的な状況	セキュリティ関連技術・概念	general	medium
+セキュリティメトリクス	Security Metrics	セキュリティメトリクス	セキュリティの有効性を測定する指標	セキュリティ関連技術・概念	general	medium
+セキュリティ基準	Security Standards	セキュリティ基準	セキュリティ対策の技術的要件	セキュリティ関連技術・概念	general	medium
+ダイヤモンドモデル	Diamond Model	ダイヤモンドモデル	インシデント分析のためのフレームワーク	セキュリティ関連技術・概念	general	medium
+データ保持	Data Retention	データ保持	データを保存する期間と方法	セキュリティ関連技術・概念	general	medium
+ブロックチェーン	Blockchain	ブロックチェーン	分散台帳技術を利用したデータ管理手法	セキュリティ関連技術・概念	general	medium
+プライバシーバイデザイン	Privacy by Design	プライバシーバイデザイン	設計段階からプライバシーを考慮するアプローチ	セキュリティ関連技術・概念	general	medium
+ペンテスト	Penetration Testing	ペンテスト	システムのセキュリティを評価するために実際に攻撃を試みるテスト	セキュリティ関連技術・概念	general	medium
+情報分類	Information Classification	情報分類	情報の機密性に応じた分類	セキュリティ関連技術・概念	general	medium
+目的制限	Purpose Limitation	目的制限	収集目的以外での個人データの利用を制限すること	セキュリティ関連技術・概念	general	medium
+CTI	Cyber Threat Intelligence	CTI	サイバー脅威に関する戦略的な情報	セキュリティインシデント対応手順	incident_response	medium
+IOC	Indicators of Compromise	IOC	システムが侵害されたことを示す証拠	セキュリティインシデント対応手順	incident_response	medium
+SIEM	Security Information and Event Management	SIEM	セキュリティ情報とイベントを統合管理するシステム	セキュリティログの収集・分析・可視化プラットフォーム	incident_response	medium
+SOAR	Security Orchestration, Automation and Response	SOAR	セキュリティの自動化と対応を統合するプラットフォーム	セキュリティインシデント対応手順	incident_response	medium
+SOC	Security Operations Center	SOC	セキュリティ監視と対応を行う専門組織	セキュリティインシデント対応手順	incident_response	medium
+インシデント対応	Incident Response	インシデント対応	セキュリティインシデントが発生した際の対処プロセス	セキュリティインシデント対応手順	incident_response	medium
+事業継続計画	Business Continuity Planning, BCP	事業継続計画	緊急事態においても事業を継続するための計画	セキュリティインシデント対応手順	incident_response	medium
+災害復旧	Disaster Recovery	災害復旧	災害発生時にシステムやデータを復旧させる計画と手順	セキュリティインシデント対応手順	incident_response	medium
+脅威インテリジェンス	Threat Intelligence	脅威インテリジェンス	サイバー脅威に関する情報を収集・分析・活用すること	セキュリティインシデント対応手順	incident_response	medium
+IDS	Intrusion Detection System	IDS	不正侵入を検知するシステム	ネットワーク監視、不正侵入の検知・ログ記録	network_security	medium
+IPS	Intrusion Prevention System	IPS	不正侵入を検知し、自動的に防御するシステム	ファイアウォール設定、トラフィック監視	network_security	medium
+IoTセキュリティ	Internet of Things Security	IoTセキュリティ	インターネットに接続されたデバイスのセキュリティ	ファイアウォール設定、トラフィック監視	network_security	medium
+VPN	Virtual Private Network	VPN	インターネット上に仮想的な専用回線を構築する技術	リモートワーク時の安全な企業ネットワーク接続	network_security	medium
+ファイアウォール	Firewall	ファイアウォール	ネットワークトラフィックを監視し、不正アクセスを防ぐセキュリティシステム	ファイアウォール設定、トラフィック監視	network_security	medium
+中間者攻撃	Man-in-the-Middle Attack	中間者攻撃	通信の途中で盗聴や改ざんを行う攻撃	ファイアウォール設定、トラフィック監視	network_security	medium
+GDPR	General Data Protection Regulation	GDPR	EU一般データ保護規則	EU居住者の個人データ処理に関する同意取得・削除権	risk_compliance	medium
+HIPAA	Health Insurance Portability and Accountability Act	HIPAA	米国の医療情報保護法	規制遵守、リスク管理プロセス	risk_compliance	medium
+KPI	Key Performance Indicators	KPI	主要業績評価指標	規制遵守、リスク管理プロセス	risk_compliance	medium
+KRI	Key Risk Indicators	KRI	主要リスク指標	規制遵守、リスク管理プロセス	risk_compliance	medium
+コンプライアンス	Compliance	コンプライアンス	法規制や業界標準に準拠すること	規制遵守、リスク管理プロセス	risk_compliance	medium
+セキュリティガバナンス	Security Governance	セキュリティガバナンス	セキュリティに関する意思決定と監督の仕組み	規制遵守、リスク管理プロセス	risk_compliance	medium
+セキュリティポリシー	Security Policy	セキュリティポリシー	組織のセキュリティに関する方針と規則	規制遵守、リスク管理プロセス	risk_compliance	medium
+リスクアセスメント	Risk Assessment	リスクアセスメント	組織が直面するリスクを特定・評価するプロセス	規制遵守、リスク管理プロセス	risk_compliance	medium
+リスクレジスタ	Risk Register	リスクレジスタ	組織が直面するリスクを記録・管理する文書	規制遵守、リスク管理プロセス	risk_compliance	medium
+サンドボックス	Sandbox	サンドボックス	隔離された安全な環境でプログラムを実行する技術	セキュリティ評価、脆弱性検査	security_testing	medium
+ハニーポット	Honeypot	ハニーポット	攻撃者を誘き寄せて攻撃手法を分析するためのシステム	セキュリティ評価、脆弱性検査	security_testing	medium
+パープルチーム	Purple Team	パープルチーム	レッドチームとブルーチームが協力してセキュリティを向上させるアプローチ	セキュリティ評価、脆弱性検査	security_testing	medium
+ブルーチーム	Blue Team	ブルーチーム	防御者の視点からセキュリティを強化するチーム	セキュリティ評価、脆弱性検査	security_testing	medium
+ペネトレーションテスト	Penetration Testing	ペネトレーションテスト	システムのセキュリティを評価するために実際に攻撃を試みるテスト	セキュリティ評価、脆弱性検査	security_testing	medium
+レッドチーム	Red Team	レッドチーム	攻撃者の視点からセキュリティを評価するチーム	セキュリティ評価、脆弱性検査	security_testing	medium
+脆弱性スキャン	Vulnerability Scanning	脆弱性スキャン	システムやネットワークの脆弱性を自動的に検出する手法	セキュリティ評価、脆弱性検査	security_testing	medium
+APT	Advanced Persistent Threat	APT	長期間にわたって継続的に行われる高度な標的型攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+CSRF	Cross-Site Request Forgery	CSRF	ユーザーの意図しないリクエストを送信させる攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+クロスサイトスクリプティング	Cross-Site Scripting, XSS	クロスサイトスクリプティング	ウェブサイトに悪意のあるスクリプトを埋め込む攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+スピアフィッシング	Spear Phishing	スピアフィッシング	特定の個人や組織を標的とした高度なフィッシング攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+ゼロデイ攻撃	Zero-Day Attack	ゼロデイ攻撃	まだ対策が施されていない脆弱性を悪用した攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+ソーシャルエンジニアリング	Social Engineering	ソーシャルエンジニアリング	人間の心理を悪用して機密情報を入手する攻撃手法	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+トロイの木馬	Trojan Horse	トロイの木馬	正当なソフトウェアに偽装した悪意のあるプログラム	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+バッファオーバーフロー	Buffer Overflow	バッファオーバーフロー	プログラムのメモリ領域を超えてデータを書き込む攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+フィッシング	Phishing	フィッシング	偽装されたメールやウェブサイトを使って個人情報を盗む攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+ボットネット	Botnet	ボットネット	攻撃者によって制御される感染コンピュータのネットワーク	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+マルウェア	Malware	マルウェア	コンピュータに害を与える悪意のあるソフトウェアの総称	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+ランサムウェア	Ransomware	ランサムウェア	データを暗号化して身代金を要求するマルウェア	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+ルートキット	Rootkit	ルートキット	システムの深部に隠れて不正な権限を維持するマルウェア	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
+特権昇格	Privilege Escalation	特権昇格	通常のユーザー権限から管理者権限へと昇格させる攻撃	サイバー攻撃の手法、セキュリティ対策	threats_attacks	medium
